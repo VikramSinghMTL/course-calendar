@@ -5,347 +5,88 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>Course Calendar</title>
 		<script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.min.js"></script>
-		<style>
-			:root {
-				--table-radius: 0.5rem;
-				--accent-color: #414559;
-				/* --accent-color: #4d59a6; */
-			}
-
-			/* Override Moodle Styles */
-
-			.main-inner {
-				max-width: none !important;
-			}
-
-			#page.drawers {
-				padding-left: 0;
-				padding-right: 0;
-			}
-
-			/* My Styles */
-
-			.vik-table {
-				border-collapse: separate;
-				border-radius: var(--table-radius);
-				background-color: var(--accent-color);
-				width: 100%;
-				font-family: monospace;
-				font-size: 0.8rem;
-			}
-
-			.vik-table thead tr th:first-child {
-				border-top-left-radius: var(--table-radius);
-			}
-
-			.vik-table thead tr th:last-child {
-				border-top-right-radius: var(--table-radius);
-			}
-
-			.vik-table tr:last-child td:first-child {
-				/* border-bottom-left-radius: var(--table-radius); */
-			}
-
-			.vik-table tr:last-child td:last-child {
-				border-bottom-right-radius: var(--table-radius);
-			}
-
-			.vik-table thead {
-				font-size: 1rem;
-			}
-
-			.vik-table thead tr {
-				background-color: var(--accent-color);
-				color: #ffffff;
-				text-align: center;
-			}
-
-			.vik-table td {
-				padding: 10px 20px;
-			}
-
-			.vik-table tbody tr {
-				border-bottom: 1px solid #dddddd;
-				background-color: white;
-			}
-
-			.vik-table tbody tr:last-of-type {
-				border-bottom: 2px solid var(--accent-color);
-			}
-
-			.vik-table tbody tr#current-week .vik-week {
-				background-color: var(--accent-color);
-				color: white;
-			}
-
-			.vik-table ul li:not(:last-child) {
-				margin-bottom: 2px;
-			}
-
-			.vik-table ul {
-				list-style-type: none !important;
-				padding: 0;
-			}
-
-			.vik-table ul li {
-				display: flex;
-				align-items: center;
-				justify-content: space-between;
-			}
-
-			.vik-table ul a {
-				text-decoration: none;
-				display: flex;
-				width: 100%;
-				align-items: center;
-				justify-content: space-between;
-			}
-
-			.vik-table .vik-week {
-				writing-mode: vertical-lr;
-				text-orientation: sideways-right;
-				text-align: center;
-				transform: rotate(180deg);
-				padding-left: 5px;
-				padding-right: 5px;
-				font-size: 1rem;
-			}
-
-			.vik-table .vik-cancelled {
-				color: #666;
-				font-weight: bold;
-				vertical-align: middle;
-				text-align: center;
-				background-image: repeating-linear-gradient(
-					135deg,
-					#eee,
-					/* Color of the line */ #eee 5px,
-					/* Line thickness */ transparent 5px,
-					/* Transparent space starts after line thickness */
-						transparent 10px /* Determines spacing between lines  */
-				);
-			}
-
-			.vik-table sup {
-				top: initial;
-				line-height: initial;
-				color: #aaa;
-			}
-
-			.vik-table .vik-total {
-				display: block;
-				text-align: right;
-			}
-
-			.vik-table .vik-item,
-			.vik-legend .vik-item {
-				color: #fff;
-				padding: 8px;
-				border-radius: 5px;
-				font-weight: bold;
-			}
-
-			.vik-table .vik-item a {
-				color: #fff;
-				text-decoration: none;
-			}
-
-			.vik-table .vik-quiz,
-			.vik-legend .vik-quiz {
-				background-color: #df8e1d;
-			}
-
-			.vik-table .vik-assignment,
-			.vik-legend .vik-assignment {
-				background-color: #40a02b;
-			}
-
-			.vik-table .vik-project,
-			.vik-legend .vik-project {
-				background-color: #fe640b;
-			}
-
-			.vik-table .vik-exercise,
-			.vik-legend .vik-exercise {
-				background-color: #7287fd;
-			}
-
-			.vik-table .vik-activity,
-			.vik-legend .vik-activity {
-				background-color: #ea76cb;
-			}
-
-			.vik-table .vik-lesson,
-			.vik-legend .vik-lesson {
-				background-color: #1e66f5;
-			}
-
-			.vik-table .vik-due {
-				/* background-color: #d20f39;
-				border-radius: 4px;
-				padding: 2px 4px; */
-			}
-
-			/* .vik-table .vik-due-item {
-				margin: 0 auto;
-			} */
-
-			a.vik-item {
-				transition: transform 0.1s ease-in-out,
-					box-shadow 0.1s ease-in-out;
-			}
-
-			a.vik-item:hover {
-				box-shadow: 0px 5px 5px -1px rgba(0, 0, 0, 0.3);
-				transform: translateY(-1px);
-				/* box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.3); */
-				/* cursor: pointer; */
-			}
-
-			.vik-item::before {
-				margin-right: 5px;
-				/* background-color: rgba(255, 255, 255, 0.8);
-			border-radius: 50%;
-			padding: 5px;
-			aspect-ratio: 1 / 1;
-			height: 100%;
-			text-align: center; */
-			}
-
-			/* .vik-exercise::before {
-				content: '💪';
-			}
-
-			.vik-quiz::before {
-				content: '📝';
-			}
-
-			.vik-assignment::before {
-				content: '💻';
-			}
-
-			.vik-project::before {
-				content: '🚀';
-			}
-
-			.vik-activity::before {
-				content: '🎨';
-			}
-
-			.vik-lesson::before {
-				content: '📖';
-			}
-
-			.vik-due::before {
-				content: '⏰';
-			} */
-
-			.vik-legend {
-				list-style-type: none;
-				padding: 0;
-				display: flex;
-				justify-content: space-around;
-				gap: 10px;
-				margin: 10px 0;
-				font-family: monospace;
-			}
-
-			.vik-legend li {
-				width: 100%;
-				/* text-align: center; */
-				list-style-type: none;
-				display: flex;
-				align-items: center;
-				justify-content: center;
-				gap: 10px;
-			}
-
-			.vik-footer {
-				font-size: 0.7rem;
-				color: #666;
-			}
-		</style>
+		<link rel="stylesheet" href="style.css" />
 	</head>
 	<body>
 		<!-- Handlebars Template -->
 		<script id="calendar-template" type="text/x-handlebars-template">
-				<ul class='vik-legend'>
-					<li class='vik-item vik-exercise'>Exercise</li>
-					<li class='vik-item vik-quiz'>Quiz</li>
-					<li class='vik-item vik-assignment'>Assignment</li>
-					<li class='vik-item vik-project'>Project</li>
-					<li class='vik-item vik-activity'>Activity</li>
-					<li class='vik-item vik-lesson'>Lesson</li>
-				</ul>
-				<table class="vik-table">
-			  <thead>
-			    <tr>
-			      <th></th>
-			      <th>Class 1 (T)</th>
-			      <th>Class 2 (Th/F)</th>
-			      <th>Homework</th>
-			    </tr>
-			  </thead>
-			  <tbody>
-			    {{#each weeks}}
-			      <tr id="{{currentWeekId startDate}}" data-start-date="{{startDate}}" class="vik-week-row">
-			        <td class="vik-week">{{week}}</td>
+			<ul class='vik-legend'>
+				<li class='vik-item vik-exercise'>Exercise</li>
+				<li class='vik-item vik-quiz'>Quiz</li>
+				<li class='vik-item vik-assignment'>Assignment</li>
+				<li class='vik-item vik-project'>Project</li>
+				<li class='vik-item vik-activity'>Activity</li>
+				<li class='vik-item vik-lesson'>Lesson</li>
+			</ul>
+			<table class="vik-table">
+				<thead>
+				<tr>
+					<th></th>
+					<th>Class 1 (T)</th>
+					<th>Class 2 (Th/F)</th>
+					<th>Homework</th>
+				</tr>
+				</thead>
+				<tbody>
+				{{#each weeks}}
+					<tr id="{{currentWeekId startDate}}" data-start-date="{{startDate}}" class="vik-week-row">
+					<td class="vik-week">{{week}}</td>
 
-			        <!-- Class 1 -->
-			        <td class="{{#if (anyCancelled class1)}}vik-cancelled{{/if}}">
-			          <ul>
-			            {{#each class1}}
-			              {{#if (eq type "cancelled")}}
-			                <li>{{title}}</li>
-			              {{else}}
-			                <li>
-			                  <a class="vik-item vik-{{type}}" href="{{link}}" target="_blank">
+					<!-- Class 1 -->
+					<td class="{{#if (anyCancelled class1)}}vik-cancelled{{/if}}">
+						<ul>
+						{{#each class1}}
+							{{#if (eq type "cancelled")}}
+							<li>{{title}}</li>
+							{{else}}
+							<li>
+								<a class="vik-item vik-{{type}}" href="{{link}}" target="_blank">
 								{{title}}
 								{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
 								<span class="vik-time">{{time}}</span>
-			                  </a>
-			                </li>
-			              {{/if}}
-			            {{/each}}
-			          </ul>
-			        </td>
+								</a>
+							</li>
+							{{/if}}
+						{{/each}}
+						</ul>
+					</td>
 
-			        <!-- Class 2 -->
-			        <td class="{{#if (anyCancelled class2)}}vik-cancelled{{/if}}">
-			          <ul>
-			            {{#each class2}}
-			              {{#if (eq type "cancelled")}}
-			                <li>{{title}}</li>
-			              {{else}}
-			                <li>
-			                  <a class="vik-item vik-{{type}}" href="{{link}}" target="_blank">
+					<!-- Class 2 -->
+					<td class="{{#if (anyCancelled class2)}}vik-cancelled{{/if}}">
+						<ul>
+						{{#each class2}}
+							{{#if (eq type "cancelled")}}
+							<li>{{title}}</li>
+							{{else}}
+							<li>
+								<a class="vik-item vik-{{type}}" href="{{link}}" target="_blank">
 								{{title}}
 								{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
 								<span class="vik-time">{{time}}</span>
-			                  </a>
-			                </li>
-			              {{/if}}
-			            {{/each}}
-			          </ul>
-			        </td>
+								</a>
+							</li>
+							{{/if}}
+						{{/each}}
+						</ul>
+					</td>
 
-			        <!-- Homework -->
-			        <td>
-			          <ul>
-			            {{#each homework}}
-			              <li>
-			                <a class="vik-item vik-{{type}}" href="{{link}}" target="_blank">
-			                  {{title}}
-			                  {{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
-							  <span class="vik-time">{{time}}</span>
-			                </a>
-			              </li>
-			            {{/each}}
-			          </ul>
-			        </td>
-			      </tr>
-			    {{/each}}
-			  </tbody>
+					<!-- Homework -->
+					<td>
+						<ul>
+						{{#each homework}}
+							<li>
+							<a class="vik-item vik-{{type}}" href="{{link}}" target="_blank">
+								{{title}}
+								{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
+								<span class="vik-time">{{time}}</span>
+							</a>
+							</li>
+						{{/each}}
+						</ul>
+					</td>
+					</tr>
+				{{/each}}
+				</tbody>
 			</table>
 		</script>
 
@@ -353,52 +94,6 @@
 		<div id="calendar-container"></div>
 
 		<!-- JSON Data and Script to Render Calendar -->
-		<script>
-			Handlebars.registerHelper('anyCancelled', function (items) {
-				return items.some((item) => item.type === 'cancelled');
-			});
-
-			Handlebars.registerHelper('eq', function (a, b) {
-				return a === b;
-			});
-
-			// Register a helper to check if a given date is the current week
-			Handlebars.registerHelper("currentWeekId", function(startDate) {
-				const today = new Date();
-				const weekStartDate = new Date(startDate);
-				const weekEndDate = new Date(weekStartDate);
-				weekEndDate.setDate(weekEndDate.getDate() + 6); // Calculate end of week by adding 6 days
-
-				// Return 'current-week' if today's date is within the start and end of the week
-				if (today >= weekStartDate && today <= weekEndDate) {
-					return 'current-week';
-				}
-				return ''; // Return an empty string if it's not the current week
-			});
-
-			// Load JSON and render template
-			async function loadCalendar() {
-				// Fetch the JSON data
-				const response = await fetch('calendar.json');
-				const calendarData = await response.json();
-
-				// Compile the Handlebars template
-				const source =
-					document.getElementById('calendar-template').innerHTML;
-				const template = Handlebars.compile(source);
-
-				// Generate HTML with the template and JSON data
-				const calendarHTML = template(calendarData);
-
-				// Insert the generated HTML into the DOM
-				document.getElementById('calendar-container').innerHTML =
-					calendarHTML;
-
-				document.getElementById('current-week').scrollIntoView({ behavior: "auto", block: "center" });
-			}
-
-			// Call the function to load and display the calendar
-			loadCalendar();
-		</script>
+		<script src="main.js"></script>
 	</body>
 </html>
