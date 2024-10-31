@@ -320,8 +320,8 @@
 			                <li>
 			                  <a class="vik-item vik-{{type}}" href="{{link}}" target="_blank">
 								{{title}}
-								  {{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
-								  <span class="vik-time">{{time}}</span>
+								{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
+								<span class="vik-time">{{time}}</span>
 			                  </a>
 			                </li>
 			              {{/if}}
@@ -393,6 +393,8 @@
 				// Insert the generated HTML into the DOM
 				document.getElementById('calendar-container').innerHTML =
 					calendarHTML;
+
+				document.getElementById('current-week').scrollIntoView({ behavior: "auto", block: "center" });
 			}
 
 			// Call the function to load and display the calendar
