@@ -2,6 +2,7 @@
 	"weeks": [
 		{
 			"week": "W01 - AUG 26",
+			"startDate": "2024-08-26",
 			"class1": [
 				{
 					"type": "activity",
@@ -84,6 +85,7 @@
 		},
 		{
 			"week": "W02 - SEP 02",
+			"startDate": "2024-09-02",
 			"class1": [
 				{
 					"type": "quiz",
@@ -154,6 +156,7 @@
 		},
 		{
 			"week": "W03 - SEP 09",
+			"startDate": "2024-09-09",
 			"class1": [
 				{
 					"type": "assignment",
@@ -182,6 +185,7 @@
 		},
 		{
 			"week": "W04 - SEP 16",
+			"startDate": "2024-09-16",
 			"class1": [
 				{
 					"type": "quiz",
@@ -260,6 +264,7 @@
 		},
 		{
 			"week": "W05 - SEP 23",
+			"startDate": "2024-09-23",
 			"class1": [
 				{
 					"type": "assignment",
@@ -288,6 +293,7 @@
 		},
 		{
 			"week": "W06 - SEP 30",
+			"startDate": "2024-09-30",
 			"class1": [
 				{
 					"type": "quiz",
@@ -371,6 +377,7 @@
 		},
 		{
 			"week": "W07 - OCT 07",
+			"startDate": "2024-10-07",
 			"class1": [
 				{
 					"type": "assignment",
@@ -399,6 +406,7 @@
 		},
 		{
 			"week": "W08 - OCT 14",
+			"startDate": "2024-10-14",
 			"class1": [
 				{
 					"type": "cancelled",
@@ -439,6 +447,7 @@
 		},
 		{
 			"week": "W09 - OCT 21",
+			"startDate": "2024-10-21",
 			"class1": [
 				{
 					"type": "cancelled",
@@ -484,6 +493,7 @@
 		},
 		{
 			"week": "W10 - OCT 28",
+			"startDate": "2024-10-28",
 			"class1": [
 				{
 					"type": "quiz",
@@ -547,34 +557,7 @@
 		},
 		{
 			"week": "W11 - NOV 04",
-			"class1": [
-				{
-					"type": "assignment",
-					"title": "A5 - Angry Birds",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38981",
-					"time": "3h"
-				}
-			],
-			"class2": [
-				{
-					"type": "assignment",
-					"title": "A5 - Angry Birds",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38981",
-					"time": "3h"
-				}
-			],
-			"homework": [
-				{
-					"type": "assignment",
-					"title": "A5 - Angry Birds",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38981",
-					"time": "4h",
-					"due": "DUE NOV 11"
-				}
-			]
-		},
-		{
-			"week": "W11 - NOV 04",
+			"startDate": "2024-11-04",
 			"class1": [
 				{
 					"type": "assignment",
@@ -603,6 +586,7 @@
 		},
 		{
 			"week": "W12 - NOV 11",
+			"startDate": "2024-11-11",
 			"class1": [
 				{
 					"type": "quiz",
@@ -673,6 +657,7 @@
 		},
 		{
 			"week": "W13 - NOV 18",
+			"startDate": "2024-11-18",
 			"class1": [
 				{
 					"type": "assignment",
@@ -707,6 +692,7 @@
 		},
 		{
 			"week": "W14 - NOV 25",
+			"startDate": "2024-11-25",
 			"class1": [
 				{
 					"type": "quiz",
@@ -750,6 +736,7 @@
 		},
 		{
 			"week": "W15 - DEC 02",
+			"startDate": "2024-12-02",
 			"class1": [
 				{
 					"type": "project",
@@ -781,6 +768,7 @@
 		},
 		{
 			"week": "W16 - DEC 09",
+			"startDate": "2024-12-09",
 			"class1": [
 				{
 					"type": "project",

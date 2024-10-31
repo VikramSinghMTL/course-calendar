@@ -73,15 +73,7 @@
 				border-bottom: 2px solid var(--accent-color);
 			}
 
-			.vik-table tbody tr.vik-active-row {
-				font-weight: bold;
-			}
-
-			.vik-table tbody tr.vik-active-row li {
-				/* box-shadow: 0px 5px 5px -1px rgba(0,0,0,0.3); */
-			}
-
-			.vik-table tbody tr.vik-active-row .vik-week {
+			.vik-table tbody tr#current-week .vik-week {
 				background-color: var(--accent-color);
 				color: white;
 			}
@@ -296,7 +288,7 @@
 			  </thead>
 			  <tbody>
 			    {{#each weeks}}
-			      <tr>
+			      <tr id="{{currentWeekId startDate}}" data-start-date="{{startDate}}" class="vik-week-row">
 			        <td class="vik-week">{{week}}</td>
 
 			        <!-- Class 1 -->
@@ -368,6 +360,20 @@
 
 			Handlebars.registerHelper('eq', function (a, b) {
 				return a === b;
+			});
+
+			// Register a helper to check if a given date is the current week
+			Handlebars.registerHelper("currentWeekId", function(startDate) {
+				const today = new Date();
+				const weekStartDate = new Date(startDate);
+				const weekEndDate = new Date(weekStartDate);
+				weekEndDate.setDate(weekEndDate.getDate() + 6); // Calculate end of week by adding 6 days
+
+				// Return 'current-week' if today's date is within the start and end of the week
+				if (today >= weekStartDate && today <= weekEndDate) {
+					return 'current-week';
+				}
+				return ''; // Return an empty string if it's not the current week
 			});
 
 			// Load JSON and render template
