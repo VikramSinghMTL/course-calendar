@@ -659,6 +659,10 @@
 			"startDate": "2024-11-18",
 			"class1": [
 				{
+					"type": "cancelled",
+					"title": "Class Cancelled"
+				},
+				{
 					"type": "assignment",
 					"title": "A6 - Pokemon",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38982",
