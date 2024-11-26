@@ -712,14 +712,21 @@
 				{
 					"type": "project",
 					"title": "Proposal",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
 					"time": "2h30m"
 				}
 			],
 			"class2": [
 				{
+					"type": "cancelled",
+					"title": "Async Class ⓘ",
+					"note": "An asynchronous class where you complete activities on your own time."
+				},
+				{
 					"type": "project",
 					"title": "Proposal",
-					"time": "2h30m"
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"time": "3h"
 				}
 			],
 			"homework": [
@@ -733,7 +740,9 @@
 				{
 					"type": "project",
 					"title": "Proposal",
-					"time": "1h"
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"time": "1h",
+					"due": "DUE NOV 29"
 				}
 			]
 		},
@@ -744,6 +753,7 @@
 				{
 					"type": "project",
 					"title": "Implementation",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
 					"time": "3h"
 				}
 			],
@@ -751,6 +761,7 @@
 				{
 					"type": "project",
 					"title": "Implementation",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
 					"time": "3h"
 				}
 			],
@@ -765,6 +776,7 @@
 				{
 					"type": "project",
 					"title": "Implementation",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
 					"time": "4h"
 				}
 			]
@@ -776,6 +788,7 @@
 				{
 					"type": "project",
 					"title": "Implementation",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
 					"time": "3h"
 				}
 			],
@@ -783,6 +796,7 @@
 				{
 					"type": "project",
 					"title": "Implementation",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
 					"time": "3h"
 				}
 			],
@@ -790,11 +804,13 @@
 				{
 					"type": "project",
 					"title": "Implementation",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
 					"time": "4h"
 				},
 				{
 					"type": "project",
-					"title": "Book Demo Slot"
+					"title": "Book Demo Slot",
+					"link": "https://moodle.johnabbott.qc.ca/mod/scheduler/view.php?id=38971"
 				}
 			]
 		}
