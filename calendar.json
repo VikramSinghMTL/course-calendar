@@ -776,7 +776,7 @@
 					"title": "A6 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38982",
 					"time": "1h",
-					"due": "DUE TBD"
+					"due": "DUE DEC 08"
 				},
 				{
 					"type": "project",
@@ -810,7 +810,8 @@
 					"type": "project",
 					"title": "Implementation",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
-					"time": "4h"
+					"time": "4h",
+					"due": "DUE @ YOUR DEMO TIME"
 				},
 				{
 					"type": "project",
