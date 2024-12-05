@@ -712,7 +712,7 @@
 				{
 					"type": "project",
 					"title": "Proposal",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"link": "https://moodle.johnabbott.qc.ca/mod/`assign/view.php?id=38969",
 					"time": "2h30m"
 				}
 			],
@@ -758,6 +758,11 @@
 				}
 			],
 			"class2": [
+				{
+					"type": "cancelled",
+					"title": "Async Class - Message me with project questions!",
+					"note": "An asynchronous class where you complete activities on your own time."
+				},
 				{
 					"type": "project",
 					"title": "Implementation",
