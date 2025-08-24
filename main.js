@@ -23,7 +23,7 @@ Handlebars.registerHelper("currentWeekId", function(startDate) {
 // Load JSON and render template
 async function loadCalendar() {
 	// Fetch the JSON data
-	const response = await fetch('calendar.json');
+	const response = await fetch('calendar-f25.json');
 	const calendarData = await response.json();
 
 	// Compile the Handlebars template
