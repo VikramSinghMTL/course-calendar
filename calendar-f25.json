@@ -12,7 +12,7 @@
 				{
 					"type": "activity",
 					"title": "Course outline",
-					"link": "https://moodle.johnabbott.qc.ca/mod/resource/view.php?id=38967",
+					"link": "https://moodle.johnabbott.qc.ca/mod/resource/view.php?id=60912",
 					"time": "20m"
 				},
 				{
@@ -24,7 +24,7 @@
 				{
 					"type": "activity",
 					"title": "Intro survey",
-					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=38973",
+					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=60646",
 					"time": "15m"
 				}
 			],
@@ -88,13 +88,6 @@
 					"title": "Review Pong Notes",
 					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/0-pong/",
 					"time": "1h"
-				},
-				{
-					"type": "assignment",
-					"title": "A0 - Pong",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=39043",
-					"time": "3h",
-					"due": "DUE SEP 02"
 				}
 			]
 		}
