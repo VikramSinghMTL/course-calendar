@@ -39,13 +39,21 @@
 							{{#if (eq type "cancelled")}}
 							<li>{{title}}</li>
 							{{else}}
-							<li>
-								<a class="vik-item vik-{{type}}" href="{{link}}" target="_blank">
-								{{title}}
-								{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
-								<span class="vik-time">{{time}}</span>
-								</a>
-							</li>
+								{{#if link}}
+								<li>
+									<a class="vik-item vik-{{type}}" href="{{link}}" target="_blank">
+									{{title}}
+									{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
+									<span class="vik-time">{{time}}</span>
+									</a>
+								</li>
+								{{else}}
+								<li class="vik-item vik-{{type}}">
+									{{title}}
+									{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
+									<span class="vik-time">{{time}}</span>
+								</li>
+								{{/if}}
 							{{/if}}
 						{{/each}}
 						</ul>
@@ -58,13 +66,21 @@
 							{{#if (eq type "cancelled")}}
 							<li>{{title}}</li>
 							{{else}}
-							<li>
-								<a class="vik-item vik-{{type}}" href="{{link}}" target="_blank">
-								{{title}}
-								{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
-								<span class="vik-time">{{time}}</span>
-								</a>
-							</li>
+								{{#if link}}
+								<li>
+									<a class="vik-item vik-{{type}}" href="{{link}}" target="_blank">
+									{{title}}
+									{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
+									<span class="vik-time">{{time}}</span>
+									</a>
+								</li>
+								{{else}}
+								<li class="vik-item vik-{{type}}">
+									{{title}}
+									{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
+									<span class="vik-time">{{time}}</span>
+								</li>
+								{{/if}}
 							{{/if}}
 						{{/each}}
 						</ul>
@@ -74,13 +90,21 @@
 					<td>
 						<ul>
 						{{#each homework}}
-							<li>
-							<a class="vik-item vik-{{type}}" href="{{link}}" target="_blank">
-								{{title}}
-								{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
-								<span class="vik-time">{{time}}</span>
-							</a>
-							</li>
+							{{#if link}}
+								<li>
+									<a class="vik-item vik-{{type}}" href="{{link}}" target="_blank">
+									{{title}}
+									{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
+									<span class="vik-time">{{time}}</span>
+									</a>
+								</li>
+							{{else}}
+								<li class="vik-item vik-{{type}}">
+									{{title}}
+									{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
+									<span class="vik-time">{{time}}</span>
+								</li>
+							{{/if}}
 						{{/each}}
 						</ul>
 					</td>
