@@ -10,6 +10,10 @@
 			],
 			"class2": [
 				{
+					"type": "note",
+					"title": "⚠️ Thursday is a Monday schedule."
+				},
+				{
 					"type": "activity",
 					"title": "Course outline",
 					"link": "https://moodle.johnabbott.qc.ca/mod/resource/view.php?id=60912",
@@ -88,6 +92,13 @@
 					"title": "Review Pong Notes",
 					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/0-pong/",
 					"time": "1h"
+				},
+				{
+					"type": "assignment",
+					"title": "A0 - Pong",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=39043",
+					"time": "3h",
+					"due": "DUE SEP 02"
 				}
 			]
 		}
