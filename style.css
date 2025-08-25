@@ -162,6 +162,12 @@
 	background-color: #1e66f5;
 }
 
+.vik-table .vik-note,
+.vik-legend .vik-note {
+	background-color: white;
+	color: #4c4f69;
+}
+
 a.vik-item {
 	transition: transform 0.1s ease-in-out,
 		box-shadow 0.1s ease-in-out;
