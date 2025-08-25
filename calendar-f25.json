@@ -21,8 +21,12 @@
 				},
 				{
 					"type": "activity",
+					"title": "AI pros/cons discussion",
+					"time": "30m"
+				},
+				{
+					"type": "activity",
 					"title": "Moodle/Teams setup",
-					"link": "",
 					"time": "15m"
 				},
 				{
