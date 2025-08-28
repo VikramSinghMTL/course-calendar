@@ -96,6 +96,125 @@
 					"title": "Review Pong Notes",
 					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/0-pong/",
 					"time": "1h"
+				},
+				{
+					"type": "assignment",
+					"title": "A0 - Pong",
+					"link": "https://classroom.github.com/a/QmssPvwb",
+					"time": "3h",
+					"due": "DUE SEP 02"
+				}
+			]
+		},
+		{
+			"week": "W02 - SEP 01",
+			"startDate": "2025-09-01",
+			"class1": [
+				{
+					"type": "note",
+					"title": "Section 1: Labour Day, this class will be made up on September 8th."
+				},
+				{
+					"type": "activity",
+					"title": "The History of Breakout",
+					"link": "https://youtu.be/bC_KPLe5dYg",
+					"time": "10m"
+				},
+				{
+					"type": "exercise",
+					"title": "E1.1 - Sprites",
+					"link": "",
+					"time": "1h",
+					"due": "DUE SEP 05"
+				},
+				{
+					"type": "lesson",
+					"title": "Breakout 0-2",
+					"link": "",
+					"time": "1h"
+				},
+				{
+					"type": "lesson",
+					"title": "Sprites",
+					"link": "",
+					"time": "10m"
+				},
+				{
+					"type": "lesson",
+					"title": "State Machine",
+					"link": "",
+					"time": "10m"
+				}
+			],
+			"class2": [
+				{
+					"type": "quiz",
+					"title": "Q0 - Pong (Individual)",
+					"link": "",
+					"time": "15m"
+				},
+				{
+					"type": "quiz",
+					"title": "Q0 - Pong (Group)",
+					"link": "",
+					"time": "15m"
+				},
+				{
+					"type": "lesson",
+					"title": "Breakout 3-5",
+					"link": "",
+					"time": "3h"
+				}
+			],
+			"homework": [
+				{
+					"type": "lesson",
+					"title": "Review Breakout Notes",
+					"link": "",
+					"time": "1h"
+				},
+				{
+					"type": "assignment",
+					"title": "A1 - Breakout",
+					"link": "",
+					"time": "3h"
+				}
+			]
+		},
+		{
+			"week": "W03 - SEP 08",
+			"startDate": "2025-09-08",
+			"class1": [
+				{
+					"type": "note",
+					"title": "Section 1: Make up for Labour Day."
+				},
+				{
+					"type": "note",
+					"title": "Section 2: Lab Period."
+				},
+				{
+					"type": "assignment",
+					"title": "A1 - Breakout",
+					"link": "",
+					"time": "3h"
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "A1 - Breakout",
+					"link": "",
+					"time": "3h"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "A1 - Breakout",
+					"link": "",
+					"time": "4h",
+					"due": "DUE SEP 16"
 				}
 			]
 		}
