@@ -123,26 +123,26 @@
 				{
 					"type": "exercise",
 					"title": "E1.1 - Sprites",
-					"link": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=60714",
 					"time": "1h",
-					"due": "DUE SEP 05"
+					"due": "DUE END OF CLASS"
 				},
 				{
 					"type": "lesson",
 					"title": "Breakout 0-2",
-					"link": "",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/1-breakout",
 					"time": "1h"
 				},
 				{
 					"type": "lesson",
 					"title": "Sprites",
-					"link": "",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/concepts/sprites/",
 					"time": "10m"
 				},
 				{
 					"type": "lesson",
 					"title": "State Machine",
-					"link": "",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/concepts/state-machine/",
 					"time": "10m"
 				}
 			],
@@ -162,7 +162,7 @@
 				{
 					"type": "lesson",
 					"title": "Breakout 3-5",
-					"link": "",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/1-breakout",
 					"time": "3h"
 				}
 			],
@@ -170,7 +170,7 @@
 				{
 					"type": "lesson",
 					"title": "Review Breakout Notes",
-					"link": "",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/1-breakout",
 					"time": "1h"
 				},
 				{
