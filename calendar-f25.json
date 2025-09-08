@@ -163,7 +163,13 @@
 					"type": "lesson",
 					"title": "Breakout 3-5",
 					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/1-breakout",
-					"time": "3h"
+					"time": "2h"
+				},
+				{
+					"type": "activity",
+					"title": "Particle Systems",
+					"link": "https://moodle.johnabbott.qc.ca/mod/resource/view.php?id=62554",
+					"time": "30m"
 				}
 			],
 			"homework": [
