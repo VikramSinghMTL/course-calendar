@@ -223,6 +223,74 @@
 					"due": "DUE SEP 14"
 				}
 			]
+		},
+		{
+			"week": "W04 - SEP 15",
+			"startDate": "2025-09-15",
+			"class1": [
+				{
+					"type": "quiz",
+					"title": "Q1 - Breakout (Individual)",
+					"time": "15m"
+				},
+				{
+					"type": "quiz",
+					"title": "Q1 - Breakout (Group)",
+					"time": "15m"
+				},
+				{
+					"type": "activity",
+					"title": "Candy Crush's Success",
+					"time": "10m"
+				},
+				{
+					"type": "exercise",
+					"title": "E2.1 - Timers",
+					"time": "30m",
+					"due": "DUE BEFORE NEXT CLASS"
+				},
+				{
+					"type": "exercise",
+					"title": "E2.2 - Tweens",
+					"time": "30m",
+					"due": "DUE BEFORE NEXT CLASS"
+				},
+				{
+					"type": "lesson",
+					"title": "Match 3 0-1",
+					"time": "1h"
+				},
+				{
+					"type": "lesson",
+					"title": "Tweening",
+					"time": "20m"
+				}
+			],
+			"class2": [
+				{
+					"type": "lesson",
+					"title": "Match 3 2-6",
+					"time": "3h"
+				}
+			],
+			"homework": [
+				{
+					"type": "activity",
+					"title": "A1 Workshop",
+					"time": "1h",
+					"due": "DUE SEP 23"
+				},
+				{
+					"type": "lesson",
+					"title": "Review Match 3 Notes",
+					"time": "1h"
+				},
+				{
+					"type": "assignment",
+					"title": "A2 - Match 3",
+					"time": "2h"
+				}
+			]
 		}
 	]
 }
