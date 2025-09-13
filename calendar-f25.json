@@ -231,38 +231,45 @@
 				{
 					"type": "quiz",
 					"title": "Q1 - Breakout (Individual)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60668",
 					"time": "15m"
 				},
 				{
 					"type": "quiz",
 					"title": "Q1 - Breakout (Group)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60669",
 					"time": "15m"
 				},
 				{
 					"type": "activity",
 					"title": "Candy Crush's Success",
+					"link": "https://youtu.be/Sz4WXVNq7v8",
 					"time": "10m"
 				},
 				{
 					"type": "exercise",
 					"title": "E2.1 - Timers",
+					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=60709",
 					"time": "30m",
 					"due": "DUE BEFORE NEXT CLASS"
 				},
 				{
 					"type": "exercise",
 					"title": "E2.2 - Tweens",
+					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=60710",
 					"time": "30m",
 					"due": "DUE BEFORE NEXT CLASS"
 				},
 				{
 					"type": "lesson",
 					"title": "Match 3 0-1",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/2-match-3/",
 					"time": "1h"
 				},
 				{
 					"type": "lesson",
 					"title": "Tweening",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/concepts/tweening/",
 					"time": "20m"
 				}
 			],
@@ -270,6 +277,7 @@
 				{
 					"type": "lesson",
 					"title": "Match 3 2-6",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/2-match-3/",
 					"time": "3h"
 				}
 			],
@@ -277,17 +285,20 @@
 				{
 					"type": "activity",
 					"title": "A1 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60656",
 					"time": "1h",
 					"due": "DUE SEP 23"
 				},
 				{
 					"type": "lesson",
 					"title": "Review Match 3 Notes",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/2-match-3/",
 					"time": "1h"
 				},
 				{
 					"type": "assignment",
 					"title": "A2 - Match 3",
+					"link": "",
 					"time": "2h"
 				}
 			]
