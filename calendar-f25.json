@@ -298,8 +298,37 @@
 				{
 					"type": "assignment",
 					"title": "A2 - Match 3",
-					"link": "https://classroom.github.com/a/OdIDc9d_",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60657",
 					"time": "2h"
+				}
+			]
+		},
+		{
+			"week": "W05 - SEP 22",
+			"startDate": "2025-09-22",
+			"class1": [
+				{
+					"type": "assignment",
+					"title": "A2 - Match 3",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60657",
+					"time": "3h"
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "A2 - Match 3",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60657",
+					"time": "3h"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "A2 - Match 3",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60657",
+					"time": "4h",
+					"due": "DUE SEP 28"
 				}
 			]
 		}
