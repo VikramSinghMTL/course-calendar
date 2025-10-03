@@ -411,6 +411,7 @@
 				{
 					"type": "assignment",
 					"title": "A3 - Mario",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60658",
 					"time": "3h"
 				}
 			]
@@ -422,6 +423,7 @@
 				{
 					"type": "assignment",
 					"title": "A3 - Mario",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60658",
 					"time": "3h"
 				}
 			],
@@ -429,6 +431,7 @@
 				{
 					"type": "assignment",
 					"title": "A3 - Mario",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60658",
 					"time": "3h"
 				}
 			],
@@ -436,8 +439,9 @@
 				{
 					"type": "assignment",
 					"title": "A3 - Mario",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60658",
 					"time": "4h",
-					"due": "DUE OCT 14"
+					"due": "DUE OCT 12"
 				}
 			]
 		}
