@@ -552,6 +552,10 @@
 			"startDate": "2025-10-27",
 			"class1": [
 				{
+					"type": "note",
+					"title": "Section 1: Postponed, this class will be on Thursday."
+				},
+				{
 					"type": "quiz",
 					"title": "Q4 - Zelda (Individual)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60674",
