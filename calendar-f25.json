@@ -583,7 +583,7 @@
 			"class2": [
 				{
 					"type": "cancelled",
-					"title": "Async Class - Both sections will not come to class.",
+					"title": "Async Class - Section 1 will not come to class.",
 					"note": "An asynchronous class where you complete activities on your own time."
 				},
 				{
