@@ -552,9 +552,11 @@
 			"startDate": "2025-10-27",
 			"class1": [
 				{
-					"type": "note",
-					"title": "Section 1: Postponed, this class will be on Thursday."
-				},
+					"type": "cancelled",
+					"title": "Cancelled"
+				}
+			],
+			"class2": [
 				{
 					"type": "quiz",
 					"title": "Q4 - Zelda (Individual)",
@@ -580,12 +582,7 @@
 					"time": "1h30m"
 				}
 			],
-			"class2": [
-				{
-					"type": "cancelled",
-					"title": "Async Class - Section 1 will not come to class.",
-					"note": "An asynchronous class where you complete activities on your own time."
-				},
+			"homework": [
 				{
 					"type": "lesson",
 					"title": "Angry Birds Async Lesson (1.5%)",
@@ -597,14 +594,12 @@
 					"title": "Angry Birds Forum (1.5%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/forum/view.php?id=39013",
 					"time": "30m"
-				}
-			],
-			"homework": [
+				},
 				{
 					"type": "assignment",
 					"title": "A5 - Angry Birds",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60660",
-					"time": "2h"
+					"time": "1h"
 				}
 			]
 		},
