@@ -737,6 +737,19 @@
 			"startDate": "2025-11-24",
 			"class1": [
 				{
+					"type": "cancelled",
+					"title": "Async Class - Start proposal and bring it to next class!",
+					"note": "An asynchronous class where you complete activities on your own time."
+				},
+				{
+					"type": "project",
+					"title": "Proposal",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
+					"time": "3h"
+				}
+			],
+			"class2": [
+				{
 					"type": "quiz",
 					"title": "Q6 - Pokemon (Individual)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60678",
@@ -751,30 +764,17 @@
 				{
 					"type": "project",
 					"title": "Proposal",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
 					"time": "2h30m"
-				}
-			],
-			"class2": [
-				{
-					"type": "cancelled",
-					"title": "Async Class - Finish proposal and message me ASAP!",
-					"note": "An asynchronous class where you complete activities on your own time."
-				},
-				{
-					"type": "project",
-					"title": "Proposal",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
-					"time": "3h"
 				}
 			],
 			"homework": [
 				{
 					"type": "project",
 					"title": "Proposal",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
 					"time": "1h",
-					"due": "DUE NOV 29"
+					"due": "DUE NOV 30 (SOFT)"
 				}
 			]
 		},
@@ -785,7 +785,7 @@
 				{
 					"type": "project",
 					"title": "Implementation",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
 					"time": "3h"
 				}
 			],
@@ -798,7 +798,7 @@
 				{
 					"type": "project",
 					"title": "Implementation",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
 					"time": "3h"
 				}
 			],
@@ -813,7 +813,7 @@
 				{
 					"type": "project",
 					"title": "Implementation",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
 					"time": "4h"
 				}
 			]
@@ -825,7 +825,7 @@
 				{
 					"type": "project",
 					"title": "Implementation",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
 					"time": "3h"
 				}
 			],
@@ -833,7 +833,7 @@
 				{
 					"type": "project",
 					"title": "Implementation",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
 					"time": "3h"
 				}
 			],
@@ -841,14 +841,14 @@
 				{
 					"type": "project",
 					"title": "Implementation",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
 					"time": "4h",
-					"due": "DUE @ YOUR DEMO TIME"
+					"due": "DUE DEC 14"
 				},
 				{
 					"type": "project",
 					"title": "Book Demo Slot",
-					"link": "https://moodle.johnabbott.qc.ca/mod/scheduler/view.php?id=38971"
+					"link": "https://moodle.johnabbott.qc.ca/mod/scheduler/view.php?id=60644"
 				}
 			]
 		}
