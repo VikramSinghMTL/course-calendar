@@ -823,6 +823,11 @@
 			"startDate": "2025-12-08",
 			"class1": [
 				{
+					"type": "cancelled",
+					"title": "Async Class - Message me with project questions!",
+					"note": "An asynchronous class where you complete activities on your own time."
+				},
+				{
 					"type": "project",
 					"title": "Implementation",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
@@ -830,6 +835,11 @@
 				}
 			],
 			"class2": [
+				{
+					"type": "cancelled",
+					"title": "Async Class - Message me with project questions!",
+					"note": "An asynchronous class where you complete activities on your own time."
+				},
 				{
 					"type": "project",
 					"title": "Implementation",
@@ -848,6 +858,7 @@
 				{
 					"type": "project",
 					"title": "Book Demo Slot",
+					"due": "DEC 12 @ NOON",
 					"link": "https://moodle.johnabbott.qc.ca/mod/scheduler/view.php?id=60644"
 				}
 			]
