@@ -837,14 +837,8 @@
 			"class2": [
 				{
 					"type": "cancelled",
-					"title": "Async Class - Message me with project questions!",
+					"title": "Classes are over - Message me with project questions!",
 					"note": "An asynchronous class where you complete activities on your own time."
-				},
-				{
-					"type": "project",
-					"title": "Implementation",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
-					"time": "3h"
 				}
 			],
 			"homework": [
