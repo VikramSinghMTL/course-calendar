@@ -1,0 +1,31 @@
+{
+	"weeks": [
+		{
+			"week": "W00 - AUG 18",
+			"startDate": "2025-08-18",
+			"class1": [
+				{
+					"type": "cancelled",
+					"title": "Class cancelled."
+				}
+			],
+			"class2": [
+				{
+					"type": "activity",
+					"title": "Course outline",
+					"link": "https://moodle.johnabbott.qc.ca/mod/resource/view.php?id=68469",
+					"time": "30m"
+				},
+				{
+					"type": "quiz",
+					"title": "Quiz 0 (0 %)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=68481",
+					"time": "15m"
+				}
+			],
+			"homework": [
+
+			]
+		}
+	]
+}

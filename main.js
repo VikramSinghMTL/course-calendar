@@ -1,3 +1,5 @@
+const currentCourse = 'w26';
+
 Handlebars.registerHelper('anyCancelled', function (items) {
 	return items.some((item) => item.type === 'cancelled');
 });
@@ -23,7 +25,7 @@ Handlebars.registerHelper("currentWeekId", function(startDate) {
 // Load JSON and render template
 async function loadCalendar() {
 	// Fetch the JSON data
-	const response = await fetch('calendar-f25.json');
+	const response = await fetch(`calendar-${currentCourse}.json`);
 	const calendarData = await response.json();
 
 	// Compile the Handlebars template
