@@ -38,81 +38,104 @@
 					"type": "quiz",
 					"title": "Review Quiz 0",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=68481",
-					"time": "15m"
+					"time": "20m"
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 0.0.0 - New Environment Setup",
+					"time": "40m",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68525"
 				},
 				{
 					"type": "lesson",
 					"title": "1.1 React Native + Expo Intro",
-					"time": "30m"
+					"time": "10m"
 				},
 				{
 					"type": "lesson",
 					"title": "1.2 Basic Components",
-					"time": "30m"
+					"time": "10m"
 				},
 				{
 					"type": "exercise",
 					"title": "Exercise 1.2.1 - Grid",
-					"time": "30m"
+					"time": "10m",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68519"
 				},
 				{
 					"type": "exercise",
 					"title": "Exercise 1.2.2 - Card",
-					"time": "30m"
+					"time": "10m",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68520"
 				},
 				{
 					"type": "lesson",
 					"title": "1.3 Styling",
-					"time": "30m"
+					"time": "10m"
 				},
 				{
 					"type": "exercise",
 					"title": "Exercise 1.3.1 - Stylesheet",
-					"time": "30m"
+					"time": "10m",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68521"
 				},
 				{
 					"type": "lesson",
 					"title": "1.4 Images",
-					"time": "30m"
+					"time": "15m"
 				},
 				{
 					"type": "exercise",
 					"title": "Exercise 1.4.1 - Avatar",
-					"time": "30m"
+					"time": "15m",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68522"
 				}
 			],
 			"class2": [
 				{
 					"type": "lesson",
 					"title": "1.5 Buttons",
-					"time": "30m"
+					"time": "15m"
 				},
 				{
 					"type": "exercise",
 					"title": "Exercise 1.5.1 - Buttons",
-					"time": "30m"
+					"time": "20m",
+					"due": ""
 				},
 				{
 					"type": "lesson",
 					"title": "1.6 Lists",
-					"time": "30m"
+					"time": "15m"
 				},
 				{
 					"type": "exercise",
 					"title": "Exercise 1.6.1 - Lists",
-					"time": "30m"
+					"time": "20m",
+					"due": ""
 				}
 			],
 			"homework": [
 				{
 					"type": "lesson",
 					"title": "Review Chapter 1",
-					"time": "1h"
+					"time": "30m"
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 1 Exercises",
+					"time": "30m",
+					"due": "2026-01-30"
 				},
 				{
 					"type": "assignment",
 					"title": "Assignment 1 - Basic UI & Lists",
-					"time": "3h"
+					"time": "3h",
+					"due": ""
 				}
 			]
 		},
@@ -123,15 +146,24 @@
 				{
 					"type": "assignment",
 					"title": "Assignment 1 - Basic UI & Lists",
-					"time": "3h"
+					"time": "3h",
+					"due": ""
 				}
 			],
-			"class2": [],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "Assignment 1 - Basic UI & Lists",
+					"time": "1.5h",
+					"due": ""
+				}
+			],
 			"homework": [
 				{
-					"type": "lesson",
-					"title": "Review Chapter 2",
-					"time": "1h"
+					"type": "assignment",
+					"title": "Assignment 1 - Basic UI & Lists",
+					"time": "4h",
+					"due": "2026-02-08"
 				}
 			]
 		},
@@ -142,7 +174,7 @@
 				{
 					"type": "quiz",
 					"title": "Quiz 1",
-					"time": "15m"
+					"time": "30m"
 				},
 				{
 					"type": "lesson",
@@ -152,16 +184,42 @@
 				{
 					"type": "exercise",
 					"title": "Chapter 2 Exercises",
-					"time": "1h"
+					"time": "1h",
+					"due": ""
 				}
 			],
-			"class2": [],
+			"class2": [
+				{
+					"type": "lesson",
+					"title": "Chapter 2",
+					"time": "45m"
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 2 Exercises",
+					"time": "30m",
+					"due": ""
+				}
+			],
 			"homework": [
+				{
+					"type": "lesson",
+					"title": "Review Chapter 2",
+					"time": "30m"
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 2 Exercises",
+					"time": "30m",
+					"due": "2026-02-13"
+				},
 				{
 					"type": "assignment",
 					"title": "Assignment 2 - Navigation & Maps",
-					"time": "4h"
-				}
+					"time": "4h",
+					"due": ""
+				},
+				null
 			]
 		},
 		{
@@ -171,26 +229,30 @@
 				{
 					"type": "assignment",
 					"title": "Assignment 2 - Navigation & Maps",
-					"time": "3h"
+					"time": "3h",
+					"due": ""
 				}
 			],
 			"class2": [
 				{
 					"type": "assignment",
 					"title": "Assignment 2 - Navigation & Maps",
-					"time": "1.5h"
+					"time": "1.5h",
+					"due": ""
 				}
 			],
 			"homework": [
 				{
 					"type": "assignment",
 					"title": "Assignment 2 - Navigation & Maps",
-					"time": "2h"
+					"time": "3h",
+					"due": "2026-02-22"
 				},
 				{
 					"type": "activity",
 					"title": "Peer Assessment for Assignment 1",
-					"time": "2h"
+					"time": "1h",
+					"due": "2026-02-22"
 				}
 			]
 		},
@@ -201,11 +263,52 @@
 				{
 					"type": "quiz",
 					"title": "Quiz 2",
-					"time": "15m"
+					"time": "30m"
+				},
+				{
+					"type": "lesson",
+					"title": "Chapter 3",
+					"time": "1h"
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 3 Exercises",
+					"time": "1h",
+					"due": ""
 				}
 			],
-			"class2": [],
-			"homework": []
+			"class2": [
+				{
+					"type": "lesson",
+					"title": "Chapter 3",
+					"time": "45m"
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 3 Exercises",
+					"time": "30m",
+					"due": ""
+				}
+			],
+			"homework": [
+				{
+					"type": "lesson",
+					"title": "Review Chapter 3",
+					"time": "30m"
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 3 Exercises",
+					"time": "30m",
+					"due": "2026-02-27"
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "3h",
+					"due": ""
+				}
+			]
 		},
 		{
 			"week": "W06 - MAR 02",
@@ -218,16 +321,36 @@
 				{
 					"type": "assignment",
 					"title": "Assignment 3 - APIs & Data Caching",
-					"time": "3h"
+					"time": "3h",
+					"due": ""
 				}
 			],
 			"class2": [
 				{
 					"type": "cancelled",
 					"title": "March Break"
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "1.5h",
+					"due": ""
 				}
 			],
-			"homework": []
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "3h",
+					"due": "2026-03-08"
+				},
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 2",
+					"time": "30m",
+					"due": "2026-03-08"
+				}
+			]
 		},
 		{
 			"week": "W07 - MAR 09",
@@ -236,11 +359,52 @@
 				{
 					"type": "quiz",
 					"title": "Quiz 3",
-					"time": "15m"
+					"time": "30m"
+				},
+				{
+					"type": "lesson",
+					"title": "Chapter 4",
+					"time": "1h"
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 4 Exercises",
+					"time": "1h",
+					"due": ""
 				}
 			],
-			"class2": [],
-			"homework": []
+			"class2": [
+				{
+					"type": "lesson",
+					"title": "Chapter 4",
+					"time": "45m"
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 4 Exercises",
+					"time": "30m",
+					"due": ""
+				}
+			],
+			"homework": [
+				{
+					"type": "lesson",
+					"title": "Review Chapter 4",
+					"time": "30m"
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 4 Exercises",
+					"time": "30m",
+					"due": "2026-03-13"
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - Authentication",
+					"time": "3h",
+					"due": ""
+				}
+			]
 		},
 		{
 			"week": "W08 - MAR 16",
@@ -249,11 +413,32 @@
 				{
 					"type": "assignment",
 					"title": "Assignment 4 - Authentication",
-					"time": "3h"
+					"time": "3h",
+					"due": ""
 				}
 			],
-			"class2": [],
-			"homework": []
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - Authentication",
+					"time": "1.5h",
+					"due": ""
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - Authentication",
+					"time": "3h",
+					"due": "2026-03-22"
+				},
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 3",
+					"time": "1h",
+					"due": "2026-03-08"
+				}
+			]
 		},
 		{
 			"week": "W09 - MAR 23",
@@ -262,11 +447,52 @@
 				{
 					"type": "quiz",
 					"title": "Quiz 4",
-					"time": "15m"
+					"time": "30m"
+				},
+				{
+					"type": "lesson",
+					"title": "Chapter 5",
+					"time": "1h"
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 5 Exercises",
+					"time": "1h",
+					"due": ""
 				}
 			],
-			"class2": [],
-			"homework": []
+			"class2": [
+				{
+					"type": "lesson",
+					"title": "Chapter 5",
+					"time": "45m"
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 5 Exercises",
+					"time": "30m",
+					"due": ""
+				}
+			],
+			"homework": [
+				{
+					"type": "lesson",
+					"title": "Review Chapter 5",
+					"time": "30m"
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 5 Exercises",
+					"time": "30m",
+					"due": "2026-03-27"
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 5 - Real-time Data",
+					"time": "3h",
+					"due": ""
+				}
+			]
 		},
 		{
 			"week": "W10 - MAR 30",
@@ -275,16 +501,36 @@
 				{
 					"type": "assignment",
 					"title": "Assignment 5 - Real-time Data",
-					"time": "3h"
+					"time": "3h",
+					"due": ""
 				}
 			],
 			"class2": [
 				{
 					"type": "cancelled",
 					"title": "Good Friday"
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 5 - Real-time Data",
+					"time": "1.5h",
+					"due": ""
 				}
 			],
-			"homework": []
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "Assignment 5 - Real-time Data",
+					"time": "3h",
+					"due": "2026-04-05"
+				},
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 4",
+					"time": "1h",
+					"due": "2026-03-08"
+				}
+			]
 		},
 		{
 			"week": "W11 - APR 06",
@@ -293,18 +539,18 @@
 				{
 					"type": "cancelled",
 					"title": "Easter Monday"
-				},
-				{
-					"type": "project",
-					"title": "Project",
-					"time": "3h"
 				}
 			],
 			"class2": [
 				{
 					"type": "quiz",
 					"title": "Quiz 5",
-					"time": "15m"
+					"time": "30m"
+				},
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "45m"
 				}
 			],
 			"homework": []
@@ -320,7 +566,14 @@
 				}
 			],
 			"class2": [],
-			"homework": []
+			"homework": [
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 5",
+					"time": "1h",
+					"due": "2026-03-08"
+				}
+			]
 		},
 		{
 			"week": "W13 - APR 20",

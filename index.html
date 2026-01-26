@@ -11,13 +11,17 @@
 		<!-- Handlebars Template -->
 		<script id="calendar-template" type="text/x-handlebars-template">
 			<ul class='vik-legend'>
-				<li class='vik-item vik-exercise'>Each week's worth of exercises all combine to make 1/6 per cent of the following week's assignment grade.</li>
+				<li class='vik-item vik-exercise'>Each week's worth of exercises all combine to make 1/6 per cent of the following week's assignment grade. Exercises are designed to be completed in class, but you can submit by the end of the day Friday.</li>
 				<li class='vik-item vik-quiz'>Each quiz is worth 4% and your lowest one is automatically dropped. You must be physically in the classroom to take the quiz. They will be two-stage which means one part is individual and the other part is collaborative.</li>
 				<li class='vik-item vik-assignment'>Each assignment is worth 6% with 1% coming from the exercises of the prior week, effectively making the assignment worth 5% on its own. Assignment weeks are up to you to manage your time, I'll be in the lab during class time as usual. Since all the apps you build must work on both iOS and Android, you will need to</li>
-				<li class='vik-item vik-project'>Project: TBD</li>
-				<li class='vik-item vik-activity'>Each assignment will have a peer assessment component. </li>
-				<li class='vik-item vik-lesson'>Lessons</li>
+				<li class='vik-item vik-project'>The project is being decided upon by Michael and myself, so stay tuned later in the semester for details on specifics.</li>
+				<li class='vik-item vik-activity'>Each assignment will have a peer assessment component. You will test the apps of three peers per assignment and provide feedback.</li>
+				<li class='vik-item vik-lesson'>Lessons will be a mix of lectures, demonstrations, and hands-on activities designed to help you understand the material and apply it in practical ways. At the end of each week, it is in your best interest to review the previous week's lesson on the course notes website to prepare for the next quiz. </li>
 			</ul>
+
+			<div style="background: #fff3cd; border: 2px solid #ff9800; border-radius: 8px; padding: 1.5rem; margin: 1rem 0; font-size: 1rem; color: #333; font-family: monospace;">
+				<strong>⚠️ Disclaimer:</strong> This schedule is entirely tentative and subject to change at any time. As this is my first time teaching this course, I have no idea how long things will actually take. As a result, always triple-check the dates for anything to make sure I haven't changed anything since you last checked. Please be flexible and thank you for your understanding and patience as we navigate this together!
+			</div>
 
 			<table class="vik-table">
 				<thead>
@@ -44,14 +48,14 @@
 								<li>
 									<a class="vik-item vik-{{type}}" href="{{link}}" target="_blank">
 									{{title}}
-									{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
+									{{#if due}}<span class="vik-due">{{formatDue due}}</span>{{/if}}
 									<span class="vik-time">{{time}}</span>
 									</a>
 								</li>
 								{{else}}
 								<li class="vik-item vik-{{type}}">
 									{{title}}
-									{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
+									{{#if due}}<span class="vik-due">{{formatDue due}}</span>{{/if}}
 									<span class="vik-time">{{time}}</span>
 								</li>
 								{{/if}}
@@ -71,14 +75,14 @@
 								<li>
 									<a class="vik-item vik-{{type}}" href="{{link}}" target="_blank">
 									{{title}}
-									{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
+									{{#if due}}<span class="vik-due">{{formatDue due}}</span>{{/if}}
 									<span class="vik-time">{{time}}</span>
 									</a>
 								</li>
 								{{else}}
 								<li class="vik-item vik-{{type}}">
 									{{title}}
-									{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
+									{{#if due}}<span class="vik-due">{{formatDue due}}</span>{{/if}}
 									<span class="vik-time">{{time}}</span>
 								</li>
 								{{/if}}
@@ -95,14 +99,14 @@
 								<li>
 									<a class="vik-item vik-{{type}}" href="{{link}}" target="_blank">
 									{{title}}
-									{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
+									{{#if due}}<span class="vik-due">{{formatDue due}}</span>{{/if}}
 									<span class="vik-time">{{time}}</span>
 									</a>
 								</li>
 							{{else}}
 								<li class="vik-item vik-{{type}}">
 									{{title}}
-									{{#if due}}<span class="vik-due">{{due}}</span>{{/if}}
+									{{#if due}}<span class="vik-due">{{formatDue due}}</span>{{/if}}
 									<span class="vik-time">{{time}}</span>
 								</li>
 							{{/if}}
