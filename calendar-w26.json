@@ -70,21 +70,41 @@
 					"type": "lesson",
 					"title": "1.3 Styling",
 					"time": "10m",
-					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-1/14-images/"
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-1/13-styling/"
 				},
 				{
 					"type": "lesson",
 					"title": "1.4 Images",
-					"time": "15m"
+					"time": "15m",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-1/14-images/"
 				}
 			],
 			"class2": [
+				{
+					"type": "lesson",
+					"title": "0.0 New Environment Setup",
+					"time": "30m",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/new-environment-setup/"
+				},
 				{
 					"type": "exercise",
 					"title": "Exercise 0.0.0 - New Environment Setup",
 					"time": "45m",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68525"
-				},
+				}
+			],
+			"homework": [
+				{
+					"type": "lesson",
+					"title": "Review Chapter 1",
+					"time": "30m"
+				}
+			]
+		},
+		{
+			"week": "W02 - FEB 02",
+			"startDate": "2026-02-02",
+			"class1": [
 				{
 					"type": "lesson",
 					"title": "1.5 Buttons",
@@ -108,26 +128,13 @@
 					"time": "20m",
 					"due": "",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68744"
-				}
-			],
-			"homework": [
-				{
-					"type": "lesson",
-					"title": "Review Chapter 1",
-					"time": "30m"
 				},
 				{
 					"type": "exercise",
 					"title": "Chapter 1 Exercises",
 					"time": "30m",
 					"due": "2026-02-02"
-				}
-			]
-		},
-		{
-			"week": "W02 - FEB 02",
-			"startDate": "2026-02-02",
-			"class1": [
+				},
 				{
 					"type": "assignment",
 					"title": "Assignment 1 - Basic UI & Lists",
