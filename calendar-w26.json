@@ -41,20 +41,16 @@
 					"time": "20m"
 				},
 				{
-					"type": "exercise",
-					"title": "Exercise 0.0.0 - New Environment Setup",
-					"time": "40m",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68525"
-				},
-				{
 					"type": "lesson",
 					"title": "1.1 React Native + Expo Intro",
-					"time": "10m"
+					"time": "10m",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-1/11-introduction/"
 				},
 				{
 					"type": "lesson",
 					"title": "1.2 Basic Components",
-					"time": "10m"
+					"time": "10m",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-1/12-core-components/"
 				},
 				{
 					"type": "exercise",
@@ -70,10 +66,12 @@
 					"due": "",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68520"
 				},
+				null,
 				{
 					"type": "lesson",
 					"title": "1.3 Styling",
-					"time": "10m"
+					"time": "10m",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-1/14-images/"
 				},
 				{
 					"type": "lesson",
@@ -83,6 +81,12 @@
 			],
 			"class2": [
 				{
+					"type": "exercise",
+					"title": "Exercise 0.0.0 - New Environment Setup",
+					"time": "45m",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68525"
+				},
+				{
 					"type": "lesson",
 					"title": "1.5 Buttons",
 					"time": "15m"
@@ -91,7 +95,8 @@
 					"type": "exercise",
 					"title": "Exercise 1.5.1 - Buttons",
 					"time": "20m",
-					"due": ""
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68743"
 				},
 				{
 					"type": "lesson",
@@ -102,7 +107,8 @@
 					"type": "exercise",
 					"title": "Exercise 1.6.1 - Lists",
 					"time": "20m",
-					"due": ""
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68744"
 				}
 			],
 			"homework": [
@@ -111,17 +117,12 @@
 					"title": "Review Chapter 1",
 					"time": "30m"
 				},
+				null,
 				{
 					"type": "exercise",
 					"title": "Chapter 1 Exercises",
 					"time": "30m",
-					"due": "2026-01-30"
-				},
-				{
-					"type": "assignment",
-					"title": "Assignment 1 - Basic UI & Lists",
-					"time": "3h",
-					"due": ""
+					"due": "2026-02-02"
 				}
 			]
 		},
@@ -132,7 +133,7 @@
 				{
 					"type": "assignment",
 					"title": "Assignment 1 - Basic UI & Lists",
-					"time": "3h",
+					"time": "1.5h",
 					"due": ""
 				}
 			],
@@ -140,11 +141,16 @@
 				{
 					"type": "assignment",
 					"title": "Assignment 1 - Basic UI & Lists",
-					"time": "1.5h",
+					"time": "3h",
 					"due": ""
 				}
 			],
 			"homework": [
+				{
+					"type": "lesson",
+					"title": "Review Chapter 1",
+					"time": "30m"
+				},
 				{
 					"type": "assignment",
 					"title": "Assignment 1 - Basic UI & Lists",

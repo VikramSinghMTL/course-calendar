@@ -3,7 +3,8 @@
 	--accent-color: #414559;
 }
 
-html, body {
+html,
+body {
 	margin: 0;
 	padding: 0;
 }
@@ -34,7 +35,9 @@ html, body {
 	position: sticky;
 	top: 0; /* Sticks the header to the top of the container */
 	z-index: 1; /* Ensures the header stays above other content when scrolling */
-	background-color: var(--accent-color); /* Set a background color to prevent overlap issues */
+	background-color: var(
+		--accent-color
+	); /* Set a background color to prevent overlap issues */
 	color: #ffffff; /* Ensure header text color is visible */
 }
 
@@ -109,8 +112,8 @@ html, body {
 		#eee,
 		/* Color of the line */ #eee 5px,
 		/* Line thickness */ transparent 5px,
-		/* Transparent space starts after line thickness */
-			transparent 10px /* Determines spacing between lines  */
+		/* Transparent space starts after line thickness */ transparent 10px
+			/* Determines spacing between lines  */
 	);
 }
 
@@ -175,7 +178,8 @@ html, body {
 }
 
 a.vik-item {
-	transition: transform 0.1s ease-in-out,
+	transition:
+		transform 0.1s ease-in-out,
 		box-shadow 0.1s ease-in-out;
 }
 
