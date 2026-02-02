@@ -107,47 +107,79 @@
 			"class1": [
 				{
 					"type": "lesson",
-					"title": "1.5 Buttons",
-					"time": "15m"
+					"title": "1.5 Input",
+					"time": "45m",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-1/15-input/"
 				},
 				{
 					"type": "exercise",
 					"title": "Exercise 1.5.1 - Buttons",
-					"time": "20m",
+					"time": "",
 					"due": "",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68743"
 				},
 				{
+					"type": "exercise",
+					"title": "Exercise 1.5.2 - Forms",
+					"time": "",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68893"
+				},
+				{
 					"type": "lesson",
 					"title": "1.6 Lists",
-					"time": "15m"
+					"time": "45m",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-1/16-lists/"
 				},
 				{
 					"type": "exercise",
-					"title": "Exercise 1.6.1 - Lists",
-					"time": "20m",
+					"title": "Exercise 1.6.1 - Read",
+					"time": "",
 					"due": "",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68744"
 				},
 				{
 					"type": "exercise",
-					"title": "Chapter 1 Exercises",
-					"time": "30m",
-					"due": "2026-02-02"
+					"title": "Exercise 1.6.2 - Create",
+					"time": "",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68894"
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 1.6.3 - Update",
+					"time": "",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68895"
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 1.6.4 - Delete",
+					"time": "",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68896"
 				},
 				{
 					"type": "assignment",
-					"title": "Assignment 1 - Basic UI & Lists",
-					"time": "1.5h",
-					"due": ""
+					"title": "Assignment 1 - CRUD",
+					"time": "1h",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898"
 				}
 			],
 			"class2": [
 				{
+					"type": "exercise",
+					"title": "Chapter 1 Exercises",
+					"time": "",
+					"due": "2026-02-06"
+				},
+				{
 					"type": "assignment",
-					"title": "Assignment 1 - Basic UI & Lists",
-					"time": "3h",
-					"due": ""
+					"title": "Assignment 1 - CRUD",
+					"time": "1.5h",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898"
 				}
 			],
 			"homework": [
@@ -158,9 +190,10 @@
 				},
 				{
 					"type": "assignment",
-					"title": "Assignment 1 - Basic UI & Lists",
+					"title": "Assignment 1 - CRUD",
 					"time": "4h",
-					"due": "2026-02-08"
+					"due": "2026-02-08",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898"
 				}
 			]
 		},
