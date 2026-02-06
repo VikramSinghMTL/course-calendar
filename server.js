@@ -157,6 +157,6 @@ Bun.serve({
 });
 
 console.log(`\n📅 Course Calendar Editor`);
-console.log(`   Viewer: http://localhost:${PORT}/`);
+console.log(`   Viewer: http://localhost:${PORT}/viewer`);
 console.log(`   Editor: http://localhost:${PORT}/editor`);
 console.log(`\n   Auto-save enabled ✓\n`);
