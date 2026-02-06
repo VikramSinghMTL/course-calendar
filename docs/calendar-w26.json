@@ -1,0 +1,899 @@
+{
+	"weeks": [
+		{
+			"week": "W00 - JAN 19",
+			"startDate": "2026-01-19",
+			"class1": [
+				{
+					"type": "cancelled",
+					"title": "Class cancelled.",
+					"id": "activity-1770156622833-hpn2zegxq",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"type": "quiz",
+					"title": "Quiz 0 (0 %)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=68481",
+					"time": "15m",
+					"id": "activity-1770156622833-j166r254v",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "lesson",
+					"title": "Course outline",
+					"link": "https://moodle.johnabbott.qc.ca/mod/resource/view.php?id=68469",
+					"time": "30m",
+					"id": "activity-1770156622833-ehr3tfiea",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "lesson",
+					"title": "Expo Go Preview",
+					"time": "5m",
+					"id": "activity-1770156622833-1ihltu9jc",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": []
+		},
+		{
+			"week": "W01 - JAN 26",
+			"startDate": "2026-01-26",
+			"class1": [
+				{
+					"type": "lesson",
+					"title": "1.1 React Native + Expo Intro",
+					"time": "10m",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-1/11-introduction/",
+					"id": "activity-1770156622833-rzyx1r35o",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "lesson",
+					"title": "1.2 Basic Components",
+					"time": "10m",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-1/12-core-components/",
+					"id": "activity-1770156622833-geuqdil64",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 1.2.1 - Grid",
+					"time": "10m",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68519",
+					"id": "activity-1770156622833-jbigvtgaz",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 1.2.2 - Card",
+					"time": "10m",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68520",
+					"id": "activity-1770156622833-nv9ba52pw",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "lesson",
+					"title": "1.3 Styling",
+					"time": "10m",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-1/13-styling/",
+					"id": "activity-1770156622833-sjnici6k1",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "lesson",
+					"title": "1.4 Images",
+					"time": "15m",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-1/14-images/",
+					"id": "activity-1770156622833-qfnvt2669",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"type": "lesson",
+					"title": "0.0 New Environment Setup",
+					"time": "30m",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/new-environment-setup/",
+					"id": "activity-1770156622833-zlxy1trsm",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 0.0.0 - New Environment Setup",
+					"time": "45m",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68525",
+					"id": "activity-1770156622833-lgz450dsk",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": [
+				{
+					"type": "lesson",
+					"title": "Review Chapter 1",
+					"time": "30m",
+					"id": "activity-1770156622833-kxkhcr4qm",
+					"chosen": false,
+					"selected": false
+				}
+			]
+		},
+		{
+			"week": "W02 - FEB 02",
+			"startDate": "2026-02-02",
+			"class1": [
+				{
+					"type": "lesson",
+					"title": "1.5 Input",
+					"time": "45m",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-1/15-input/",
+					"id": "activity-1770156622833-fmam9fuex",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 1.5.1 - Buttons",
+					"time": "",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68743",
+					"id": "activity-1770156622833-iusftaog4",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 1.5.2 - Forms",
+					"time": "",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68893",
+					"id": "activity-1770156622833-ec1zy4y75",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "lesson",
+					"title": "1.6 Lists",
+					"time": "45m",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-1/16-lists/",
+					"id": "activity-1770156622833-3b503vh2i",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 1.6.1 - Read",
+					"time": "",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68744",
+					"id": "activity-1770156622833-kd97737ec",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 1.6.2 - Create",
+					"time": "",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68894",
+					"id": "activity-1770156622833-sws63q6uz",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 1.6.3 - Update",
+					"time": "",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68895",
+					"id": "activity-1770156622833-veh79v3fs",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 1.6.4 - Delete",
+					"time": "",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68896",
+					"id": "activity-1770156622833-ilgislnae",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"type": "exercise",
+					"title": "Chapter 1 Exercises",
+					"time": "",
+					"due": "2026-02-06",
+					"id": "activity-1770156622833-uhar81wz4",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 1 - Lists",
+					"time": "1.5h",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898",
+					"id": "activity-1770156622833-px3so0dq6",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": [
+				{
+					"type": "lesson",
+					"title": "Review Chapter 1",
+					"time": "30m",
+					"id": "activity-1770156622833-09fian0j9",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 1 - Lists",
+					"time": "4h",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898",
+					"id": "activity-1770156622833-oxbtiwh7b",
+					"chosen": false,
+					"selected": false
+				}
+			]
+		},
+		{
+			"week": "W03 - FEB 09",
+			"startDate": "2026-02-09",
+			"class1": [
+				{
+					"type": "assignment",
+					"title": "Assignment 1 - Lists",
+					"time": "3h",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898",
+					"id": "activity-1770156622833-i5wclgbf9",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "Assignment 1 - Lists",
+					"time": "1.5h",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898",
+					"id": "activity-1770340578117-kb9aji816",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "Assignment 1 - Lists",
+					"time": "4h",
+					"due": "2026-02-15",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898",
+					"id": "activity-1770340667408-zpxtfmsvz",
+					"chosen": false,
+					"selected": false
+				}
+			]
+		},
+		{
+			"week": "W04 - FEB 16",
+			"startDate": "2026-02-16",
+			"class1": [
+				{
+					"type": "quiz",
+					"title": "Quiz 1 (3%)",
+					"time": "30m",
+					"id": "activity-1770156622833-5tk55k2t8",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "lesson",
+					"title": "Chapter 2",
+					"time": "1h",
+					"id": "activity-1770156622833-udz9fpyie",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 2 Exercises",
+					"time": "1h",
+					"due": "",
+					"id": "activity-1770156622833-i2thobufq",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 2 - Navigation & Maps",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1770156622833-lmq0a77zo",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"type": "exercise",
+					"title": "Chapter 2 Exercises",
+					"time": "30m",
+					"due": "",
+					"id": "activity-1770156622833-939fodlhl",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "lesson",
+					"title": "Chapter 2",
+					"time": "45m",
+					"id": "activity-1770156622833-z4ebqydk1",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 2 - Navigation & Maps",
+					"time": "1.5h",
+					"due": "",
+					"id": "activity-1770156622833-awub79yy7",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": [
+				{
+					"type": "exercise",
+					"title": "Chapter 2 Exercises",
+					"time": "30m",
+					"due": "2026-02-13",
+					"id": "activity-1770156622833-e8tmruw8y",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 2 - Navigation & Maps",
+					"time": "3h",
+					"due": "2026-02-22",
+					"id": "activity-1770156622833-onuqc5afz",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 1",
+					"time": "1h",
+					"due": "2026-02-22",
+					"id": "activity-1770156622833-zzieuzl7d",
+					"chosen": false,
+					"selected": false
+				}
+			]
+		},
+		{
+			"week": "W05 - FEB 23",
+			"startDate": "2026-02-23",
+			"class1": [
+				{
+					"type": "quiz",
+					"title": "Quiz 2",
+					"time": "30m",
+					"id": "activity-1770156622833-mml1quyu0",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "lesson",
+					"title": "Chapter 3",
+					"time": "1h",
+					"id": "activity-1770156622833-iej40aqow",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 3 Exercises",
+					"time": "1h",
+					"due": "",
+					"id": "activity-1770156622833-nj1aihmhb",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"type": "lesson",
+					"title": "Chapter 3",
+					"time": "45m",
+					"id": "activity-1770156622833-038c9srgq",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 3 Exercises",
+					"time": "30m",
+					"due": "",
+					"id": "activity-1770156622833-hdx7dex8y",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": [
+				{
+					"type": "lesson",
+					"title": "Review Chapter 3",
+					"time": "30m",
+					"id": "activity-1770156622833-tz5x5348u",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 3 Exercises",
+					"time": "30m",
+					"due": "2026-02-27",
+					"id": "activity-1770156622833-i980raffp",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1770156622833-76ghwogdr",
+					"chosen": false,
+					"selected": false
+				}
+			]
+		},
+		{
+			"week": "W06 - MAR 02",
+			"startDate": "2026-03-02",
+			"class1": [
+				{
+					"type": "cancelled",
+					"title": "March Break",
+					"id": "activity-1770156622833-6kot4a1yl",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1770156622833-o8td5nmg3",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"type": "cancelled",
+					"title": "March Break",
+					"id": "activity-1770156622833-cb3je3pfy",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "1.5h",
+					"due": "",
+					"id": "activity-1770156622833-crfg8elgk",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "3h",
+					"due": "2026-03-08",
+					"id": "activity-1770156622833-iwgf8e81u",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 2",
+					"time": "30m",
+					"due": "2026-03-08",
+					"id": "activity-1770156622833-1oy32mpmd",
+					"chosen": false,
+					"selected": false
+				}
+			]
+		},
+		{
+			"week": "W07 - MAR 09",
+			"startDate": "2026-03-09",
+			"class1": [
+				{
+					"type": "quiz",
+					"title": "Quiz 3",
+					"time": "30m",
+					"id": "activity-1770156622833-h5rltwp96",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "lesson",
+					"title": "Chapter 4",
+					"time": "1h",
+					"id": "activity-1770156622833-hkxbbka4y",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 4 Exercises",
+					"time": "1h",
+					"due": "",
+					"id": "activity-1770156622833-w0cirtn25",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"type": "lesson",
+					"title": "Chapter 4",
+					"time": "45m",
+					"id": "activity-1770156622833-awmzoniim",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 4 Exercises",
+					"time": "30m",
+					"due": "",
+					"id": "activity-1770156622833-hrmf18yyx",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": [
+				{
+					"type": "lesson",
+					"title": "Review Chapter 4",
+					"time": "30m",
+					"id": "activity-1770156622833-e4gi90ezk",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 4 Exercises",
+					"time": "30m",
+					"due": "2026-03-13",
+					"id": "activity-1770156622833-epy9xatis",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - Authentication",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1770156622833-4nztj3jpu",
+					"chosen": false,
+					"selected": false
+				}
+			]
+		},
+		{
+			"week": "W08 - MAR 16",
+			"startDate": "2026-03-16",
+			"class1": [
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - Authentication",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1770156622833-lka2vt707",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - Authentication",
+					"time": "1.5h",
+					"due": "",
+					"id": "activity-1770156622833-up75kdwzh",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - Authentication",
+					"time": "3h",
+					"due": "2026-03-22",
+					"id": "activity-1770156622833-47f6plzgh",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 3",
+					"time": "1h",
+					"due": "2026-03-22",
+					"id": "activity-1770156622833-525bgpr4k",
+					"chosen": false,
+					"selected": false
+				}
+			]
+		},
+		{
+			"week": "W09 - MAR 23",
+			"startDate": "2026-03-23",
+			"class1": [
+				{
+					"type": "quiz",
+					"title": "Quiz 4",
+					"time": "30m",
+					"id": "activity-1770156622833-e8vf85e6v",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "lesson",
+					"title": "Chapter 5",
+					"time": "1h",
+					"id": "activity-1770156622833-6q92dbnyq",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 5 Exercises",
+					"time": "1h",
+					"due": "",
+					"id": "activity-1770156622833-jqbqbr82k",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"type": "lesson",
+					"title": "Chapter 5",
+					"time": "45m",
+					"id": "activity-1770156622833-o5qi7ms5t",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 5 Exercises",
+					"time": "30m",
+					"due": "",
+					"id": "activity-1770156622833-zaljob4xu",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": [
+				{
+					"type": "lesson",
+					"title": "Review Chapter 5",
+					"time": "30m",
+					"id": "activity-1770156622833-tx6rq0b1u",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 5 Exercises",
+					"time": "30m",
+					"due": "2026-03-27",
+					"id": "activity-1770156622833-4ti3j8u59",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 5 - Real-time Data",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1770156622833-7bnr65741",
+					"chosen": false,
+					"selected": false
+				}
+			]
+		},
+		{
+			"week": "W10 - MAR 30",
+			"startDate": "2026-03-30",
+			"class1": [
+				{
+					"type": "assignment",
+					"title": "Assignment 5 - Real-time Data",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1770156622833-zauli2h52",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"type": "cancelled",
+					"title": "Good Friday",
+					"id": "activity-1770156622833-w667tegxs",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 5 - Real-time Data",
+					"time": "1.5h",
+					"due": "",
+					"id": "activity-1770156622833-40p4cz62q",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "Assignment 5 - Real-time Data",
+					"time": "3h",
+					"due": "2026-04-05",
+					"id": "activity-1770156622833-4qxj4vy2m",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 4",
+					"time": "1h",
+					"due": "2026-04-05",
+					"id": "activity-1770156622833-sp3qhivx5",
+					"chosen": false,
+					"selected": false
+				}
+			]
+		},
+		{
+			"week": "W11 - APR 06",
+			"startDate": "2026-04-06",
+			"class1": [
+				{
+					"type": "cancelled",
+					"title": "Easter Monday",
+					"id": "activity-1770156622833-6wbvdqzf8",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"type": "quiz",
+					"title": "Quiz 5",
+					"time": "30m",
+					"id": "activity-1770156622833-jqa6mp8ye",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "45m",
+					"id": "activity-1770156622833-b794pmtat",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": []
+		},
+		{
+			"week": "W12 - APR 13",
+			"startDate": "2026-04-13",
+			"class1": [
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "3h",
+					"id": "activity-1770156622833-ol3wu5zrz",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [],
+			"homework": [
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 5",
+					"time": "1h",
+					"due": "2026-04-19",
+					"id": "activity-1770156622833-x2cb6n2ks",
+					"chosen": false,
+					"selected": false
+				}
+			]
+		},
+		{
+			"week": "W13 - APR 20",
+			"startDate": "2026-04-20",
+			"class1": [
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "3h",
+					"id": "activity-1770156622833-z2lnxomeo",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [],
+			"homework": []
+		},
+		{
+			"week": "W14 - APR 27",
+			"startDate": "2026-04-27",
+			"class1": [
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "3h",
+					"id": "activity-1770156622833-vjvh2l4l9",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [],
+			"homework": []
+		},
+		{
+			"week": "W15 - MAY 04",
+			"startDate": "2026-05-04",
+			"class1": [
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "3h",
+					"id": "activity-1770156622833-26k88gc23",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [],
+			"homework": []
+		}
+	]
+}

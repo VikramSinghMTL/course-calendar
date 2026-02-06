@@ -7,7 +7,10 @@
 	"scripts": {
 		"dev": "bun server.js",
 		"start": "bun server.js",
-		"build": "bun build src/index.tsx --outdir=dist --target=browser --minify"
+		"build": "bun run build-static.tsx",
+		"build:editor": "bun build src/index.tsx --outdir=docs/dist --target=browser --minify",
+		"predeploy": "bun run build",
+		"deploy": "gh-pages -d docs"
 	},
 	"keywords": [
 		"calendar",

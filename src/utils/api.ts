@@ -1,11 +1,15 @@
 /**
- * API utility functions for calendar editor
+ * API utility functions for calendar editor and viewer
  */
 
 import axios from 'axios';
 import type { CalendarData, TermCode } from '@/types';
 
 const API_BASE_URL = 'http://localhost:3000/api';
+
+// Detect if we're in production (GitHub Pages) or development
+const isProduction =
+	import.meta.env.PROD || !window.location.hostname.includes('localhost');
 
 /**
  * Fetch calendar data for a given term
@@ -14,13 +18,28 @@ const API_BASE_URL = 'http://localhost:3000/api';
  */
 export async function fetchCalendar(term: TermCode): Promise<CalendarData> {
 	try {
-		const response = await axios.get(`${API_BASE_URL}/calendar/${term}`, {
-			headers: {
-				'Cache-Control': 'no-cache',
-				Pragma: 'no-cache',
-			},
-		});
-		return response.data;
+		if (isProduction) {
+			// In production, fetch directly from JSON files
+			const response = await fetch(`/calendar-${term}.json`);
+			if (!response.ok) {
+				throw new Error(
+					`Failed to fetch calendar: ${response.statusText}`
+				);
+			}
+			return await response.json();
+		} else {
+			// In development, use the API server
+			const response = await axios.get(
+				`${API_BASE_URL}/calendar/${term}`,
+				{
+					headers: {
+						'Cache-Control': 'no-cache',
+						Pragma: 'no-cache',
+					},
+				}
+			);
+			return response.data;
+		}
 	} catch (error) {
 		console.error('Failed to fetch calendar:', error);
 		throw new Error('Failed to load calendar data');
