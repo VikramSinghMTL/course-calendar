@@ -37,7 +37,12 @@ export const ActivityItem: React.FC<ActivityItemProps> = ({ activity }) => {
 	if (link) {
 		return (
 			<li>
-				<a href={link} className={`vik-item vik-${type}`}>
+				<a
+					href={link}
+					className={`vik-item vik-${type}`}
+					target="_blank"
+					rel="noopener noreferrer"
+				>
 					{content}
 				</a>
 			</li>
