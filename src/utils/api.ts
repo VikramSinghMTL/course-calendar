@@ -8,8 +8,10 @@ import type { CalendarData, TermCode } from '@/types';
 const API_BASE_URL = 'http://localhost:3000/api';
 
 // Detect if we're in production (GitHub Pages) or development
+// Check if running on localhost - if not, we're in production
 const isProduction =
-	import.meta.env.PROD || !window.location.hostname.includes('localhost');
+	!window.location.hostname.includes('localhost') &&
+	window.location.hostname !== '127.0.0.1';
 
 /**
  * Fetch calendar data for a given term
