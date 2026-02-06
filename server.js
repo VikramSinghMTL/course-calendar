@@ -91,7 +91,7 @@ Bun.serve({
 		}
 
 		// Serve static files
-		const filePath = pathname === '/' ? './index.html' : `.${pathname}`;
+		const filePath = pathname === '/' ? './viewer.html' : `.${pathname}`;
 
 		// Handle TypeScript/JSX files - transpile them
 		if (
@@ -147,9 +147,9 @@ Bun.serve({
 			return new Response(file);
 		}
 
-		// Fallback to index.html for client-side routing
+		// Fallback to viewer.html for client-side routing
 		if (!pathname.startsWith('/api')) {
-			return new Response(Bun.file('./index.html'));
+			return new Response(Bun.file('./viewer.html'));
 		}
 
 		return new Response('Not Found', { status: 404 });

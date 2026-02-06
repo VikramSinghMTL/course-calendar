@@ -38,6 +38,14 @@
 					"id": "activity-1770156622833-1ihltu9jc",
 					"chosen": false,
 					"selected": false
+				},
+				{
+					"type": "lesson",
+					"title": "Expo Go Preview",
+					"time": "5m",
+					"id": "activity-1770345178679-gwubbysnd",
+					"chosen": false,
+					"selected": false
 				}
 			],
 			"homework": []
