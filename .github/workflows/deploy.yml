@@ -7,7 +7,7 @@ on:
     workflow_dispatch:
 
 permissions:
-    contents: read
+    contents: write
     pages: write
     id-token: write
 
@@ -32,6 +32,13 @@ jobs:
 
             - name: Build
               run: bun run build
+
+            - name: Commit and push build artifacts
+              run: |
+                  git config --local user.email "action@github.com"
+                  git config --local user.name "GitHub Action"
+                  git add docs/
+                  git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update build artifacts" && git push)
 
             - name: Upload artifact
               uses: actions/upload-pages-artifact@v3
