@@ -2,19 +2,36 @@
 	"name": "course-calendar",
 	"version": "1.0.0",
 	"description": "Client-side course calendar with local editing interface",
-	"main": "server.js",
+	"main": "src/index.tsx",
+	"type": "module",
 	"scripts": {
-		"start": "node server.js",
-		"dev": "node server.js"
+		"dev": "bun server.js",
+		"start": "bun server.js",
+		"build": "bun build src/index.tsx --outdir=dist --target=browser --minify"
 	},
 	"keywords": [
 		"calendar",
-		"education",
-		"handlebars"
+		"education"
 	],
-	"author": "",
+	"author": "Vikram Singh",
 	"license": "CC0-1.0",
 	"dependencies": {
-		"express": "^4.18.2"
+		"axios": "^1.13.4",
+		"date-fns": "^4.1.0",
+		"react": "^19.2.4",
+		"react-dom": "^19.2.4",
+		"react-sortablejs": "^6.1.4",
+		"sortablejs": "^1.15.6"
+	},
+	"private": true,
+	"devDependencies": {
+		"@types/bun": "latest",
+		"@types/cors": "^2.8.19",
+		"@types/react": "^19.2.10",
+		"@types/react-dom": "^19.2.3",
+		"@types/sortablejs": "^1.15.9"
+	},
+	"peerDependencies": {
+		"typescript": "^5"
 	}
 }
