@@ -22,7 +22,9 @@ export async function fetchCalendar(term: TermCode): Promise<CalendarData> {
 	try {
 		if (isProduction) {
 			// In production, fetch directly from JSON files
-			const response = await fetch(`/calendar-${term}.json`);
+			// Use relative path to work with GitHub Pages subdirectory
+			const basePath = window.location.pathname.replace(/\/[^/]*$/, '');
+			const response = await fetch(`${basePath}/calendar-${term}.json`);
 			if (!response.ok) {
 				throw new Error(
 					`Failed to fetch calendar: ${response.statusText}`
