@@ -330,7 +330,44 @@
 					"time": "1.5h"
 				}
 			],
-			"homework": []
+			"homework": [
+				{
+					"id": "activity-1771207713148-8wvvft294",
+					"type": "activity",
+					"title": "Introduction to Expo Router Layout Files",
+					"chosen": false,
+					"link": "https://youtu.be/Yh6Qlg2CYwQ?si=UB_ouks3rV1e9iCW",
+					"due": "2026-02-19",
+					"time": "15m"
+				},
+				{
+					"id": "activity-1771207765782-j809hwo16",
+					"type": "activity",
+					"title": "Using a Stack Navigator with Expo Router",
+					"chosen": false,
+					"link": "https://youtu.be/izZv6a99Roo?si=6inRNdD1NnRz0tcL",
+					"due": "2026-02-19",
+					"time": "15m"
+				},
+				{
+					"id": "activity-1771207766943-st9xqxgkr",
+					"type": "activity",
+					"title": "Using a Tab Navigator with Expo Router",
+					"chosen": false,
+					"link": "https://youtu.be/BElPB4Ai3j0?si=Yxkf_9ckfFdnNVWL",
+					"due": "2026-02-19",
+					"time": "15m"
+				},
+				{
+					"id": "activity-1771207768929-q1nuhifox",
+					"type": "activity",
+					"title": "Using Modals with Expo Router",
+					"chosen": false,
+					"link": "https://youtu.be/gNzuJVRmyDk?si=GT-OmQPQ7vusaimT",
+					"due": "2026-02-19",
+					"time": "15m"
+				}
+			]
 		},
 		{
 			"week": "W05 - FEB 23",
