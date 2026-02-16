@@ -291,7 +291,7 @@
 					"type": "assignment",
 					"title": "Assignment 1 - Lists",
 					"time": "4h",
-					"due": "2026-02-15",
+					"due": "",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898",
 					"id": "activity-1770340667408-zpxtfmsvz",
 					"chosen": false,
@@ -302,6 +302,39 @@
 		{
 			"week": "W04 - FEB 16",
 			"startDate": "2026-02-16",
+			"class1": [
+				{
+					"id": "activity-1771206400514-xa74basle",
+					"type": "cancelled",
+					"title": "Cancelled",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 1 - Lists",
+					"time": "3h",
+					"due": "2026-02-16",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898",
+					"id": "activity-1771206606425-rzbztc8qp",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"id": "activity-1771206491502-347otzatc",
+					"type": "lesson",
+					"title": "TBD",
+					"chosen": false,
+					"time": "1.5h"
+				}
+			],
+			"homework": []
+		},
+		{
+			"week": "W05 - FEB 23",
+			"startDate": "2026-02-23",
 			"class1": [
 				{
 					"type": "quiz",
@@ -327,27 +360,9 @@
 					"id": "activity-1770156622833-i2thobufq",
 					"chosen": false,
 					"selected": false
-				},
-				{
-					"type": "assignment",
-					"title": "Assignment 2 - Navigation & Maps",
-					"time": "3h",
-					"due": "",
-					"id": "activity-1770156622833-lmq0a77zo",
-					"chosen": false,
-					"selected": false
 				}
 			],
 			"class2": [
-				{
-					"type": "exercise",
-					"title": "Chapter 2 Exercises",
-					"time": "30m",
-					"due": "",
-					"id": "activity-1770156622833-939fodlhl",
-					"chosen": false,
-					"selected": false
-				},
 				{
 					"type": "lesson",
 					"title": "Chapter 2",
@@ -357,11 +372,11 @@
 					"selected": false
 				},
 				{
-					"type": "assignment",
-					"title": "Assignment 2 - Navigation & Maps",
-					"time": "1.5h",
+					"type": "exercise",
+					"title": "Chapter 2 Exercises",
+					"time": "30m",
 					"due": "",
-					"id": "activity-1770156622833-awub79yy7",
+					"id": "activity-1770156622833-939fodlhl",
 					"chosen": false,
 					"selected": false
 				}
@@ -377,15 +392,6 @@
 					"selected": false
 				},
 				{
-					"type": "assignment",
-					"title": "Assignment 2 - Navigation & Maps",
-					"time": "3h",
-					"due": "2026-02-22",
-					"id": "activity-1770156622833-onuqc5afz",
-					"chosen": false,
-					"selected": false
-				},
-				{
 					"type": "activity",
 					"title": "Peer Assessment for Assignment 1",
 					"time": "1h",
@@ -397,8 +403,59 @@
 			]
 		},
 		{
-			"week": "W05 - FEB 23",
-			"startDate": "2026-02-23",
+			"week": "W06 - MAR 02",
+			"startDate": "2026-03-02",
+			"class1": [
+				{
+					"type": "cancelled",
+					"title": "March Break",
+					"id": "activity-1770156622833-6kot4a1yl",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 2 - Navigation & Maps",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1770156622833-lmq0a77zo",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"type": "cancelled",
+					"title": "March Break",
+					"id": "activity-1770156622833-cb3je3pfy",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 2 - Navigation & Maps",
+					"time": "1.5h",
+					"due": "",
+					"id": "activity-1770156622833-awub79yy7",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "Assignment 2 - Navigation & Maps",
+					"time": "3h",
+					"due": "2026-02-22",
+					"id": "activity-1770156622833-onuqc5afz",
+					"chosen": false,
+					"selected": false
+				}
+			]
+		},
+		{
+			"week": "W07 - MAR 09",
+			"startDate": "2026-03-09",
 			"class1": [
 				{
 					"type": "quiz",
@@ -424,6 +481,15 @@
 					"id": "activity-1770156622833-nj1aihmhb",
 					"chosen": false,
 					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1770156622833-o8td5nmg3",
+					"chosen": false,
+					"selected": false
 				}
 			],
 			"class2": [
@@ -441,6 +507,15 @@
 					"time": "30m",
 					"due": "",
 					"id": "activity-1770156622833-hdx7dex8y",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "1.5h",
+					"due": "",
+					"id": "activity-1770156622833-crfg8elgk",
 					"chosen": false,
 					"selected": false
 				}
@@ -471,57 +546,6 @@
 					"id": "activity-1770156622833-76ghwogdr",
 					"chosen": false,
 					"selected": false
-				}
-			]
-		},
-		{
-			"week": "W06 - MAR 02",
-			"startDate": "2026-03-02",
-			"class1": [
-				{
-					"type": "cancelled",
-					"title": "March Break",
-					"id": "activity-1770156622833-6kot4a1yl",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "assignment",
-					"title": "Assignment 3 - APIs & Data Caching",
-					"time": "3h",
-					"due": "",
-					"id": "activity-1770156622833-o8td5nmg3",
-					"chosen": false,
-					"selected": false
-				}
-			],
-			"class2": [
-				{
-					"type": "cancelled",
-					"title": "March Break",
-					"id": "activity-1770156622833-cb3je3pfy",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "assignment",
-					"title": "Assignment 3 - APIs & Data Caching",
-					"time": "1.5h",
-					"due": "",
-					"id": "activity-1770156622833-crfg8elgk",
-					"chosen": false,
-					"selected": false
-				}
-			],
-			"homework": [
-				{
-					"type": "assignment",
-					"title": "Assignment 3 - APIs & Data Caching",
-					"time": "3h",
-					"due": "2026-03-08",
-					"id": "activity-1770156622833-iwgf8e81u",
-					"chosen": false,
-					"selected": false
 				},
 				{
 					"type": "activity",
@@ -531,12 +555,21 @@
 					"id": "activity-1770156622833-1oy32mpmd",
 					"chosen": false,
 					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "3h",
+					"due": "2026-03-08",
+					"id": "activity-1770156622833-iwgf8e81u",
+					"chosen": false,
+					"selected": false
 				}
 			]
 		},
 		{
-			"week": "W07 - MAR 09",
-			"startDate": "2026-03-09",
+			"week": "W08 - MAR 16",
+			"startDate": "2026-03-16",
 			"class1": [
 				{
 					"type": "quiz",
@@ -613,8 +646,8 @@
 			]
 		},
 		{
-			"week": "W08 - MAR 16",
-			"startDate": "2026-03-16",
+			"week": "W09 - MAR 23",
+			"startDate": "2026-03-23",
 			"class1": [
 				{
 					"type": "assignment",
@@ -659,8 +692,8 @@
 			]
 		},
 		{
-			"week": "W09 - MAR 23",
-			"startDate": "2026-03-23",
+			"week": "W10 - MAR 30",
+			"startDate": "2026-03-30",
 			"class1": [
 				{
 					"type": "quiz",
@@ -689,6 +722,13 @@
 				}
 			],
 			"class2": [
+				{
+					"type": "cancelled",
+					"title": "Good Friday",
+					"id": "activity-1770156622833-w667tegxs",
+					"chosen": false,
+					"selected": false
+				},
 				{
 					"type": "lesson",
 					"title": "Chapter 5",
@@ -737,59 +777,6 @@
 			]
 		},
 		{
-			"week": "W10 - MAR 30",
-			"startDate": "2026-03-30",
-			"class1": [
-				{
-					"type": "assignment",
-					"title": "Assignment 5 - Real-time Data",
-					"time": "3h",
-					"due": "",
-					"id": "activity-1770156622833-zauli2h52",
-					"chosen": false,
-					"selected": false
-				}
-			],
-			"class2": [
-				{
-					"type": "cancelled",
-					"title": "Good Friday",
-					"id": "activity-1770156622833-w667tegxs",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "assignment",
-					"title": "Assignment 5 - Real-time Data",
-					"time": "1.5h",
-					"due": "",
-					"id": "activity-1770156622833-40p4cz62q",
-					"chosen": false,
-					"selected": false
-				}
-			],
-			"homework": [
-				{
-					"type": "assignment",
-					"title": "Assignment 5 - Real-time Data",
-					"time": "3h",
-					"due": "2026-04-05",
-					"id": "activity-1770156622833-4qxj4vy2m",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "activity",
-					"title": "Peer Assessment for Assignment 4",
-					"time": "1h",
-					"due": "2026-04-05",
-					"id": "activity-1770156622833-sp3qhivx5",
-					"chosen": false,
-					"selected": false
-				}
-			]
-		},
-		{
 			"week": "W11 - APR 06",
 			"startDate": "2026-04-06",
 			"class1": [
@@ -797,6 +784,15 @@
 					"type": "cancelled",
 					"title": "Easter Monday",
 					"id": "activity-1770156622833-6wbvdqzf8",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 5 - Real-time Data",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1770156622833-zauli2h52",
 					"chosen": false,
 					"selected": false
 				}
@@ -817,9 +813,37 @@
 					"id": "activity-1770156622833-b794pmtat",
 					"chosen": false,
 					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 5 - Real-time Data",
+					"time": "1.5h",
+					"due": "",
+					"id": "activity-1770156622833-40p4cz62q",
+					"chosen": false,
+					"selected": false
 				}
 			],
-			"homework": []
+			"homework": [
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 4",
+					"time": "1h",
+					"due": "2026-04-05",
+					"id": "activity-1770156622833-sp3qhivx5",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 5 - Real-time Data",
+					"time": "3h",
+					"due": "2026-04-05",
+					"id": "activity-1770156622833-4qxj4vy2m",
+					"chosen": false,
+					"selected": false
+				}
+			]
 		},
 		{
 			"week": "W12 - APR 13",

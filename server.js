@@ -31,12 +31,7 @@ Bun.serve({
 				console.log(
 					`📖 Loaded calendar-${term}.json (${data.weeks?.length || 0} weeks)`
 				);
-				if (data.weeks?.[0]?.class1?.[0]) {
-					console.log(
-						'   First activity:',
-						data.weeks[0].class1[0].title
-					);
-				}
+
 				return Response.json(data, { headers: corsHeaders });
 			} catch (error) {
 				return Response.json(
@@ -56,14 +51,6 @@ Bun.serve({
 				console.log(
 					`💾 Saving calendar-${term}.json (${body.weeks?.length || 0} weeks)`
 				);
-
-				// Log first activity of first week for debugging
-				if (body.weeks?.[0]?.class1?.[0]) {
-					console.log(
-						'   First activity:',
-						body.weeks[0].class1[0].title
-					);
-				}
 
 				// Use fs.writeFileSync for immediate write without caching
 				fs.writeFileSync(filename, JSON.stringify(body, null, '\t'));
