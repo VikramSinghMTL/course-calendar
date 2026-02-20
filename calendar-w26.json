@@ -324,10 +324,13 @@
 			"class2": [
 				{
 					"id": "activity-1771206491502-347otzatc",
-					"type": "lesson",
-					"title": "TBD",
+					"type": "exercise",
+					"title": "Expo Router Challenge (Teams of 2)",
 					"chosen": false,
-					"time": "1.5h"
+					"time": "1.5h",
+					"selected": false,
+					"link": "https://classroom.github.com/a/Ey_bJpJr",
+					"due": "2026-02-20"
 				}
 			],
 			"homework": [
@@ -338,7 +341,8 @@
 					"chosen": false,
 					"link": "https://youtu.be/Yh6Qlg2CYwQ?si=UB_ouks3rV1e9iCW",
 					"due": "2026-02-19",
-					"time": "15m"
+					"time": "15m",
+					"selected": false
 				},
 				{
 					"id": "activity-1771207765782-j809hwo16",
@@ -347,7 +351,8 @@
 					"chosen": false,
 					"link": "https://youtu.be/izZv6a99Roo?si=6inRNdD1NnRz0tcL",
 					"due": "2026-02-19",
-					"time": "15m"
+					"time": "15m",
+					"selected": false
 				},
 				{
 					"id": "activity-1771207766943-st9xqxgkr",
@@ -356,7 +361,8 @@
 					"chosen": false,
 					"link": "https://youtu.be/BElPB4Ai3j0?si=Yxkf_9ckfFdnNVWL",
 					"due": "2026-02-19",
-					"time": "15m"
+					"time": "15m",
+					"selected": false
 				},
 				{
 					"id": "activity-1771207768929-q1nuhifox",
@@ -365,7 +371,8 @@
 					"chosen": false,
 					"link": "https://youtu.be/gNzuJVRmyDk?si=GT-OmQPQ7vusaimT",
 					"due": "2026-02-19",
-					"time": "15m"
+					"time": "15m",
+					"selected": false
 				}
 			]
 		},
@@ -382,58 +389,42 @@
 					"selected": false
 				},
 				{
-					"type": "lesson",
-					"title": "Chapter 2",
-					"time": "1h",
-					"id": "activity-1770156622833-udz9fpyie",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "exercise",
-					"title": "Chapter 2 Exercises",
-					"time": "1h",
+					"type": "assignment",
+					"title": "Assignment 2 - Navigation & Maps",
+					"time": "3h",
 					"due": "",
-					"id": "activity-1770156622833-i2thobufq",
+					"id": "activity-1770156622833-lmq0a77zo",
 					"chosen": false,
 					"selected": false
 				}
 			],
 			"class2": [
 				{
-					"type": "lesson",
-					"title": "Chapter 2",
-					"time": "45m",
-					"id": "activity-1770156622833-z4ebqydk1",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "exercise",
-					"title": "Chapter 2 Exercises",
-					"time": "30m",
+					"type": "assignment",
+					"title": "Assignment 2 - Navigation & Maps",
+					"time": "1.5h",
 					"due": "",
-					"id": "activity-1770156622833-939fodlhl",
+					"id": "activity-1770156622833-awub79yy7",
 					"chosen": false,
 					"selected": false
 				}
 			],
 			"homework": [
 				{
-					"type": "exercise",
-					"title": "Chapter 2 Exercises",
-					"time": "30m",
-					"due": "2026-02-13",
-					"id": "activity-1770156622833-e8tmruw8y",
-					"chosen": false,
-					"selected": false
-				},
-				{
 					"type": "activity",
 					"title": "Peer Assessment for Assignment 1",
 					"time": "1h",
 					"due": "2026-02-22",
 					"id": "activity-1770156622833-zzieuzl7d",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 2 - Navigation & Maps",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1770156622833-onuqc5afz",
 					"chosen": false,
 					"selected": false
 				}
@@ -455,7 +446,7 @@
 					"title": "Assignment 2 - Navigation & Maps",
 					"time": "3h",
 					"due": "",
-					"id": "activity-1770156622833-lmq0a77zo",
+					"id": "activity-1771562490220-0mf386g3q",
 					"chosen": false,
 					"selected": false
 				}
@@ -473,7 +464,7 @@
 					"title": "Assignment 2 - Navigation & Maps",
 					"time": "1.5h",
 					"due": "",
-					"id": "activity-1770156622833-awub79yy7",
+					"id": "activity-1771562491437-45cw5zz0u",
 					"chosen": false,
 					"selected": false
 				}
@@ -484,7 +475,7 @@
 					"title": "Assignment 2 - Navigation & Maps",
 					"time": "3h",
 					"due": "2026-02-22",
-					"id": "activity-1770156622833-onuqc5afz",
+					"id": "activity-1771562492916-czswc7a4d",
 					"chosen": false,
 					"selected": false
 				}
