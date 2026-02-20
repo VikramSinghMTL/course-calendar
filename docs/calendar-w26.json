@@ -390,7 +390,7 @@
 				},
 				{
 					"type": "assignment",
-					"title": "Assignment 2 - Navigation & Maps",
+					"title": "Assignment 2 - Navigation & CRUD",
 					"time": "3h",
 					"due": "",
 					"id": "activity-1770156622833-lmq0a77zo",
@@ -400,9 +400,16 @@
 			],
 			"class2": [
 				{
+					"id": "activity-1771595989399-55ng9nvh7",
+					"type": "project",
+					"title": "Final Project Intro",
+					"chosen": false,
+					"time": "30m"
+				},
+				{
 					"type": "assignment",
-					"title": "Assignment 2 - Navigation & Maps",
-					"time": "1.5h",
+					"title": "Assignment 2 - Navigation & CRUD",
+					"time": "1h",
 					"due": "",
 					"id": "activity-1770156622833-awub79yy7",
 					"chosen": false,
@@ -421,7 +428,7 @@
 				},
 				{
 					"type": "assignment",
-					"title": "Assignment 2 - Navigation & Maps",
+					"title": "Assignment 2 - Navigation & CRUD",
 					"time": "3h",
 					"due": "",
 					"id": "activity-1770156622833-onuqc5afz",
@@ -443,7 +450,7 @@
 				},
 				{
 					"type": "assignment",
-					"title": "Assignment 2 - Navigation & Maps",
+					"title": "Assignment 2 - Navigation & CRUD",
 					"time": "3h",
 					"due": "",
 					"id": "activity-1771562490220-0mf386g3q",
@@ -461,7 +468,7 @@
 				},
 				{
 					"type": "assignment",
-					"title": "Assignment 2 - Navigation & Maps",
+					"title": "Assignment 2 - Navigation & CRUD",
 					"time": "1.5h",
 					"due": "",
 					"id": "activity-1771562491437-45cw5zz0u",
@@ -472,7 +479,7 @@
 			"homework": [
 				{
 					"type": "assignment",
-					"title": "Assignment 2 - Navigation & Maps",
+					"title": "Assignment 2 - Navigation & CRUD",
 					"time": "3h",
 					"due": "2026-02-22",
 					"id": "activity-1771562492916-czswc7a4d",
