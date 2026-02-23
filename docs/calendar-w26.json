@@ -386,16 +386,28 @@
 					"time": "30m",
 					"id": "activity-1770156622833-5tk55k2t8",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=70024"
+				},
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 1",
+					"time": "1h",
+					"due": "",
+					"id": "activity-1771820426452-1p78hetc1",
+					"chosen": false,
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898"
 				},
 				{
 					"type": "assignment",
 					"title": "Assignment 2 - Navigation & CRUD",
-					"time": "3h",
+					"time": "2h",
 					"due": "",
 					"id": "activity-1770156622833-lmq0a77zo",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-2/assignment-2/"
 				}
 			],
 			"class2": [
@@ -413,7 +425,8 @@
 					"due": "",
 					"id": "activity-1770156622833-awub79yy7",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-2/assignment-2/"
 				}
 			],
 			"homework": [
@@ -433,7 +446,8 @@
 					"due": "",
 					"id": "activity-1770156622833-onuqc5afz",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-2/assignment-2/"
 				}
 			]
 		},
@@ -455,7 +469,8 @@
 					"due": "",
 					"id": "activity-1771562490220-0mf386g3q",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-2/assignment-2/"
 				}
 			],
 			"class2": [
@@ -481,10 +496,11 @@
 					"type": "assignment",
 					"title": "Assignment 2 - Navigation & CRUD",
 					"time": "3h",
-					"due": "2026-02-22",
+					"due": "2026-03-08",
 					"id": "activity-1771562492916-czswc7a4d",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-2/assignment-2/"
 				}
 			]
 		},
