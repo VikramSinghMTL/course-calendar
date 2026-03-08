@@ -510,12 +510,6 @@
 			"startDate": "2026-03-09",
 			"class1": [
 				{
-					"id": "activity-1772990629594-hhriy8n9n",
-					"type": "cancelled",
-					"title": "Cancelled",
-					"chosen": false
-				},
-				{
 					"type": "assignment",
 					"title": "Assignment 2 - Navigation & CRUD",
 					"time": "",
