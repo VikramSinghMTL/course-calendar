@@ -6,7 +6,7 @@
 			"class1": [
 				{
 					"type": "cancelled",
-					"title": "Class cancelled.",
+					"title": "Cancelled",
 					"id": "activity-1770156622833-hpn2zegxq",
 					"chosen": false,
 					"selected": false
@@ -470,7 +470,7 @@
 					"id": "activity-1771562490220-0mf386g3q",
 					"chosen": false,
 					"selected": false,
-					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-2/assignment-2/"
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=70252"
 				}
 			],
 			"class2": [
@@ -488,7 +488,8 @@
 					"due": "",
 					"id": "activity-1771562491437-45cw5zz0u",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=70252"
 				}
 			],
 			"homework": [
@@ -496,11 +497,11 @@
 					"type": "assignment",
 					"title": "Assignment 2 - Navigation & CRUD",
 					"time": "3h",
-					"due": "2026-03-08",
+					"due": "",
 					"id": "activity-1771562492916-czswc7a4d",
 					"chosen": false,
 					"selected": false,
-					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-2/assignment-2/"
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=70252"
 				}
 			]
 		},
@@ -509,130 +510,51 @@
 			"startDate": "2026-03-09",
 			"class1": [
 				{
+					"id": "activity-1772990629594-hhriy8n9n",
+					"type": "cancelled",
+					"title": "Cancelled",
+					"chosen": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 2 - Navigation & CRUD",
+					"time": "",
+					"due": "2026-03-09",
+					"id": "activity-1772803693914-nhqcmdz2e",
+					"chosen": false,
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=70252"
+				}
+			],
+			"class2": [
+				{
 					"type": "quiz",
-					"title": "Quiz 2",
+					"title": "Quiz 2 (3%)",
 					"time": "30m",
 					"id": "activity-1770156622833-mml1quyu0",
 					"chosen": false,
 					"selected": false
 				},
 				{
-					"type": "lesson",
-					"title": "Chapter 3",
-					"time": "1h",
-					"id": "activity-1770156622833-iej40aqow",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "exercise",
-					"title": "Chapter 3 Exercises",
-					"time": "1h",
-					"due": "",
-					"id": "activity-1770156622833-nj1aihmhb",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "assignment",
-					"title": "Assignment 3 - APIs & Data Caching",
-					"time": "3h",
-					"due": "",
-					"id": "activity-1770156622833-o8td5nmg3",
-					"chosen": false,
-					"selected": false
-				}
-			],
-			"class2": [
-				{
-					"type": "lesson",
-					"title": "Chapter 3",
-					"time": "45m",
-					"id": "activity-1770156622833-038c9srgq",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "exercise",
-					"title": "Chapter 3 Exercises",
-					"time": "30m",
-					"due": "",
-					"id": "activity-1770156622833-hdx7dex8y",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "assignment",
-					"title": "Assignment 3 - APIs & Data Caching",
-					"time": "1.5h",
-					"due": "",
-					"id": "activity-1770156622833-crfg8elgk",
-					"chosen": false,
-					"selected": false
-				}
-			],
-			"homework": [
-				{
-					"type": "lesson",
-					"title": "Review Chapter 3",
-					"time": "30m",
-					"id": "activity-1770156622833-tz5x5348u",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "exercise",
-					"title": "Chapter 3 Exercises",
-					"time": "30m",
-					"due": "2026-02-27",
-					"id": "activity-1770156622833-i980raffp",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "assignment",
-					"title": "Assignment 3 - APIs & Data Caching",
-					"time": "3h",
-					"due": "",
-					"id": "activity-1770156622833-76ghwogdr",
-					"chosen": false,
-					"selected": false
-				},
-				{
 					"type": "activity",
 					"title": "Peer Assessment for Assignment 2",
-					"time": "30m",
-					"due": "2026-03-08",
+					"time": "1h",
+					"due": "2026-03-20",
 					"id": "activity-1770156622833-1oy32mpmd",
 					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "assignment",
-					"title": "Assignment 3 - APIs & Data Caching",
-					"time": "3h",
-					"due": "2026-03-08",
-					"id": "activity-1770156622833-iwgf8e81u",
-					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=70252"
 				}
-			]
+			],
+			"homework": []
 		},
 		{
 			"week": "W08 - MAR 16",
 			"startDate": "2026-03-16",
 			"class1": [
 				{
-					"type": "quiz",
-					"title": "Quiz 3",
-					"time": "30m",
-					"id": "activity-1770156622833-h5rltwp96",
-					"chosen": false,
-					"selected": false
-				},
-				{
 					"type": "lesson",
-					"title": "Chapter 4",
+					"title": "Chapter 3",
 					"time": "1h",
 					"id": "activity-1770156622833-hkxbbka4y",
 					"chosen": false,
@@ -640,7 +562,7 @@
 				},
 				{
 					"type": "exercise",
-					"title": "Chapter 4 Exercises",
+					"title": "Chapter 3 Exercises",
 					"time": "1h",
 					"due": "",
 					"id": "activity-1770156622833-w0cirtn25",
@@ -651,7 +573,7 @@
 			"class2": [
 				{
 					"type": "lesson",
-					"title": "Chapter 4",
+					"title": "Chapter 3",
 					"time": "45m",
 					"id": "activity-1770156622833-awmzoniim",
 					"chosen": false,
@@ -659,10 +581,19 @@
 				},
 				{
 					"type": "exercise",
-					"title": "Chapter 4 Exercises",
+					"title": "Chapter 3 Exercises",
 					"time": "30m",
 					"due": "",
 					"id": "activity-1770156622833-hrmf18yyx",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "2h",
+					"due": "",
+					"id": "activity-1770156622833-76ghwogdr",
 					"chosen": false,
 					"selected": false
 				}
@@ -670,7 +601,7 @@
 			"homework": [
 				{
 					"type": "lesson",
-					"title": "Review Chapter 4",
+					"title": "Review Chapter 3",
 					"time": "30m",
 					"id": "activity-1770156622833-e4gi90ezk",
 					"chosen": false,
@@ -678,7 +609,7 @@
 				},
 				{
 					"type": "exercise",
-					"title": "Chapter 4 Exercises",
+					"title": "Chapter 3 Exercises",
 					"time": "30m",
 					"due": "2026-03-13",
 					"id": "activity-1770156622833-epy9xatis",
@@ -687,10 +618,10 @@
 				},
 				{
 					"type": "assignment",
-					"title": "Assignment 4 - Authentication",
-					"time": "3h",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "2h",
 					"due": "",
-					"id": "activity-1770156622833-4nztj3jpu",
+					"id": "activity-1772991519818-5akfdoeul",
 					"chosen": false,
 					"selected": false
 				}
@@ -702,10 +633,10 @@
 			"class1": [
 				{
 					"type": "assignment",
-					"title": "Assignment 4 - Authentication",
-					"time": "3h",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "2h",
 					"due": "",
-					"id": "activity-1770156622833-lka2vt707",
+					"id": "activity-1772991529931-10i27oqi2",
 					"chosen": false,
 					"selected": false
 				}
@@ -713,10 +644,10 @@
 			"class2": [
 				{
 					"type": "assignment",
-					"title": "Assignment 4 - Authentication",
-					"time": "1.5h",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "2h",
 					"due": "",
-					"id": "activity-1770156622833-up75kdwzh",
+					"id": "activity-1772991534007-2vhqueq5i",
 					"chosen": false,
 					"selected": false
 				}
@@ -724,19 +655,10 @@
 			"homework": [
 				{
 					"type": "assignment",
-					"title": "Assignment 4 - Authentication",
-					"time": "3h",
-					"due": "2026-03-22",
-					"id": "activity-1770156622833-47f6plzgh",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "activity",
-					"title": "Peer Assessment for Assignment 3",
-					"time": "1h",
-					"due": "2026-03-22",
-					"id": "activity-1770156622833-525bgpr4k",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "2h",
+					"due": "",
+					"id": "activity-1772991542779-i6rzd8fdc",
 					"chosen": false,
 					"selected": false
 				}
@@ -747,27 +669,11 @@
 			"startDate": "2026-03-30",
 			"class1": [
 				{
-					"type": "quiz",
-					"title": "Quiz 4",
-					"time": "30m",
-					"id": "activity-1770156622833-e8vf85e6v",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "lesson",
-					"title": "Chapter 5",
-					"time": "1h",
-					"id": "activity-1770156622833-6q92dbnyq",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "exercise",
-					"title": "Chapter 5 Exercises",
-					"time": "1h",
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "3h",
 					"due": "",
-					"id": "activity-1770156622833-jqbqbr82k",
+					"id": "activity-1772991954872-35x7xe5m5",
 					"chosen": false,
 					"selected": false
 				}
@@ -779,53 +685,9 @@
 					"id": "activity-1770156622833-w667tegxs",
 					"chosen": false,
 					"selected": false
-				},
-				{
-					"type": "lesson",
-					"title": "Chapter 5",
-					"time": "45m",
-					"id": "activity-1770156622833-o5qi7ms5t",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "exercise",
-					"title": "Chapter 5 Exercises",
-					"time": "30m",
-					"due": "",
-					"id": "activity-1770156622833-zaljob4xu",
-					"chosen": false,
-					"selected": false
 				}
 			],
-			"homework": [
-				{
-					"type": "lesson",
-					"title": "Review Chapter 5",
-					"time": "30m",
-					"id": "activity-1770156622833-tx6rq0b1u",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "exercise",
-					"title": "Chapter 5 Exercises",
-					"time": "30m",
-					"due": "2026-03-27",
-					"id": "activity-1770156622833-4ti3j8u59",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "assignment",
-					"title": "Assignment 5 - Real-time Data",
-					"time": "3h",
-					"due": "",
-					"id": "activity-1770156622833-7bnr65741",
-					"chosen": false,
-					"selected": false
-				}
-			]
+			"homework": []
 		},
 		{
 			"week": "W11 - APR 06",
@@ -837,90 +699,53 @@
 					"id": "activity-1770156622833-6wbvdqzf8",
 					"chosen": false,
 					"selected": false
-				},
-				{
-					"type": "assignment",
-					"title": "Assignment 5 - Real-time Data",
-					"time": "3h",
-					"due": "",
-					"id": "activity-1770156622833-zauli2h52",
-					"chosen": false,
-					"selected": false
 				}
 			],
 			"class2": [
 				{
 					"type": "quiz",
-					"title": "Quiz 5",
+					"title": "Quiz 3",
 					"time": "30m",
-					"id": "activity-1770156622833-jqa6mp8ye",
+					"id": "activity-1770156622833-h5rltwp96",
 					"chosen": false,
 					"selected": false
 				},
 				{
-					"type": "project",
-					"title": "Project",
-					"time": "45m",
-					"id": "activity-1770156622833-b794pmtat",
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 3",
+					"time": "1h",
+					"due": "",
+					"id": "activity-1770156622833-525bgpr4k",
 					"chosen": false,
 					"selected": false
 				},
 				{
 					"type": "assignment",
-					"title": "Assignment 5 - Real-time Data",
-					"time": "1.5h",
-					"due": "",
-					"id": "activity-1770156622833-40p4cz62q",
+					"title": "Assignment 4 - Authentication",
+					"time": "3h",
+					"due": "2026-03-22",
+					"id": "activity-1770156622833-47f6plzgh",
 					"chosen": false,
 					"selected": false
 				}
 			],
-			"homework": [
-				{
-					"type": "activity",
-					"title": "Peer Assessment for Assignment 4",
-					"time": "1h",
-					"due": "2026-04-05",
-					"id": "activity-1770156622833-sp3qhivx5",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "assignment",
-					"title": "Assignment 5 - Real-time Data",
-					"time": "3h",
-					"due": "2026-04-05",
-					"id": "activity-1770156622833-4qxj4vy2m",
-					"chosen": false,
-					"selected": false
-				}
-			]
+			"homework": []
 		},
 		{
 			"week": "W12 - APR 13",
 			"startDate": "2026-04-13",
-			"class1": [
+			"class1": [],
+			"class2": [
 				{
-					"type": "project",
-					"title": "Project",
-					"time": "3h",
-					"id": "activity-1770156622833-ol3wu5zrz",
+					"type": "quiz",
+					"title": "Quiz 4",
+					"time": "30m",
+					"id": "activity-1770156622833-e8vf85e6v",
 					"chosen": false,
 					"selected": false
 				}
 			],
-			"class2": [],
-			"homework": [
-				{
-					"type": "activity",
-					"title": "Peer Assessment for Assignment 5",
-					"time": "1h",
-					"due": "2026-04-19",
-					"id": "activity-1770156622833-x2cb6n2ks",
-					"chosen": false,
-					"selected": false
-				}
-			]
+			"homework": []
 		},
 		{
 			"week": "W13 - APR 20",
@@ -935,7 +760,25 @@
 					"selected": false
 				}
 			],
-			"class2": [],
+			"class2": [
+				{
+					"type": "quiz",
+					"title": "Quiz 5",
+					"time": "30m",
+					"id": "activity-1770156622833-jqa6mp8ye",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 4",
+					"time": "1h",
+					"due": "2026-04-05",
+					"id": "activity-1770156622833-sp3qhivx5",
+					"chosen": false,
+					"selected": false
+				}
+			],
 			"homework": []
 		},
 		{
