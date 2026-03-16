@@ -336,7 +336,7 @@
 			"homework": [
 				{
 					"id": "activity-1771207713148-8wvvft294",
-					"type": "activity",
+					"type": "exercise",
 					"title": "Introduction to Expo Router Layout Files",
 					"chosen": false,
 					"link": "https://youtu.be/Yh6Qlg2CYwQ?si=UB_ouks3rV1e9iCW",
@@ -346,7 +346,7 @@
 				},
 				{
 					"id": "activity-1771207765782-j809hwo16",
-					"type": "activity",
+					"type": "exercise",
 					"title": "Using a Stack Navigator with Expo Router",
 					"chosen": false,
 					"link": "https://youtu.be/izZv6a99Roo?si=6inRNdD1NnRz0tcL",
@@ -356,7 +356,7 @@
 				},
 				{
 					"id": "activity-1771207766943-st9xqxgkr",
-					"type": "activity",
+					"type": "exercise",
 					"title": "Using a Tab Navigator with Expo Router",
 					"chosen": false,
 					"link": "https://youtu.be/BElPB4Ai3j0?si=Yxkf_9ckfFdnNVWL",
@@ -366,7 +366,7 @@
 				},
 				{
 					"id": "activity-1771207768929-q1nuhifox",
-					"type": "activity",
+					"type": "exercise",
 					"title": "Using Modals with Expo Router",
 					"chosen": false,
 					"link": "https://youtu.be/gNzuJVRmyDk?si=GT-OmQPQ7vusaimT",
@@ -550,20 +550,70 @@
 			"class1": [
 				{
 					"type": "lesson",
-					"title": "Chapter 3",
-					"time": "1h",
+					"title": "3.1 Fetch and useEffect ",
+					"time": "30m",
 					"id": "activity-1770156622833-hkxbbka4y",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-3/31-fetch-useeffect/"
 				},
 				{
 					"type": "exercise",
-					"title": "Chapter 3 Exercises",
-					"time": "1h",
+					"title": "Exercise 3.1.1 - Fix Fetch",
+					"time": "15m",
 					"due": "",
 					"id": "activity-1770156622833-w0cirtn25",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=70475"
+				},
+				{
+					"type": "lesson",
+					"title": "3.2 Data Modeling",
+					"time": "30m",
+					"id": "activity-1773629849761-wywlj21vy",
+					"chosen": false,
+					"selected": false,
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-3/32-data-modeling-with-types/"
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 3.2.1 - Parse & Model",
+					"time": "30m",
+					"due": "",
+					"id": "activity-1773630038074-g8eoxsmys",
+					"chosen": false,
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=70476"
+				},
+				{
+					"type": "lesson",
+					"title": "3.3 SQLite",
+					"time": "30m",
+					"id": "activity-1773629850817-7jy99nkfa",
+					"chosen": false,
+					"selected": false,
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-3/33-sqlite/"
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 3.3.1 - useContext",
+					"time": "15m",
+					"due": "",
+					"id": "activity-1773629920656-m7qo3n7v9",
+					"chosen": false,
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/hvp/view.php?id=70472"
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 3.3.2 - useReducer",
+					"time": "15m",
+					"due": "",
+					"id": "activity-1773629765702-64w0zrqf7",
+					"chosen": false,
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/hvp/view.php?id=70474"
 				}
 			],
 			"class2": [
@@ -607,7 +657,7 @@
 					"type": "exercise",
 					"title": "Chapter 3 Exercises",
 					"time": "30m",
-					"due": "2026-03-13",
+					"due": "2026-03-20",
 					"id": "activity-1770156622833-epy9xatis",
 					"chosen": false,
 					"selected": false
