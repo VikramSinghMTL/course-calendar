@@ -535,7 +535,7 @@
 					"type": "activity",
 					"title": "Peer Assessment for Assignment 2",
 					"time": "1h",
-					"due": "2026-03-20",
+					"due": "",
 					"id": "activity-1770156622833-1oy32mpmd",
 					"chosen": false,
 					"selected": false,
@@ -618,30 +618,23 @@
 			],
 			"class2": [
 				{
-					"type": "lesson",
-					"title": "Chapter 3",
-					"time": "45m",
-					"id": "activity-1770156622833-awmzoniim",
-					"chosen": false,
-					"selected": false
-				},
-				{
 					"type": "exercise",
 					"title": "Chapter 3 Exercises",
-					"time": "30m",
-					"due": "",
+					"time": "45m",
+					"due": "2026-03-20",
 					"id": "activity-1770156622833-hrmf18yyx",
 					"chosen": false,
 					"selected": false
 				},
 				{
-					"type": "assignment",
-					"title": "Assignment 3 - APIs & Data Caching",
-					"time": "2h",
-					"due": "",
-					"id": "activity-1770156622833-76ghwogdr",
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 2",
+					"time": "45m",
+					"due": "2026-03-20",
+					"id": "activity-1773972620949-zgg2dhhiq",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=70252"
 				}
 			],
 			"homework": [
@@ -656,18 +649,9 @@
 				{
 					"type": "exercise",
 					"title": "Chapter 3 Exercises",
-					"time": "30m",
-					"due": "2026-03-20",
-					"id": "activity-1770156622833-epy9xatis",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "assignment",
-					"title": "Assignment 3 - APIs & Data Caching",
-					"time": "2h",
+					"time": "1h",
 					"due": "",
-					"id": "activity-1772991519818-5akfdoeul",
+					"id": "activity-1770156622833-epy9xatis",
 					"chosen": false,
 					"selected": false
 				}
@@ -678,20 +662,50 @@
 			"startDate": "2026-03-23",
 			"class1": [
 				{
+					"type": "exercise",
+					"title": "Exercise 3.3.3 - SQLite Todos",
+					"time": "30m",
+					"due": "",
+					"id": "activity-1774237882559-g0x40wy7t",
+					"chosen": false,
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=70675"
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 3.3.4 - SQLite Context Reducer",
+					"time": "1.5h",
+					"due": "",
+					"id": "activity-1774237885965-wjrrykch6",
+					"chosen": false,
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=70676"
+				},
+				{
 					"type": "assignment",
 					"title": "Assignment 3 - APIs & Data Caching",
-					"time": "2h",
+					"time": "30m",
 					"due": "",
 					"id": "activity-1772991529931-10i27oqi2",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-3/assignment-3/"
 				}
 			],
 			"class2": [
 				{
+					"type": "exercise",
+					"title": "Chapter 3 Exercises",
+					"time": "30m",
+					"due": "2026-03-27",
+					"id": "activity-1774237936969-50w7biyjv",
+					"chosen": false,
+					"selected": false
+				},
+				{
 					"type": "assignment",
 					"title": "Assignment 3 - APIs & Data Caching",
-					"time": "2h",
+					"time": "1h",
 					"due": "",
 					"id": "activity-1772991534007-2vhqueq5i",
 					"chosen": false,
@@ -699,6 +713,23 @@
 				}
 			],
 			"homework": [
+				{
+					"type": "lesson",
+					"title": "Review Chapter 3",
+					"time": "30m",
+					"id": "activity-1774237952133-yojnpgxw3",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Chapter 3 Exercises",
+					"time": "1h",
+					"due": "",
+					"id": "activity-1774237948347-6r9390v6x",
+					"chosen": false,
+					"selected": false
+				},
 				{
 					"type": "assignment",
 					"title": "Assignment 3 - APIs & Data Caching",
