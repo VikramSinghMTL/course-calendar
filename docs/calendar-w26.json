@@ -689,7 +689,7 @@
 					"id": "activity-1772991529931-10i27oqi2",
 					"chosen": false,
 					"selected": false,
-					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-3/assignment-3/"
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71160"
 				}
 			],
 			"class2": [
@@ -709,7 +709,8 @@
 					"due": "",
 					"id": "activity-1772991534007-2vhqueq5i",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71160"
 				}
 			],
 			"homework": [
@@ -737,7 +738,8 @@
 					"due": "",
 					"id": "activity-1772991542779-i6rzd8fdc",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71160"
 				}
 			]
 		},
@@ -752,7 +754,8 @@
 					"due": "",
 					"id": "activity-1772991954872-35x7xe5m5",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71160"
 				}
 			],
 			"class2": [
@@ -764,7 +767,18 @@
 					"selected": false
 				}
 			],
-			"homework": []
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1775251193891-lwe8tkdhl",
+					"chosen": false,
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71160"
+				}
+			]
 		},
 		{
 			"week": "W11 - APR 06",
@@ -779,6 +793,34 @@
 				}
 			],
 			"class2": [
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "3h",
+					"due": "2026-04-10",
+					"id": "activity-1775251190214-wj8cp6glt",
+					"chosen": false,
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71160"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1775251335392-icasdc6tt",
+					"chosen": false,
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71160"
+				}
+			]
+		},
+		{
+			"week": "W12 - APR 13",
+			"startDate": "2026-04-13",
+			"class1": [
 				{
 					"type": "quiz",
 					"title": "Quiz 3",
@@ -795,29 +837,15 @@
 					"id": "activity-1770156622833-525bgpr4k",
 					"chosen": false,
 					"selected": false
-				},
+				}
+			],
+			"class2": [
 				{
 					"type": "assignment",
 					"title": "Assignment 4 - Authentication",
 					"time": "3h",
 					"due": "2026-03-22",
 					"id": "activity-1770156622833-47f6plzgh",
-					"chosen": false,
-					"selected": false
-				}
-			],
-			"homework": []
-		},
-		{
-			"week": "W12 - APR 13",
-			"startDate": "2026-04-13",
-			"class1": [],
-			"class2": [
-				{
-					"type": "quiz",
-					"title": "Quiz 4",
-					"time": "30m",
-					"id": "activity-1770156622833-e8vf85e6v",
 					"chosen": false,
 					"selected": false
 				}
@@ -840,18 +868,9 @@
 			"class2": [
 				{
 					"type": "quiz",
-					"title": "Quiz 5",
+					"title": "Quiz 4",
 					"time": "30m",
-					"id": "activity-1770156622833-jqa6mp8ye",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "activity",
-					"title": "Peer Assessment for Assignment 4",
-					"time": "1h",
-					"due": "2026-04-05",
-					"id": "activity-1770156622833-sp3qhivx5",
+					"id": "activity-1770156622833-e8vf85e6v",
 					"chosen": false,
 					"selected": false
 				}
@@ -871,7 +890,17 @@
 					"selected": false
 				}
 			],
-			"class2": [],
+			"class2": [
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 4",
+					"time": "1h",
+					"due": "2026-04-05",
+					"id": "activity-1770156622833-sp3qhivx5",
+					"chosen": false,
+					"selected": false
+				}
+			],
 			"homework": []
 		},
 		{
