@@ -837,25 +837,98 @@
 					"id": "activity-1770156622833-525bgpr4k",
 					"chosen": false,
 					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - AuthN & AuthZ",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1775764379727-iuji2u9uc",
+					"chosen": false,
+					"selected": false
 				}
 			],
 			"class2": [
 				{
 					"type": "assignment",
-					"title": "Assignment 4 - Authentication",
+					"title": "Assignment 4 - AuthN & AuthZ",
 					"time": "3h",
-					"due": "2026-03-22",
-					"id": "activity-1770156622833-47f6plzgh",
+					"due": "",
+					"id": "activity-1775764330166-ddaqvhxg9",
 					"chosen": false,
 					"selected": false
 				}
 			],
-			"homework": []
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - AuthN & AuthZ",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1775764327718-biwb3qp2y",
+					"chosen": false,
+					"selected": false
+				}
+			]
 		},
 		{
 			"week": "W13 - APR 20",
 			"startDate": "2026-04-20",
 			"class1": [
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - AuthN & AuthZ",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1775764316085-4e9v9sh5o",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - AuthN & AuthZ",
+					"time": "3h",
+					"due": "2026-04-24",
+					"id": "activity-1770156622833-47f6plzgh",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - AuthN & AuthZ",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1775764323996-zcz1c6o7i",
+					"chosen": false,
+					"selected": false
+				}
+			]
+		},
+		{
+			"week": "W14 - APR 27",
+			"startDate": "2026-04-27",
+			"class1": [
+				{
+					"type": "quiz",
+					"title": "Quiz 4",
+					"time": "30m",
+					"id": "activity-1770156622833-e8vf85e6v",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 4",
+					"time": "1h",
+					"due": "2026-04-05",
+					"id": "activity-1770156622833-sp3qhivx5",
+					"chosen": false,
+					"selected": false
+				},
 				{
 					"type": "project",
 					"title": "Project",
@@ -865,21 +938,12 @@
 					"selected": false
 				}
 			],
-			"class2": [
-				{
-					"type": "quiz",
-					"title": "Quiz 4",
-					"time": "30m",
-					"id": "activity-1770156622833-e8vf85e6v",
-					"chosen": false,
-					"selected": false
-				}
-			],
+			"class2": [],
 			"homework": []
 		},
 		{
-			"week": "W14 - APR 27",
-			"startDate": "2026-04-27",
+			"week": "W15 - MAY 04",
+			"startDate": "2026-05-04",
 			"class1": [
 				{
 					"type": "project",
@@ -890,22 +954,12 @@
 					"selected": false
 				}
 			],
-			"class2": [
-				{
-					"type": "activity",
-					"title": "Peer Assessment for Assignment 4",
-					"time": "1h",
-					"due": "2026-04-05",
-					"id": "activity-1770156622833-sp3qhivx5",
-					"chosen": false,
-					"selected": false
-				}
-			],
+			"class2": [],
 			"homework": []
 		},
 		{
-			"week": "W15 - MAY 04",
-			"startDate": "2026-05-04",
+			"week": "W16 - MAY 11",
+			"startDate": "2026-04-09",
 			"class1": [
 				{
 					"type": "project",
