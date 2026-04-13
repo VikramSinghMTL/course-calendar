@@ -824,50 +824,64 @@
 				{
 					"type": "quiz",
 					"title": "Quiz 3",
-					"time": "30m",
+					"time": "15m",
 					"id": "activity-1770156622833-h5rltwp96",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=71285"
 				},
 				{
 					"type": "activity",
 					"title": "Peer Assessment for Assignment 3",
 					"time": "1h",
-					"due": "",
+					"due": "2026-04-17",
 					"id": "activity-1770156622833-525bgpr4k",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71160"
 				},
 				{
 					"type": "assignment",
-					"title": "Assignment 4 - AuthN & AuthZ",
-					"time": "3h",
+					"title": "Assignment 4 - Auth",
+					"time": "1h",
 					"due": "",
 					"id": "activity-1775764379727-iuji2u9uc",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71288"
 				}
 			],
 			"class2": [
 				{
 					"type": "assignment",
-					"title": "Assignment 4 - AuthN & AuthZ",
-					"time": "3h",
+					"title": "Assignment 4 - Auth",
+					"time": "1.5h",
 					"due": "",
-					"id": "activity-1775764330166-ddaqvhxg9",
+					"id": "activity-1776047763723-vu9w1k669",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71288"
 				}
 			],
 			"homework": [
 				{
+					"id": "activity-1776047901046-mr7v5tsfs",
+					"type": "lesson",
+					"title": "4.1 - Auth Fundamentals",
+					"chosen": false,
+					"link": "http://localhost:4321/6A6-Notes/chapter-4/41-auth-fundamentals/",
+					"time": "30m",
+					"selected": false
+				},
+				{
 					"type": "assignment",
-					"title": "Assignment 4 - AuthN & AuthZ",
+					"title": "Assignment 4 - Auth",
 					"time": "3h",
 					"due": "",
-					"id": "activity-1775764327718-biwb3qp2y",
+					"id": "activity-1776047897364-y9uhr038u",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71288"
 				}
 			]
 		},
@@ -877,34 +891,37 @@
 			"class1": [
 				{
 					"type": "assignment",
-					"title": "Assignment 4 - AuthN & AuthZ",
+					"title": "Assignment 4 - Auth",
 					"time": "3h",
 					"due": "",
-					"id": "activity-1775764316085-4e9v9sh5o",
+					"id": "activity-1776047749552-3o9pm40yg",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71288"
 				}
 			],
 			"class2": [
 				{
 					"type": "assignment",
-					"title": "Assignment 4 - AuthN & AuthZ",
-					"time": "3h",
+					"title": "Assignment 4 - Auth",
+					"time": "1.5h",
 					"due": "2026-04-24",
-					"id": "activity-1770156622833-47f6plzgh",
+					"id": "activity-1776047771679-owhnoh4cz",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71288"
 				}
 			],
 			"homework": [
 				{
 					"type": "assignment",
-					"title": "Assignment 4 - AuthN & AuthZ",
+					"title": "Assignment 4 - Auth",
 					"time": "3h",
 					"due": "",
-					"id": "activity-1775764323996-zcz1c6o7i",
+					"id": "activity-1776047948615-i6xcfpxar",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71288"
 				}
 			]
 		},
@@ -924,10 +941,11 @@
 					"type": "activity",
 					"title": "Peer Assessment for Assignment 4",
 					"time": "1h",
-					"due": "2026-04-05",
+					"due": "2026-05-01",
 					"id": "activity-1770156622833-sp3qhivx5",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71288"
 				},
 				{
 					"type": "project",
@@ -938,8 +956,26 @@
 					"selected": false
 				}
 			],
-			"class2": [],
-			"homework": []
+			"class2": [
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "3h",
+					"id": "activity-1776048004552-dplbvtdrp",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": [
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "3h",
+					"id": "activity-1776048008034-wu56upz4i",
+					"chosen": false,
+					"selected": false
+				}
+			]
 		},
 		{
 			"week": "W15 - MAY 04",
@@ -954,8 +990,26 @@
 					"selected": false
 				}
 			],
-			"class2": [],
-			"homework": []
+			"class2": [
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "3h",
+					"id": "activity-1776048013343-mtdtm5ua8",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": [
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "3h",
+					"id": "activity-1776048019553-mkhdnjwv9",
+					"chosen": false,
+					"selected": false
+				}
+			]
 		},
 		{
 			"week": "W16 - MAY 11",
@@ -965,13 +1019,31 @@
 					"type": "project",
 					"title": "Project",
 					"time": "3h",
+					"id": "activity-1776048016553-pz4y0pbf5",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "3h",
 					"id": "activity-1770156622833-26k88gc23",
 					"chosen": false,
 					"selected": false
 				}
 			],
-			"class2": [],
-			"homework": []
+			"homework": [
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "3h",
+					"id": "activity-1776048022953-wlwgqvrin",
+					"chosen": false,
+					"selected": false
+				}
+			]
 		}
 	]
 }
