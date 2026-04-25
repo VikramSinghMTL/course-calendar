@@ -932,10 +932,11 @@
 				{
 					"type": "quiz",
 					"title": "Quiz 4",
-					"time": "30m",
+					"time": "15m",
 					"id": "activity-1770156622833-e8vf85e6v",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=71664"
 				},
 				{
 					"type": "activity",
