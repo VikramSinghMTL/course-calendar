@@ -961,7 +961,7 @@
 				{
 					"type": "project",
 					"title": "Project",
-					"time": "3h",
+					"time": "1.5h",
 					"id": "activity-1776048004552-dplbvtdrp",
 					"chosen": false,
 					"selected": false
@@ -993,9 +993,15 @@
 			],
 			"class2": [
 				{
+					"id": "activity-1778373354137-l6gxtwk7d",
+					"type": "cancelled",
+					"title": "Message me with M4 questions!",
+					"chosen": false
+				},
+				{
 					"type": "project",
 					"title": "Project",
-					"time": "3h",
+					"time": "1.5h",
 					"id": "activity-1776048013343-mtdtm5ua8",
 					"chosen": false,
 					"selected": false
@@ -1028,11 +1034,13 @@
 			"class2": [
 				{
 					"type": "project",
-					"title": "Project",
-					"time": "3h",
+					"title": "Milestone 4 Demos",
+					"time": "1.5h",
 					"id": "activity-1770156622833-26k88gc23",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"due": "2026-05-14",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=71956"
 				}
 			],
 			"homework": [
