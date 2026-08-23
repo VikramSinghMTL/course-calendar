@@ -954,7 +954,8 @@
 					"time": "3h",
 					"id": "activity-1770156622833-z2lnxomeo",
 					"chosen": false,
-					"selected": false
+					"selected": false,
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-2/assignment-2/#1-route-plan"
 				}
 			],
 			"class2": [
@@ -996,7 +997,8 @@
 					"id": "activity-1778373354137-l6gxtwk7d",
 					"type": "cancelled",
 					"title": "Message me with M4 questions!",
-					"chosen": false
+					"chosen": false,
+					"selected": false
 				},
 				{
 					"type": "project",
