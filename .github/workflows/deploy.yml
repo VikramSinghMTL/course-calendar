@@ -30,8 +30,10 @@ jobs:
             - name: Install dependencies
               run: bun install
 
+            # Keep the Pages artifact aligned with the currently published range.
+            # Update this range when you are ready to publish more weeks.
             - name: Build
-              run: bun run build
+              run: bun run build -- --weeks 0-1
 
             - name: Commit and push build artifacts
               run: |
