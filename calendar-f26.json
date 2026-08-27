@@ -144,7 +144,6 @@
 					"title": "A0 - Pong",
 					"link": "",
 					"time": "1h30m",
-					"due": "DUE SEP 02",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-07cbh1w8v"
@@ -156,7 +155,6 @@
 					"title": "A0 - Pong",
 					"link": "",
 					"time": "3h",
-					"due": "DUE SEP 02",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787788564226-l0i8snrj0"
@@ -211,7 +209,6 @@
 					"title": "E1.1 - Sprites",
 					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=60714",
 					"time": "1h",
-					"due": "DUE END OF CLASS",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-bwpb3kh3k"
@@ -307,7 +304,6 @@
 					"title": "A1 - Breakout",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60656",
 					"time": "4h",
-					"due": "DUE SEP 14",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-nwo5geld4"
@@ -350,7 +346,6 @@
 					"title": "E2.1 - Timers",
 					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=60709",
 					"time": "30m",
-					"due": "DUE BEFORE NEXT CLASS",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-3a9ud2kgv"
@@ -360,7 +355,6 @@
 					"title": "E2.2 - Tweens",
 					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=60710",
 					"time": "30m",
-					"due": "DUE BEFORE NEXT CLASS",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-0yaqqdw82"
@@ -401,7 +395,6 @@
 					"title": "A1 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60656",
 					"time": "1h",
-					"due": "DUE SEP 28",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-6ikxmr296"
@@ -457,7 +450,6 @@
 					"title": "A2 - Match 3",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60657",
 					"time": "4h",
-					"due": "DUE SEP 28",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-iiqtdjrtt"
@@ -509,7 +501,6 @@
 					"title": "E3.1 - Animations",
 					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=60703",
 					"time": "30m",
-					"due": "DUE BEFORE NEXT CLASS",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-r076xrxu9"
@@ -605,7 +596,6 @@
 					"title": "A2 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60657",
 					"time": "1h",
-					"due": "DUE OCT 13",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-krcqiqvo6"
@@ -615,7 +605,6 @@
 					"title": "A3 - Mario",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60658",
 					"time": "3h",
-					"due": "DUE OCT 13",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-c2hj4f2z8"
@@ -717,7 +706,6 @@
 					"title": "A3 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60658",
 					"time": "1h",
-					"due": "DUE OCT 26",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-uulcqxdra"
@@ -727,7 +715,6 @@
 					"title": "A4 - Zelda",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60659",
 					"time": "2h50m",
-					"due": "DUE OCT 26",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-pzfs0o4zc"
@@ -737,7 +724,6 @@
 					"title": "Course Feedback Survey (0.5%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=60647",
 					"time": "10m",
-					"due": "DUE OCT 26",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-xhdjcbpg6"
@@ -855,7 +841,6 @@
 					"title": "A4 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60659",
 					"time": "1h",
-					"due": "DUE NOV 09",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-ydqax9ong"
@@ -865,7 +850,6 @@
 					"title": "A5 - Angry Birds",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60660",
 					"time": "3h",
-					"due": "DUE NOV 09",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-qw25ycw3i"
@@ -976,7 +960,6 @@
 					"title": "A5 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60660",
 					"time": "1h",
-					"due": "DUE NOV 23",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-t56kmx8z6"
@@ -986,7 +969,6 @@
 					"title": "A6 - Pokemon",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60661",
 					"time": "3h",
-					"due": "DUE NOV 23",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-542h7lkkn"
@@ -1050,7 +1032,6 @@
 					"title": "Proposal",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
 					"time": "1h",
-					"due": "DUE NOV 30 (SOFT)",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-oe9lw2duy"
@@ -1096,7 +1077,6 @@
 					"title": "A6 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60661",
 					"time": "1h",
-					"due": "DUE DEC 07",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-liosyoowk"
@@ -1150,7 +1130,6 @@
 					"title": "Implementation",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
 					"time": "4h",
-					"due": "DUE DEC 14",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-kp5utbkfa"
