@@ -9,7 +9,7 @@ import { WeekRow } from './WeekRow';
 import { fetchCalendar } from '@/utils';
 
 // Current term code - update this to switch semesters
-const CURRENT_TERM = 'w26';
+const CURRENT_TERM = 'f26';
 
 export const Calendar: React.FC = () => {
 	const [calendarData, setCalendarData] = useState<CalendarData | null>(null);
@@ -62,27 +62,6 @@ export const Calendar: React.FC = () => {
 
 	return (
 		<div>
-			<p
-				style={{
-					fontSize: '0.8rem',
-					marginBottom: '1rem',
-					fontFamily: 'monospace',
-					backgroundColor: 'lightcoral',
-					borderColor: 'salmon',
-					borderWidth: '5px',
-					borderRadius: '5px',
-					padding: '10px',
-				}}
-			>
-				<strong>⚠️ Disclaimer:</strong> This schedule is entirely
-				tentative and subject to change at any time. As this is my first
-				time teaching this course, I have no idea how long things will
-				actually take. As a result, always triple-check the dates for
-				anything to make sure I haven't changed anything since you last
-				checked. Please be flexible and thank you for your understanding
-				and patience as we navigate this together!
-			</p>
-
 			<Legend />
 
 			<table className="vik-table">

@@ -1,0 +1,179 @@
+{
+	"weeks": [
+		{
+			"week": "W00 - AUG 24",
+			"startDate": "2026-08-24",
+			"class1": [
+				{
+					"type": "activity",
+					"title": "Course outline",
+					"link": "https://moodle.johnabbott.qc.ca/mod/resource/view.php?id=76673",
+					"time": "20m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-qt4i75eu0"
+				},
+				{
+					"type": "activity",
+					"title": "The History of Pong",
+					"link": "https://youtu.be/ShyRGWRcagY",
+					"time": "10m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-y15l4xlzn"
+				},
+				{
+					"type": "lesson",
+					"title": "Coordinate System",
+					"link": "https://game.singh.gg/docs/concepts/coordinate-system/",
+					"time": "10m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-jn4ysb1ww"
+				},
+				{
+					"type": "lesson",
+					"title": "Delta Time",
+					"link": "https://game.singh.gg/docs/concepts/delta-time/",
+					"time": "10m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-2ghjidnxc"
+				},
+				{
+					"type": "lesson",
+					"title": "Game Loop",
+					"link": "https://game.singh.gg/docs/concepts/game-loop/",
+					"time": "10m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-stx10cdhy"
+				},
+				{
+					"id": "activity-1787615991781-e9qc93ovd",
+					"type": "activity",
+					"title": "Pong Starter",
+					"chosen": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/resource/view.php?id=78010",
+					"selected": false
+				},
+				{
+					"type": "lesson",
+					"title": "Pong 0-2",
+					"link": "https://game.singh.gg/docs/guides/0-pong/",
+					"time": "2h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-ka18e2m8b"
+				}
+			],
+			"class2": [
+				{
+					"type": "lesson",
+					"title": "Collision Detection",
+					"link": "https://game.singh.gg/docs/concepts/collision-detection/",
+					"time": "30m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-ho3l3rhhj"
+				},
+				{
+					"type": "lesson",
+					"title": "Pong 3-6",
+					"link": "https://game.singh.gg/docs/guides/0-pong/",
+					"time": "2h30m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-k8rqnpljg"
+				}
+			],
+			"homework": [
+				{
+					"type": "activity",
+					"title": "Intro Survey",
+					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=76674",
+					"time": "15m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-b11reac6q"
+				},
+				{
+					"type": "activity",
+					"title": "Upload profile pic to Teams & Moodle",
+					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=76674",
+					"time": "5m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787792771548-lxkdnn5ob"
+				},
+				{
+					"type": "lesson",
+					"title": "Review Pong Notes",
+					"link": "https://game.singh.gg/docs/guides/0-pong/",
+					"time": "1h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-lckms9ixr"
+				}
+			]
+		},
+		{
+			"week": "W01 - AUG 31",
+			"startDate": "2026-08-31",
+			"class1": [
+				{
+					"type": "lesson",
+					"title": "State Machine",
+					"link": "https://game.singh.gg/docs/concepts/state-machine/",
+					"time": "30m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-4bf8097pu"
+				},
+				{
+					"type": "lesson",
+					"title": "Pong 7",
+					"link": "https://game.singh.gg/docs/guides/0-pong/",
+					"time": "1h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787788529561-q4haapkis"
+				},
+				{
+					"type": "assignment",
+					"title": "A0 - Pong",
+					"link": "",
+					"time": "1h30m",
+					"due": "DUE SEP 02",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-07cbh1w8v"
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "A0 - Pong",
+					"link": "",
+					"time": "3h",
+					"due": "DUE SEP 02",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787788564226-l0i8snrj0"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "A0 - Pong",
+					"link": "",
+					"time": "4h",
+					"due": "2026-09-07",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787788560124-wimkh3sbx"
+				}
+			]
+		}
+	]
+}

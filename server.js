@@ -1,9 +1,10 @@
 import fs from 'fs';
 
-const PORT = 3000;
+const DEFAULT_PORT = 3000;
+const requestedPort = Number(Bun.env.PORT) || DEFAULT_PORT;
 
-Bun.serve({
-	port: PORT,
+const serverOptions = {
+	hostname: '127.0.0.1',
 	async fetch(req) {
 		const url = new URL(req.url);
 		const { pathname } = url;
@@ -141,9 +142,28 @@ Bun.serve({
 
 		return new Response('Not Found', { status: 404 });
 	},
-});
+};
+
+// Bind specifically to localhost so an existing localhost service is detected
+// instead of being shadowed by a wildcard listener.
+let server;
+let port = requestedPort;
+while (port <= 65535) {
+	try {
+		server = Bun.serve({ ...serverOptions, port });
+		break;
+	} catch (error) {
+		if (error?.code !== 'EADDRINUSE') throw error;
+		console.warn(`Port ${port} is in use; trying ${port + 1}...`);
+		port += 1;
+	}
+}
+
+if (!server) {
+	throw new Error(`No available port found starting at ${requestedPort}`);
+}
 
 console.log(`\n📅 Course Calendar Editor`);
-console.log(`   Viewer: http://localhost:${PORT}/viewer`);
-console.log(`   Editor: http://localhost:${PORT}/editor`);
+console.log(`   Viewer: http://localhost:${port}/viewer`);
+console.log(`   Editor: http://localhost:${port}/editor`);
 console.log(`\n   Auto-save enabled ✓\n`);

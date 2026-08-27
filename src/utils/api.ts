@@ -5,7 +5,9 @@
 import axios from 'axios';
 import type { CalendarData, TermCode } from '@/types';
 
-const API_BASE_URL = 'http://localhost:3000/api';
+// Use the current origin so development keeps working if the server selects
+// a port other than the default 3000.
+const API_BASE_URL = '/api';
 
 // Detect if we're in production (GitHub Pages) or development
 // Check if running on localhost - if not, we're in production

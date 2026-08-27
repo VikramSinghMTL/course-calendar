@@ -28,6 +28,18 @@ bun run build
 
 This generates a production-ready site in the `docs/` directory.
 
+### Build a week range
+
+Pass `--weeks` with an inclusive week-number range to publish only those weeks
+from every `calendar-*.json` file:
+
+```bash
+bun run build -- --weeks 3-8
+```
+
+The generated calendar files will contain only `W03` through `W08`. Omit
+`--weeks` to include every week.
+
 ## Deployment to GitHub Pages
 
 ### Automatic Deployment (Recommended)
