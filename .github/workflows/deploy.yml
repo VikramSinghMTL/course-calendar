@@ -33,7 +33,7 @@ jobs:
             # Keep the Pages artifact aligned with the currently published range.
             # Update this range when you are ready to publish more weeks.
             - name: Build
-              run: bun run build -- --weeks 0-1
+              run: bun run build -- --weeks 0-3
 
             - name: Commit and push build artifacts
               run: |
