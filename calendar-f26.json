@@ -59,7 +59,7 @@
 				},
 				{
 					"type": "lesson",
-					"title": "Pong 0-2",
+					"title": "Pong 0-1",
 					"link": "https://game.singh.gg/docs/guides/0-pong/",
 					"time": "2h",
 					"chosen": false,
@@ -70,21 +70,12 @@
 			"class2": [
 				{
 					"type": "lesson",
-					"title": "Collision Detection",
-					"link": "https://game.singh.gg/docs/concepts/collision-detection/",
-					"time": "30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-ho3l3rhhj"
-				},
-				{
-					"type": "lesson",
-					"title": "Pong 3-6",
+					"title": "Pong 2-4",
 					"link": "https://game.singh.gg/docs/guides/0-pong/",
 					"time": "2h30m",
 					"chosen": false,
 					"selected": false,
-					"id": "activity-1787588359475-k8rqnpljg"
+					"id": "activity-1788385498753-57n6x2duy"
 				}
 			],
 			"homework": [
@@ -122,39 +113,36 @@
 			"startDate": "2026-08-31",
 			"class1": [
 				{
-					"type": "lesson",
-					"title": "State Machine",
-					"link": "https://game.singh.gg/docs/concepts/state-machine/",
-					"time": "30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-4bf8097pu"
-				},
-				{
-					"type": "lesson",
-					"title": "Pong 7",
-					"link": "https://game.singh.gg/docs/guides/0-pong/",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787788529561-q4haapkis"
-				},
-				{
-					"type": "assignment",
-					"title": "A0 - Pong",
-					"link": "",
-					"time": "1h30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-07cbh1w8v"
+					"id": "activity-1788385441042-f4rsz39kq",
+					"type": "cancelled",
+					"title": "Cancelled",
+					"chosen": false
 				}
 			],
 			"class2": [
 				{
+					"type": "lesson",
+					"title": "Collision Detection",
+					"link": "https://game.singh.gg/docs/concepts/collision-detection/",
+					"time": "1h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-ho3l3rhhj"
+				},
+				{
+					"type": "lesson",
+					"title": "Pong 5-8",
+					"link": "https://game.singh.gg/docs/guides/0-pong/",
+					"time": "1h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-k8rqnpljg"
+				},
+				{
 					"type": "assignment",
 					"title": "A0 - Pong",
-					"link": "",
-					"time": "3h",
+					"link": "https://classroom50.org/JAC-CS-Game-Programming-F26/game-programming/assignments/0-pong/accept",
+					"time": "1h",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787788564226-l0i8snrj0"
@@ -164,7 +152,7 @@
 				{
 					"type": "assignment",
 					"title": "A0 - Pong",
-					"link": "",
+					"link": "https://classroom50.org/JAC-CS-Game-Programming-F26/game-programming/assignments/0-pong/accept",
 					"time": "4h",
 					"due": "2026-09-07",
 					"chosen": false,
@@ -180,7 +168,7 @@
 				{
 					"type": "quiz",
 					"title": "Q0 - Pong (Individual)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60666",
+					"link": "",
 					"time": "15m",
 					"chosen": false,
 					"selected": false,
@@ -189,7 +177,7 @@
 				{
 					"type": "quiz",
 					"title": "Q0 - Pong (Group)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60667",
+					"link": "",
 					"time": "15m",
 					"chosen": false,
 					"selected": false,
@@ -207,7 +195,7 @@
 				{
 					"type": "exercise",
 					"title": "E1.1 - Sprites",
-					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=60714",
+					"link": "",
 					"time": "1h",
 					"chosen": false,
 					"selected": false,
@@ -245,7 +233,7 @@
 				{
 					"type": "activity",
 					"title": "Particle Systems",
-					"link": "https://moodle.johnabbott.qc.ca/mod/resource/view.php?id=62554",
+					"link": "",
 					"time": "1h",
 					"chosen": false,
 					"selected": false,
@@ -265,7 +253,7 @@
 				{
 					"type": "assignment",
 					"title": "A1 - Breakout",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60656",
+					"link": "",
 					"time": "3h",
 					"chosen": false,
 					"selected": false,
@@ -280,7 +268,7 @@
 				{
 					"type": "assignment",
 					"title": "A1 - Breakout",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60656",
+					"link": "",
 					"time": "3h",
 					"chosen": false,
 					"selected": false,
@@ -291,7 +279,7 @@
 				{
 					"type": "assignment",
 					"title": "A1 - Breakout",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60656",
+					"link": "",
 					"time": "3h",
 					"chosen": false,
 					"selected": false,
@@ -302,7 +290,7 @@
 				{
 					"type": "assignment",
 					"title": "A1 - Breakout",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60656",
+					"link": "",
 					"time": "4h",
 					"chosen": false,
 					"selected": false,

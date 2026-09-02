@@ -102,6 +102,124 @@
 					"due": "DUE SEP 02"
 				}
 			]
+		},
+		{
+			"week": "W02 - SEP 01",
+			"startDate": "2025-09-01",
+			"class1": [
+				{
+					"type": "note",
+					"title": "Section 1: Labour Day, this class will be made up on September 8th."
+				},
+				{
+					"type": "activity",
+					"title": "The History of Breakout",
+					"link": "https://youtu.be/bC_KPLe5dYg",
+					"time": "10m"
+				},
+				{
+					"type": "exercise",
+					"title": "E1.1 - Sprites",
+					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=60714",
+					"time": "1h",
+					"due": "DUE END OF CLASS"
+				},
+				{
+					"type": "lesson",
+					"title": "Breakout 0-2",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/1-breakout",
+					"time": "1h"
+				},
+				{
+					"type": "lesson",
+					"title": "Sprites",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/concepts/sprites/",
+					"time": "10m"
+				},
+				{
+					"type": "lesson",
+					"title": "State Machine",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/concepts/state-machine/",
+					"time": "10m"
+				}
+			],
+			"class2": [
+				{
+					"type": "quiz",
+					"title": "Q0 - Pong (Individual)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60666",
+					"time": "15m"
+				},
+				{
+					"type": "quiz",
+					"title": "Q0 - Pong (Group)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60667",
+					"time": "15m"
+				},
+				{
+					"type": "lesson",
+					"title": "Breakout 3-5",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/1-breakout",
+					"time": "2h"
+				},
+				{
+					"type": "activity",
+					"title": "Particle Systems",
+					"link": "https://moodle.johnabbott.qc.ca/mod/resource/view.php?id=62554",
+					"time": "30m"
+				}
+			],
+			"homework": [
+				{
+					"type": "lesson",
+					"title": "Review Breakout Notes",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/1-breakout",
+					"time": "1h"
+				},
+				{
+					"type": "assignment",
+					"title": "A1 - Breakout",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60656",
+					"time": "3h"
+				}
+			]
+		},
+		{
+			"week": "W03 - SEP 08",
+			"startDate": "2025-09-08",
+			"class1": [
+				{
+					"type": "note",
+					"title": "Section 1: Make up for Labour Day."
+				},
+				{
+					"type": "note",
+					"title": "Section 2: Lab Period."
+				},
+				{
+					"type": "assignment",
+					"title": "A1 - Breakout",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60656",
+					"time": "3h"
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "A1 - Breakout",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60656",
+					"time": "3h"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "A1 - Breakout",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60656",
+					"time": "4h",
+					"due": "DUE SEP 14"
+				}
+			]
 		}
 	]
 }

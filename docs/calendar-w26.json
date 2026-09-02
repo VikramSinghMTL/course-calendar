@@ -133,6 +133,171 @@
 					"selected": false
 				}
 			]
+		},
+		{
+			"week": "W02 - FEB 02",
+			"startDate": "2026-02-02",
+			"class1": [
+				{
+					"type": "lesson",
+					"title": "1.5 Input",
+					"time": "45m",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-1/15-input/",
+					"id": "activity-1770156622833-fmam9fuex",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 1.5.1 - Buttons",
+					"time": "",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68743",
+					"id": "activity-1770156622833-iusftaog4",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 1.5.2 - Forms",
+					"time": "",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68893",
+					"id": "activity-1770156622833-ec1zy4y75",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "lesson",
+					"title": "1.6 Lists",
+					"time": "45m",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-1/16-lists/",
+					"id": "activity-1770156622833-3b503vh2i",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 1.6.1 - Read",
+					"time": "",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68744",
+					"id": "activity-1770156622833-kd97737ec",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 1.6.2 - Create",
+					"time": "",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68894",
+					"id": "activity-1770156622833-sws63q6uz",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 1.6.3 - Update",
+					"time": "",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68895",
+					"id": "activity-1770156622833-veh79v3fs",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "exercise",
+					"title": "Exercise 1.6.4 - Delete",
+					"time": "",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=68896",
+					"id": "activity-1770156622833-ilgislnae",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"type": "exercise",
+					"title": "Chapter 1 Exercises",
+					"time": "",
+					"due": "2026-02-06",
+					"id": "activity-1770156622833-uhar81wz4",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 1 - Lists",
+					"time": "1.5h",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898",
+					"id": "activity-1770156622833-px3so0dq6",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": [
+				{
+					"type": "lesson",
+					"title": "Review Chapter 1",
+					"time": "30m",
+					"id": "activity-1770156622833-09fian0j9",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 1 - Lists",
+					"time": "4h",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898",
+					"id": "activity-1770156622833-oxbtiwh7b",
+					"chosen": false,
+					"selected": false
+				}
+			]
+		},
+		{
+			"week": "W03 - FEB 09",
+			"startDate": "2026-02-09",
+			"class1": [
+				{
+					"type": "assignment",
+					"title": "Assignment 1 - Lists",
+					"time": "3h",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898",
+					"id": "activity-1770156622833-i5wclgbf9",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "Assignment 1 - Lists",
+					"time": "1.5h",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898",
+					"id": "activity-1770340578117-kb9aji816",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "Assignment 1 - Lists",
+					"time": "4h",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898",
+					"id": "activity-1770340667408-zpxtfmsvz",
+					"chosen": false,
+					"selected": false
+				}
+			]
 		}
 	]
 }
