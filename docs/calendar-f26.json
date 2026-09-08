@@ -166,6 +166,36 @@
 			"startDate": "2026-09-07",
 			"class1": [
 				{
+					"type": "activity",
+					"title": "The History of Breakout",
+					"link": "https://youtu.be/bC_KPLe5dYg",
+					"time": "10m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-164nkxy22"
+				},
+				{
+					"type": "lesson",
+					"title": "Breakout 0-2",
+					"link": "https://game.singh.gg/docs/tutorials/1-breakout/",
+					"time": "1h25m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-auv1hafgq"
+				},
+				{
+					"type": "exercise",
+					"title": "E1.1 - Sprites",
+					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=76747",
+					"time": "1h25m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-bwpb3kh3k",
+					"due": "2026-09-12"
+				}
+			],
+			"class2": [
+				{
 					"type": "quiz",
 					"title": "Q0 - Pong (Individual)",
 					"link": "",
@@ -184,48 +214,10 @@
 					"id": "activity-1787588359475-o5nnvzyrc"
 				},
 				{
-					"type": "activity",
-					"title": "The History of Breakout",
-					"link": "https://youtu.be/bC_KPLe5dYg",
-					"time": "10m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-164nkxy22"
-				},
-				{
-					"type": "exercise",
-					"title": "E1.1 - Sprites",
-					"link": "",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-bwpb3kh3k"
-				},
-				{
-					"type": "lesson",
-					"title": "Breakout 0-2",
-					"link": "https://game.singh.gg/docs/guides/1-breakout",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-auv1hafgq"
-				},
-				{
-					"type": "lesson",
-					"title": "Sprites",
-					"link": "https://game.singh.gg/docs/concepts/sprites/",
-					"time": "20m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-79t8ss05b"
-				}
-			],
-			"class2": [
-				{
 					"type": "lesson",
 					"title": "Breakout 3-5",
-					"link": "https://game.singh.gg/docs/guides/1-breakout",
-					"time": "2h",
+					"link": "https://game.singh.gg/docs/tutorials/1-breakout/",
+					"time": "1h30m",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-x3lw308hh"
@@ -243,8 +235,8 @@
 			"homework": [
 				{
 					"type": "lesson",
-					"title": "Review Breakout Notes",
-					"link": "https://game.singh.gg/docs/guides/1-breakout",
+					"title": "Breakout 6-8",
+					"link": "https://game.singh.gg/docs/tutorials/1-breakout/",
 					"time": "1h",
 					"chosen": false,
 					"selected": false,
