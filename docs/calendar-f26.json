@@ -290,6 +290,115 @@
 					"id": "activity-1787588359475-nwo5geld4"
 				}
 			]
+		},
+		{
+			"week": "W04 - SEP 21",
+			"startDate": "2026-09-21",
+			"class1": [
+				{
+					"type": "quiz",
+					"title": "Q1 - Breakout (Individual)",
+					"link": "",
+					"time": "15m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-thx2dlptj"
+				},
+				{
+					"type": "quiz",
+					"title": "Q1 - Breakout (Group)",
+					"link": "",
+					"time": "15m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-gqg9apcab"
+				},
+				{
+					"type": "activity",
+					"title": "Candy Crush's Success",
+					"link": "https://youtu.be/Sz4WXVNq7v8",
+					"time": "10m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-xsa7uo2bg"
+				},
+				{
+					"type": "exercise",
+					"title": "E2.1 - Timers",
+					"link": "",
+					"time": "30m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-3a9ud2kgv"
+				},
+				{
+					"type": "exercise",
+					"title": "E2.2 - Tweens",
+					"link": "",
+					"time": "30m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-0yaqqdw82"
+				},
+				{
+					"type": "lesson",
+					"title": "Match 3 0-1",
+					"link": "",
+					"time": "1h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-l1nz2r8cn"
+				},
+				{
+					"type": "lesson",
+					"title": "Tweening",
+					"link": "",
+					"time": "20m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-k3uzx644x"
+				}
+			],
+			"class2": [
+				{
+					"type": "lesson",
+					"title": "Match 3 2-6",
+					"link": "",
+					"time": "3h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-3bp2kj2vg"
+				}
+			],
+			"homework": [
+				{
+					"type": "activity",
+					"title": "A1 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76690",
+					"time": "1h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-6ikxmr296"
+				},
+				{
+					"type": "lesson",
+					"title": "Review Match 3 Notes",
+					"link": "",
+					"time": "1h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-276gbtppv"
+				},
+				{
+					"type": "assignment",
+					"title": "A2 - Match 3",
+					"link": "",
+					"time": "2h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-k9anc7hva"
+				}
+			]
 		}
 	]
 }

@@ -298,6 +298,83 @@
 					"selected": false
 				}
 			]
+		},
+		{
+			"week": "W04 - FEB 16",
+			"startDate": "2026-02-16",
+			"class1": [
+				{
+					"id": "activity-1771206400514-xa74basle",
+					"type": "cancelled",
+					"title": "Cancelled",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 1 - Lists",
+					"time": "3h",
+					"due": "2026-02-16",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898",
+					"id": "activity-1771206606425-rzbztc8qp",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"class2": [
+				{
+					"id": "activity-1771206491502-347otzatc",
+					"type": "exercise",
+					"title": "Expo Router Challenge (Teams of 2)",
+					"chosen": false,
+					"time": "1.5h",
+					"selected": false,
+					"link": "https://classroom.github.com/a/Ey_bJpJr",
+					"due": "2026-02-20"
+				}
+			],
+			"homework": [
+				{
+					"id": "activity-1771207713148-8wvvft294",
+					"type": "exercise",
+					"title": "Introduction to Expo Router Layout Files",
+					"chosen": false,
+					"link": "https://youtu.be/Yh6Qlg2CYwQ?si=UB_ouks3rV1e9iCW",
+					"due": "2026-02-19",
+					"time": "15m",
+					"selected": false
+				},
+				{
+					"id": "activity-1771207765782-j809hwo16",
+					"type": "exercise",
+					"title": "Using a Stack Navigator with Expo Router",
+					"chosen": false,
+					"link": "https://youtu.be/izZv6a99Roo?si=6inRNdD1NnRz0tcL",
+					"due": "2026-02-19",
+					"time": "15m",
+					"selected": false
+				},
+				{
+					"id": "activity-1771207766943-st9xqxgkr",
+					"type": "exercise",
+					"title": "Using a Tab Navigator with Expo Router",
+					"chosen": false,
+					"link": "https://youtu.be/BElPB4Ai3j0?si=Yxkf_9ckfFdnNVWL",
+					"due": "2026-02-19",
+					"time": "15m",
+					"selected": false
+				},
+				{
+					"id": "activity-1771207768929-q1nuhifox",
+					"type": "exercise",
+					"title": "Using Modals with Expo Router",
+					"chosen": false,
+					"link": "https://youtu.be/gNzuJVRmyDk?si=GT-OmQPQ7vusaimT",
+					"due": "2026-02-19",
+					"time": "15m",
+					"selected": false
+				}
+			]
 		}
 	]
 }
