@@ -116,7 +116,8 @@
 					"id": "activity-1788385441042-f4rsz39kq",
 					"type": "cancelled",
 					"title": "Cancelled",
-					"chosen": false
+					"chosen": false,
+					"selected": false
 				}
 			],
 			"class2": [
@@ -245,7 +246,7 @@
 				{
 					"type": "assignment",
 					"title": "A1 - Breakout",
-					"link": "https://classroom50.org/JAC-CS-Game-Programming-F26/game-programming/assignments/1-breakout/accept",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76690",
 					"time": "3h",
 					"chosen": false,
 					"selected": false,
@@ -260,7 +261,7 @@
 				{
 					"type": "assignment",
 					"title": "A1 - Breakout",
-					"link": "https://classroom50.org/JAC-CS-Game-Programming-F26/game-programming/assignments/1-breakout/accept",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76690",
 					"time": "3h",
 					"chosen": false,
 					"selected": false,
@@ -271,7 +272,7 @@
 				{
 					"type": "assignment",
 					"title": "A1 - Breakout",
-					"link": "https://classroom50.org/JAC-CS-Game-Programming-F26/game-programming/assignments/1-breakout/accept",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76690",
 					"time": "3h",
 					"chosen": false,
 					"selected": false,
@@ -282,7 +283,7 @@
 				{
 					"type": "assignment",
 					"title": "A1 - Breakout",
-					"link": "https://classroom50.org/JAC-CS-Game-Programming-F26/game-programming/assignments/1-breakout/accept",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76690",
 					"time": "4h",
 					"chosen": false,
 					"selected": false,
