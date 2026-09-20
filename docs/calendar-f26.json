@@ -167,6 +167,12 @@
 			"startDate": "2026-09-07",
 			"class1": [
 				{
+					"id": "activity-1789918906131-lue9vlyuq",
+					"type": "cancelled",
+					"title": "Async",
+					"chosen": false
+				},
+				{
 					"type": "activity",
 					"title": "The History of Breakout",
 					"link": "https://youtu.be/bC_KPLe5dYg",
@@ -298,7 +304,7 @@
 				{
 					"type": "quiz",
 					"title": "Q1 - Breakout (Individual)",
-					"link": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76701",
 					"time": "15m",
 					"chosen": false,
 					"selected": false,
@@ -307,7 +313,7 @@
 				{
 					"type": "quiz",
 					"title": "Q1 - Breakout (Group)",
-					"link": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76702",
 					"time": "15m",
 					"chosen": false,
 					"selected": false,
@@ -323,51 +329,65 @@
 					"id": "activity-1787588359475-xsa7uo2bg"
 				},
 				{
-					"type": "exercise",
-					"title": "E2.1 - Timers",
-					"link": "",
-					"time": "30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-3a9ud2kgv"
-				},
-				{
-					"type": "exercise",
-					"title": "E2.2 - Tweens",
-					"link": "",
-					"time": "30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-0yaqqdw82"
-				},
-				{
 					"type": "lesson",
 					"title": "Match 3 0-1",
-					"link": "",
+					"link": "https://game.singh.gg/docs/tutorials/2-match-3/",
 					"time": "1h",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-l1nz2r8cn"
 				},
 				{
+					"type": "exercise",
+					"title": "E2.1 - Timers",
+					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=76742",
+					"time": "30m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-3a9ud2kgv"
+				},
+				{
 					"type": "lesson",
 					"title": "Tweening",
-					"link": "",
+					"link": "https://game.singh.gg/docs/concepts/tweening/",
 					"time": "20m",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-k3uzx644x"
+				},
+				{
+					"type": "exercise",
+					"title": "E2.2 - Tweens",
+					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=76743",
+					"time": "30m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-0yaqqdw82"
 				}
 			],
 			"class2": [
 				{
 					"type": "lesson",
 					"title": "Match 3 2-6",
-					"link": "",
-					"time": "3h",
+					"link": "https://game.singh.gg/docs/tutorials/2-match-3/",
+					"time": "2h",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-3bp2kj2vg"
+				},
+				{
+					"id": "activity-1789919863973-nqtq66jfl",
+					"type": "activity",
+					"title": "Tile Detection Codestorm",
+					"chosen": false,
+					"time": "30m"
+				},
+				{
+					"id": "activity-1789919897176-xefqpsxak",
+					"type": "activity",
+					"title": "Tile Removal+Replacement Codestorm",
+					"chosen": false,
+					"time": "30m"
 				}
 			],
 			"homework": [
@@ -383,7 +403,7 @@
 				{
 					"type": "lesson",
 					"title": "Review Match 3 Notes",
-					"link": "",
+					"link": "https://game.singh.gg/docs/tutorials/2-match-3/",
 					"time": "1h",
 					"chosen": false,
 					"selected": false,
@@ -397,6 +417,152 @@
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-k9anc7hva"
+				}
+			]
+		},
+		{
+			"week": "W05 - SEP 28",
+			"startDate": "2026-09-28",
+			"class1": [
+				{
+					"type": "assignment",
+					"title": "A2 - Match 3",
+					"link": "",
+					"time": "3h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-g0tpottsk"
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "A2 - Match 3",
+					"link": "",
+					"time": "3h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-coylcccyl"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "A2 - Match 3",
+					"link": "",
+					"time": "4h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-iiqtdjrtt"
+				}
+			]
+		},
+		{
+			"week": "W06 - OCT 05",
+			"startDate": "2026-10-05",
+			"class1": [
+				{
+					"type": "quiz",
+					"title": "Q2 - Match 3 (Individual)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76703",
+					"time": "15m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-4jbfq6n56"
+				},
+				{
+					"type": "quiz",
+					"title": "Q2 - Match 3 (Group)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76704",
+					"time": "15m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-h0auxdrxt"
+				},
+				{
+					"type": "activity",
+					"title": "How Super Mario Mastered Level Design",
+					"link": "https://youtu.be/ZH2wGpEZVgE",
+					"time": "5m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-brmjlddbu"
+				},
+				{
+					"type": "activity",
+					"title": "Platformer Toolkit",
+					"link": "https://gmtk.itch.io/platformer-toolkit",
+					"time": "5m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-eo9uu8h3w"
+				},
+				{
+					"type": "exercise",
+					"title": "E3.1 - Animations",
+					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=60703",
+					"time": "30m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-r076xrxu9"
+				},
+				{
+					"type": "lesson",
+					"title": "Mario 0-2",
+					"link": "https://game.singh.gg/docs/guides/3-mario/",
+					"time": "1h20m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-lvmvwwrqs"
+				},
+				{
+					"type": "lesson",
+					"title": "Sprite Animation",
+					"link": "https://game.singh.gg/docs/concepts/animation/",
+					"time": "30m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-5jd811pwh"
+				}
+			],
+			"class2": [
+				{
+					"type": "lesson",
+					"title": "Mario 3-6",
+					"link": "https://game.singh.gg/docs/guides/3-mario/",
+					"time": "1h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-iuf5fzemi"
+				},
+				{
+					"type": "lesson",
+					"title": "Tile Collision",
+					"link": "https://game.singh.gg/docs/concepts/tile-collision/",
+					"time": "1h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-eke3vvjec"
+				},
+				{
+					"type": "lesson",
+					"title": "2D Physics",
+					"link": "https://game.singh.gg/docs/concepts/physics/",
+					"time": "1h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-r2ooorfm0"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "A3 - Mario",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60658",
+					"time": "3h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-ic7r4g2cf"
 				}
 			]
 		}

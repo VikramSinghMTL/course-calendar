@@ -375,6 +375,136 @@
 					"selected": false
 				}
 			]
+		},
+		{
+			"week": "W05 - FEB 23",
+			"startDate": "2026-02-23",
+			"class1": [
+				{
+					"type": "quiz",
+					"title": "Quiz 1 (3%)",
+					"time": "30m",
+					"id": "activity-1770156622833-5tk55k2t8",
+					"chosen": false,
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=70024"
+				},
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 1",
+					"time": "1h",
+					"due": "",
+					"id": "activity-1771820426452-1p78hetc1",
+					"chosen": false,
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=68898"
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 2 - Navigation & CRUD",
+					"time": "2h",
+					"due": "",
+					"id": "activity-1770156622833-lmq0a77zo",
+					"chosen": false,
+					"selected": false,
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-2/assignment-2/"
+				}
+			],
+			"class2": [
+				{
+					"id": "activity-1771595989399-55ng9nvh7",
+					"type": "project",
+					"title": "Final Project Intro",
+					"chosen": false,
+					"time": "30m",
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 2 - Navigation & CRUD",
+					"time": "1h",
+					"due": "",
+					"id": "activity-1770156622833-awub79yy7",
+					"chosen": false,
+					"selected": false,
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-2/assignment-2/"
+				}
+			],
+			"homework": [
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 1",
+					"time": "1h",
+					"due": "2026-02-22",
+					"id": "activity-1770156622833-zzieuzl7d",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 2 - Navigation & CRUD",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1770156622833-onuqc5afz",
+					"chosen": false,
+					"selected": false,
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-2/assignment-2/"
+				}
+			]
+		},
+		{
+			"week": "W06 - MAR 02",
+			"startDate": "2026-03-02",
+			"class1": [
+				{
+					"type": "cancelled",
+					"title": "March Break",
+					"id": "activity-1770156622833-6kot4a1yl",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 2 - Navigation & CRUD",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1771562490220-0mf386g3q",
+					"chosen": false,
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=70252"
+				}
+			],
+			"class2": [
+				{
+					"type": "cancelled",
+					"title": "March Break",
+					"id": "activity-1770156622833-cb3je3pfy",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 2 - Navigation & CRUD",
+					"time": "1.5h",
+					"due": "",
+					"id": "activity-1771562491437-45cw5zz0u",
+					"chosen": false,
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=70252"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "Assignment 2 - Navigation & CRUD",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1771562492916-czswc7a4d",
+					"chosen": false,
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=70252"
+				}
+			]
 		}
 	]
 }
