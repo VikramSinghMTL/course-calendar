@@ -393,15 +393,6 @@
 			],
 			"homework": [
 				{
-					"type": "activity",
-					"title": "A1 Workshop",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76690",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-6ikxmr296"
-				},
-				{
 					"type": "lesson",
 					"title": "Review Match 3 Notes",
 					"link": "https://game.singh.gg/docs/tutorials/2-match-3/",
@@ -447,6 +438,16 @@
 				}
 			],
 			"homework": [
+				{
+					"type": "activity",
+					"title": "A1 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76690",
+					"time": "1h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-6ikxmr296",
+					"due": "2026-10-05"
+				},
 				{
 					"type": "assignment",
 					"title": "A2 - Match 3",
