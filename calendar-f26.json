@@ -167,6 +167,12 @@
 			"startDate": "2026-09-07",
 			"class1": [
 				{
+					"id": "activity-1789918906131-lue9vlyuq",
+					"type": "cancelled",
+					"title": "Async",
+					"chosen": false
+				},
+				{
 					"type": "activity",
 					"title": "The History of Breakout",
 					"link": "https://youtu.be/bC_KPLe5dYg",
@@ -298,7 +304,7 @@
 				{
 					"type": "quiz",
 					"title": "Q1 - Breakout (Individual)",
-					"link": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76701",
 					"time": "15m",
 					"chosen": false,
 					"selected": false,
@@ -307,7 +313,7 @@
 				{
 					"type": "quiz",
 					"title": "Q1 - Breakout (Group)",
-					"link": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76702",
 					"time": "15m",
 					"chosen": false,
 					"selected": false,
@@ -323,51 +329,65 @@
 					"id": "activity-1787588359475-xsa7uo2bg"
 				},
 				{
-					"type": "exercise",
-					"title": "E2.1 - Timers",
-					"link": "",
-					"time": "30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-3a9ud2kgv"
-				},
-				{
-					"type": "exercise",
-					"title": "E2.2 - Tweens",
-					"link": "",
-					"time": "30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-0yaqqdw82"
-				},
-				{
 					"type": "lesson",
 					"title": "Match 3 0-1",
-					"link": "",
+					"link": "https://game.singh.gg/docs/tutorials/2-match-3/",
 					"time": "1h",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-l1nz2r8cn"
 				},
 				{
+					"type": "exercise",
+					"title": "E2.1 - Timers",
+					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=76742",
+					"time": "30m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-3a9ud2kgv"
+				},
+				{
 					"type": "lesson",
 					"title": "Tweening",
-					"link": "",
+					"link": "https://game.singh.gg/docs/concepts/tweening/",
 					"time": "20m",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-k3uzx644x"
+				},
+				{
+					"type": "exercise",
+					"title": "E2.2 - Tweens",
+					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=76743",
+					"time": "30m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-0yaqqdw82"
 				}
 			],
 			"class2": [
 				{
 					"type": "lesson",
 					"title": "Match 3 2-6",
-					"link": "",
-					"time": "3h",
+					"link": "https://game.singh.gg/docs/tutorials/2-match-3/",
+					"time": "2h",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-3bp2kj2vg"
+				},
+				{
+					"id": "activity-1789919863973-nqtq66jfl",
+					"type": "activity",
+					"title": "Tile Detection Codestorm",
+					"chosen": false,
+					"time": "30m"
+				},
+				{
+					"id": "activity-1789919897176-xefqpsxak",
+					"type": "activity",
+					"title": "Tile Removal+Replacement Codestorm",
+					"chosen": false,
+					"time": "30m"
 				}
 			],
 			"homework": [
@@ -383,7 +403,7 @@
 				{
 					"type": "lesson",
 					"title": "Review Match 3 Notes",
-					"link": "",
+					"link": "https://game.singh.gg/docs/tutorials/2-match-3/",
 					"time": "1h",
 					"chosen": false,
 					"selected": false,
@@ -444,7 +464,7 @@
 				{
 					"type": "quiz",
 					"title": "Q2 - Match 3 (Individual)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60670",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76703",
 					"time": "15m",
 					"chosen": false,
 					"selected": false,
@@ -453,7 +473,7 @@
 				{
 					"type": "quiz",
 					"title": "Q2 - Match 3 (Group)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60671",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76704",
 					"time": "15m",
 					"chosen": false,
 					"selected": false,
@@ -599,7 +619,7 @@
 				{
 					"type": "quiz",
 					"title": "Q3 - Mario (Individual)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60672",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76705",
 					"time": "15m",
 					"chosen": false,
 					"selected": false,
@@ -608,7 +628,7 @@
 				{
 					"type": "quiz",
 					"title": "Q3 - Mario (Group)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60673",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76706",
 					"time": "15m",
 					"chosen": false,
 					"selected": false,
@@ -716,18 +736,9 @@
 			"startDate": "2026-11-02",
 			"class1": [
 				{
-					"type": "cancelled",
-					"title": "Cancelled",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-rrxbqtqd3"
-				}
-			],
-			"class2": [
-				{
 					"type": "quiz",
 					"title": "Q4 - Zelda (Individual)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60674",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76707",
 					"time": "15m",
 					"chosen": false,
 					"selected": false,
@@ -736,7 +747,7 @@
 				{
 					"type": "quiz",
 					"title": "Q4 - Zelda (Group)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60675",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76708",
 					"time": "15m",
 					"chosen": false,
 					"selected": false,
@@ -761,7 +772,7 @@
 					"id": "activity-1787588359475-3dd7wtqry"
 				}
 			],
-			"homework": [
+			"class2": [
 				{
 					"type": "lesson",
 					"title": "Angry Birds Async Lesson (1.5%)",
@@ -779,7 +790,9 @@
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-byi0ciimi"
-				},
+				}
+			],
+			"homework": [
 				{
 					"type": "assignment",
 					"title": "A5 - Angry Birds",
@@ -844,7 +857,7 @@
 				{
 					"type": "quiz",
 					"title": "Q5 - Angry Birds (Individual)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60676",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76709",
 					"time": "15m",
 					"chosen": false,
 					"selected": false,
@@ -853,7 +866,7 @@
 				{
 					"type": "quiz",
 					"title": "Q5 - Angry Birds (Group)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60677",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76710",
 					"time": "15m",
 					"chosen": false,
 					"selected": false,
@@ -982,7 +995,7 @@
 				{
 					"type": "quiz",
 					"title": "Q6 - Pokemon (Individual)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60678",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76711",
 					"time": "15m",
 					"chosen": false,
 					"selected": false,
@@ -991,7 +1004,7 @@
 				{
 					"type": "quiz",
 					"title": "Q6 - Pokemon (Group)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60679",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76712",
 					"time": "15m",
 					"chosen": false,
 					"selected": false,
