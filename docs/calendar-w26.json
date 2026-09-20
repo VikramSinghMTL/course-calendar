@@ -451,60 +451,6 @@
 					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-2/assignment-2/"
 				}
 			]
-		},
-		{
-			"week": "W06 - MAR 02",
-			"startDate": "2026-03-02",
-			"class1": [
-				{
-					"type": "cancelled",
-					"title": "March Break",
-					"id": "activity-1770156622833-6kot4a1yl",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "assignment",
-					"title": "Assignment 2 - Navigation & CRUD",
-					"time": "3h",
-					"due": "",
-					"id": "activity-1771562490220-0mf386g3q",
-					"chosen": false,
-					"selected": false,
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=70252"
-				}
-			],
-			"class2": [
-				{
-					"type": "cancelled",
-					"title": "March Break",
-					"id": "activity-1770156622833-cb3je3pfy",
-					"chosen": false,
-					"selected": false
-				},
-				{
-					"type": "assignment",
-					"title": "Assignment 2 - Navigation & CRUD",
-					"time": "1.5h",
-					"due": "",
-					"id": "activity-1771562491437-45cw5zz0u",
-					"chosen": false,
-					"selected": false,
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=70252"
-				}
-			],
-			"homework": [
-				{
-					"type": "assignment",
-					"title": "Assignment 2 - Navigation & CRUD",
-					"time": "3h",
-					"due": "",
-					"id": "activity-1771562492916-czswc7a4d",
-					"chosen": false,
-					"selected": false,
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=70252"
-				}
-			]
 		}
 	]
 }
