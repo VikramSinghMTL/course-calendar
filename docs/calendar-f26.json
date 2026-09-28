@@ -170,7 +170,8 @@
 					"id": "activity-1789918906131-lue9vlyuq",
 					"type": "cancelled",
 					"title": "Async",
-					"chosen": false
+					"chosen": false,
+					"selected": false
 				},
 				{
 					"type": "activity",
@@ -381,14 +382,16 @@
 					"type": "activity",
 					"title": "Tile Detection Codestorm",
 					"chosen": false,
-					"time": "30m"
+					"time": "30m",
+					"selected": false
 				},
 				{
 					"id": "activity-1789919897176-xefqpsxak",
 					"type": "activity",
 					"title": "Tile Removal+Replacement Codestorm",
 					"chosen": false,
-					"time": "30m"
+					"time": "30m",
+					"selected": false
 				}
 			],
 			"homework": [
@@ -404,7 +407,7 @@
 				{
 					"type": "assignment",
 					"title": "A2 - Match 3",
-					"link": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76691",
 					"time": "2h",
 					"chosen": false,
 					"selected": false,
@@ -419,7 +422,7 @@
 				{
 					"type": "assignment",
 					"title": "A2 - Match 3",
-					"link": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76691",
 					"time": "3h",
 					"chosen": false,
 					"selected": false,
@@ -430,7 +433,7 @@
 				{
 					"type": "assignment",
 					"title": "A2 - Match 3",
-					"link": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76691",
 					"time": "3h",
 					"chosen": false,
 					"selected": false,
@@ -451,11 +454,12 @@
 				{
 					"type": "assignment",
 					"title": "A2 - Match 3",
-					"link": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76691",
 					"time": "4h",
 					"chosen": false,
 					"selected": false,
-					"id": "activity-1787588359475-iiqtdjrtt"
+					"id": "activity-1787588359475-iiqtdjrtt",
+					"due": "2026-10-05"
 				}
 			]
 		}
