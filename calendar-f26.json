@@ -378,7 +378,7 @@
 					"id": "activity-1787588359475-3bp2kj2vg"
 				},
 				{
-					"id": "activity-1789919863973-nqtq66jfl",
+					"id": "activity-1791246309726-mvclnurpo",
 					"type": "activity",
 					"title": "Tile Detection Codestorm",
 					"chosen": false,
@@ -540,6 +540,14 @@
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-iuf5fzemi"
+				},
+				{
+					"id": "activity-1789919863973-nqtq66jfl",
+					"type": "activity",
+					"title": "Tile Collision Codestorm",
+					"chosen": false,
+					"time": "30m",
+					"selected": false
 				},
 				{
 					"type": "lesson",
