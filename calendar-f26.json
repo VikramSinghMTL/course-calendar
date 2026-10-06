@@ -506,7 +506,7 @@
 				{
 					"type": "exercise",
 					"title": "E3.1 - Animations",
-					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=60703",
+					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=76736",
 					"time": "30m",
 					"chosen": false,
 					"selected": false,
@@ -514,8 +514,8 @@
 				},
 				{
 					"type": "lesson",
-					"title": "Mario 0-2",
-					"link": "https://game.singh.gg/docs/guides/3-mario/",
+					"title": "Mario 0-1",
+					"link": "https://game.singh.gg/docs/tutorials/3-mario/",
 					"time": "1h20m",
 					"chosen": false,
 					"selected": false,
@@ -534,8 +534,8 @@
 			"class2": [
 				{
 					"type": "lesson",
-					"title": "Mario 3-6",
-					"link": "https://game.singh.gg/docs/guides/3-mario/",
+					"title": "Mario 2-5",
+					"link": "https://game.singh.gg/docs/tutorials/3-mario/",
 					"time": "1h",
 					"chosen": false,
 					"selected": false,
@@ -564,7 +564,7 @@
 				{
 					"type": "assignment",
 					"title": "A3 - Mario",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60658",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
 					"time": "3h",
 					"chosen": false,
 					"selected": false,
@@ -579,7 +579,7 @@
 				{
 					"type": "assignment",
 					"title": "A3 - Mario",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60658",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
 					"time": "3h",
 					"chosen": false,
 					"selected": false,
@@ -590,7 +590,7 @@
 				{
 					"type": "assignment",
 					"title": "A3 - Mario",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60658",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
 					"time": "3h",
 					"chosen": false,
 					"selected": false,
@@ -601,7 +601,7 @@
 				{
 					"type": "activity",
 					"title": "A2 Workshop",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60657",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76691",
 					"time": "1h",
 					"chosen": false,
 					"selected": false,
@@ -610,7 +610,7 @@
 				{
 					"type": "assignment",
 					"title": "A3 - Mario",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60658",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
 					"time": "3h",
 					"chosen": false,
 					"selected": false,
