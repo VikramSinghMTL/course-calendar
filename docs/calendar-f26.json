@@ -462,6 +462,169 @@
 					"due": "2026-10-05"
 				}
 			]
+		},
+		{
+			"week": "W06 - OCT 05",
+			"startDate": "2026-10-05",
+			"class1": [
+				{
+					"type": "quiz",
+					"title": "Q2 - Match 3 (Individual)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76703",
+					"time": "15m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-4jbfq6n56"
+				},
+				{
+					"type": "quiz",
+					"title": "Q2 - Match 3 (Group)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76704",
+					"time": "15m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-h0auxdrxt"
+				},
+				{
+					"type": "activity",
+					"title": "How Super Mario Mastered Level Design",
+					"link": "https://youtu.be/ZH2wGpEZVgE",
+					"time": "5m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-brmjlddbu"
+				},
+				{
+					"type": "activity",
+					"title": "Platformer Toolkit",
+					"link": "https://gmtk.itch.io/platformer-toolkit",
+					"time": "5m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-eo9uu8h3w"
+				},
+				{
+					"type": "exercise",
+					"title": "E3.1 - Animations",
+					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=76736",
+					"time": "30m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-r076xrxu9"
+				},
+				{
+					"type": "lesson",
+					"title": "Mario 0-1",
+					"link": "https://game.singh.gg/docs/tutorials/3-mario/",
+					"time": "1h20m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-lvmvwwrqs"
+				},
+				{
+					"type": "lesson",
+					"title": "Sprite Animation",
+					"link": "https://game.singh.gg/docs/concepts/animation/",
+					"time": "30m",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-5jd811pwh"
+				}
+			],
+			"class2": [
+				{
+					"type": "lesson",
+					"title": "Mario 2-5",
+					"link": "https://game.singh.gg/docs/tutorials/3-mario/",
+					"time": "1h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-iuf5fzemi"
+				},
+				{
+					"id": "activity-1789919863973-nqtq66jfl",
+					"type": "activity",
+					"title": "Tile Collision Codestorm",
+					"chosen": false,
+					"time": "30m",
+					"selected": false
+				},
+				{
+					"type": "lesson",
+					"title": "Tile Collision",
+					"link": "https://game.singh.gg/docs/concepts/tile-collision/",
+					"time": "1h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-eke3vvjec"
+				},
+				{
+					"type": "lesson",
+					"title": "2D Physics",
+					"link": "https://game.singh.gg/docs/concepts/physics/",
+					"time": "1h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-r2ooorfm0"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "A3 - Mario",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
+					"time": "3h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-ic7r4g2cf"
+				}
+			]
+		},
+		{
+			"week": "W07 - OCT 12",
+			"startDate": "2026-10-12",
+			"class1": [
+				{
+					"type": "assignment",
+					"title": "A3 - Mario",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
+					"time": "3h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-tghmp5tgc"
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "A3 - Mario",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
+					"time": "3h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-nen3lw018"
+				}
+			],
+			"homework": [
+				{
+					"type": "activity",
+					"title": "A2 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76691",
+					"time": "1h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-krcqiqvo6"
+				},
+				{
+					"type": "assignment",
+					"title": "A3 - Mario",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
+					"time": "3h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1787588359475-c2hj4f2z8"
+				}
+			]
 		}
 	]
 }
