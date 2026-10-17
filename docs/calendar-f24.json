@@ -403,6 +403,93 @@
 					"due": "DUE OCT 14"
 				}
 			]
+		},
+		{
+			"week": "W08 - OCT 14",
+			"startDate": "2024-10-14",
+			"class1": [
+				{
+					"type": "cancelled",
+					"title": "Class Cancelled"
+				}
+			],
+			"class2": [
+				{
+					"type": "cancelled",
+					"title": "Class Cancelled"
+				}
+			],
+			"homework": [
+				{
+					"type": "quiz",
+					"title": "Q3 - Mario (Individual)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=38992",
+					"time": "20m"
+				},
+				{
+					"type": "activity",
+					"title": "The Magic of the First Legend of Zelda",
+					"link": "https://youtu.be/ZJhkvPmy1Is",
+					"time": "10m"
+				},
+				{
+					"type": "lesson",
+					"title": "Zelda 0-1 (Read before async lesson)",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/4-zelda/",
+					"time": "1h30m"
+				},
+				{
+					"type": "footer",
+					"title": "Weekly Total",
+					"time": "3h"
+				}
+			]
+		},
+		{
+			"week": "W09 - OCT 21",
+			"startDate": "2024-10-21",
+			"class1": [
+				{
+					"type": "cancelled",
+					"title": "Async Class ⓘ",
+					"note": "An asynchronous class where you complete activities on your own time."
+				},
+				{
+					"type": "lesson",
+					"title": "Zelda Async Lesson (3%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=39019",
+					"time": "2h"
+				},
+				{
+					"type": "assignment",
+					"title": "A4 - Zelda",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38980",
+					"time": "1h"
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "A4 - Zelda",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38980",
+					"time": "3h"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "A4 - Zelda",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38980",
+					"time": "3h"
+				},
+				{
+					"type": "activity",
+					"title": "A3 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38979",
+					"time": "1h",
+					"due": "DUE OCT 25"
+				}
+			]
 		}
 	]
 }

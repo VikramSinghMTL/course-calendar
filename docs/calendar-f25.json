@@ -441,6 +441,108 @@
 					"due": "DUE OCT 13"
 				}
 			]
+		},
+		{
+			"week": "W08 - OCT 13",
+			"startDate": "2025-10-13",
+			"class1": [
+				{
+					"type": "note",
+					"title": "Section 1: Thanksgiving, this class will be on Thursday."
+				},
+				{
+					"type": "note",
+					"title": "Section 2: This class will be on Wednesday."
+				},
+				{
+					"type": "quiz",
+					"title": "Q3 - Mario (Individual)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60672",
+					"time": "15m"
+				},
+				{
+					"type": "quiz",
+					"title": "Q3 - Mario (Group)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60673",
+					"time": "15m"
+				},
+				{
+					"type": "activity",
+					"title": "The Magic of the First Legend of Zelda",
+					"link": "https://youtu.be/KHbQ6ti5BQ0",
+					"time": "10m"
+				},
+				{
+					"type": "lesson",
+					"title": "Zelda 0-1",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/4-zelda/",
+					"time": "1h30m"
+				}
+			],
+			"class2": [
+				{
+					"type": "cancelled",
+					"title": "Async Class - Section 2 will not come to class.",
+					"note": "An asynchronous class where you complete activities on your own time."
+				},
+				{
+					"type": "lesson",
+					"title": "Zelda Async Lesson (3%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=60696",
+					"time": "3h"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "A4 - Zelda",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60659",
+					"time": "4h"
+				}
+			]
+		},
+		{
+			"week": "W09 - OCT 20",
+			"startDate": "2025-10-20",
+			"class1": [
+				{
+					"type": "assignment",
+					"title": "A4 - Zelda",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60659",
+					"time": "3h"
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "A4 - Zelda",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60659",
+					"time": "3h"
+				}
+			],
+			"homework": [
+				{
+					"type": "activity",
+					"title": "A3 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60658",
+					"time": "1h",
+					"due": "DUE OCT 26"
+				},
+				{
+					"type": "assignment",
+					"title": "A4 - Zelda",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60659",
+					"time": "2h50m",
+					"due": "DUE OCT 26"
+				},
+				{
+					"type": "assignment",
+					"title": "Course Feedback Survey (0.5%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=60647",
+					"time": "10m",
+					"due": "DUE OCT 26"
+				}
+			]
 		}
 	]
 }
