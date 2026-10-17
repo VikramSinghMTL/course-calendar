@@ -631,6 +631,25 @@
 			"startDate": "2026-10-19",
 			"class1": [
 				{
+					"id": "activity-1792270832348-y4nl1igq1",
+					"type": "cancelled",
+					"title": "Async, message me on TEAMS with questions!",
+					"chosen": false,
+					"selected": false
+				},
+				{
+					"type": "assignment",
+					"title": "A3 - Mario",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
+					"time": "3h",
+					"chosen": false,
+					"selected": false,
+					"id": "activity-1792270857177-j8byigr34",
+					"due": "2026-10-21"
+				}
+			],
+			"class2": [
+				{
 					"type": "quiz",
 					"title": "Q3 - Mario (Individual)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76705",
@@ -659,23 +678,12 @@
 				},
 				{
 					"type": "lesson",
-					"title": "Zelda 0-1",
+					"title": "Zelda",
 					"link": "https://game.singh.gg/docs/guides/4-zelda/",
 					"time": "1h30m",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-8or9gzkzi"
-				}
-			],
-			"class2": [
-				{
-					"type": "lesson",
-					"title": "Zelda Async Lesson (3%)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=60696",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-9uanz2po6"
 				}
 			],
 			"homework": [
