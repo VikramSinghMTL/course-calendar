@@ -653,7 +653,7 @@
 					"type": "quiz",
 					"title": "Q3 - Mario (Individual)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76705",
-					"time": "15m",
+					"time": "20m",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-aakmfr6su"
@@ -662,7 +662,7 @@
 					"type": "quiz",
 					"title": "Q3 - Mario (Group)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76706",
-					"time": "15m",
+					"time": "20m",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-zzwtn6ara"
@@ -671,7 +671,7 @@
 					"type": "activity",
 					"title": "The Magic of the First Legend of Zelda",
 					"link": "https://youtu.be/KHbQ6ti5BQ0",
-					"time": "10m",
+					"time": "20m",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-wk399am3a"
@@ -679,8 +679,8 @@
 				{
 					"type": "lesson",
 					"title": "Zelda",
-					"link": "https://game.singh.gg/docs/guides/4-zelda/",
-					"time": "1h30m",
+					"link": "https://game.singh.gg/docs/tutorials/4-zelda/",
+					"time": "2h",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-8or9gzkzi"
@@ -690,7 +690,7 @@
 				{
 					"type": "assignment",
 					"title": "A4 - Zelda",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60659",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
 					"time": "4h",
 					"chosen": false,
 					"selected": false,
@@ -705,7 +705,7 @@
 				{
 					"type": "assignment",
 					"title": "A4 - Zelda",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60659",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
 					"time": "3h",
 					"chosen": false,
 					"selected": false,
@@ -716,7 +716,7 @@
 				{
 					"type": "assignment",
 					"title": "A4 - Zelda",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60659",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
 					"time": "3h",
 					"chosen": false,
 					"selected": false,
@@ -727,7 +727,7 @@
 				{
 					"type": "activity",
 					"title": "A3 Workshop",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60658",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
 					"time": "1h",
 					"chosen": false,
 					"selected": false,
@@ -736,7 +736,7 @@
 				{
 					"type": "assignment",
 					"title": "A4 - Zelda",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60659",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
 					"time": "2h50m",
 					"chosen": false,
 					"selected": false,
@@ -745,7 +745,7 @@
 				{
 					"type": "assignment",
 					"title": "Course Feedback Survey (0.5%)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=60647",
+					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=76681",
 					"time": "10m",
 					"chosen": false,
 					"selected": false,
