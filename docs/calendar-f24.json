@@ -490,6 +490,70 @@
 					"due": "DUE OCT 25"
 				}
 			]
+		},
+		{
+			"week": "W10 - OCT 28",
+			"startDate": "2024-10-28",
+			"class1": [
+				{
+					"type": "quiz",
+					"title": "Q4 - Zelda (Individual)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=38994",
+					"time": "15m"
+				},
+				{
+					"type": "quiz",
+					"title": "Q4 - Zelda (Group)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=38995",
+					"time": "15m"
+				},
+				{
+					"type": "activity",
+					"title": "Peer Feedback Activity",
+					"link": "https://bit.ly/Vik-Consent-Form",
+					"time": "1h"
+				},
+				{
+					"type": "lesson",
+					"title": "Angry Birds",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/5-angry-birds/",
+					"time": "1h30m"
+				}
+			],
+			"class2": [
+				{
+					"type": "cancelled",
+					"title": "Async Class ⓘ",
+					"note": "An asynchronous class where you complete activities on your own time."
+				},
+				{
+					"type": "lesson",
+					"title": "Angry Birds Async Lesson (1.5%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/h5pactivity/view.php?id=39012",
+					"time": "2h30m"
+				},
+				{
+					"type": "lesson",
+					"title": "Angry Birds Forum (1.5%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/forum/view.php?id=39013",
+					"time": "30m"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "A4 - Zelda",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38980",
+					"time": "2h",
+					"due": "DUE NOV 02"
+				},
+				{
+					"type": "assignment",
+					"title": "A5 - Angry Birds",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38981",
+					"time": "2h"
+				}
+			]
 		}
 	]
 }

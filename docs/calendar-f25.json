@@ -543,6 +543,62 @@
 					"due": "DUE OCT 26"
 				}
 			]
+		},
+		{
+			"week": "W10 - OCT 27",
+			"startDate": "2025-10-27",
+			"class1": [
+				{
+					"type": "cancelled",
+					"title": "Cancelled"
+				}
+			],
+			"class2": [
+				{
+					"type": "quiz",
+					"title": "Q4 - Zelda (Individual)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60674",
+					"time": "15m"
+				},
+				{
+					"type": "quiz",
+					"title": "Q4 - Zelda (Group)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=60675",
+					"time": "15m"
+				},
+				{
+					"type": "activity",
+					"title": "Angry Birds - From Concept to Release",
+					"link": "https://youtu.be/NIF7pCZjp0E",
+					"time": "10m"
+				},
+				{
+					"type": "lesson",
+					"title": "Angry Birds 0-2",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/5-angry-birds/",
+					"time": "1h30m"
+				}
+			],
+			"homework": [
+				{
+					"type": "lesson",
+					"title": "Angry Birds Async Lesson (1.5%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/h5pactivity/view.php?id=60690",
+					"time": "2h30m"
+				},
+				{
+					"type": "lesson",
+					"title": "Angry Birds Forum (1.5%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/forum/view.php?id=60691",
+					"time": "30m"
+				},
+				{
+					"type": "assignment",
+					"title": "A5 - Angry Birds",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60660",
+					"time": "1h"
+				}
+			]
 		}
 	]
 }

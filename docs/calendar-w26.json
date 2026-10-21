@@ -742,6 +742,43 @@
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71160"
 				}
 			]
+		},
+		{
+			"week": "W10 - MAR 30",
+			"startDate": "2026-03-30",
+			"class1": [
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1772991954872-35x7xe5m5",
+					"chosen": false,
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71160"
+				}
+			],
+			"class2": [
+				{
+					"type": "cancelled",
+					"title": "Good Friday",
+					"id": "activity-1770156622833-w667tegxs",
+					"chosen": false,
+					"selected": false
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "3h",
+					"due": "",
+					"id": "activity-1775251193891-lwe8tkdhl",
+					"chosen": false,
+					"selected": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71160"
+				}
+			]
 		}
 	]
 }
