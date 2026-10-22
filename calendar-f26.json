@@ -677,13 +677,13 @@
 					"id": "activity-1787588359475-wk399am3a"
 				},
 				{
+					"id": "activity-1792628252160-iz2mnr3wo",
 					"type": "lesson",
-					"title": "Zelda",
-					"link": "https://game.singh.gg/docs/tutorials/4-zelda/",
-					"time": "2h",
+					"title": "Zelda Tutorial (2%)",
 					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-8or9gzkzi"
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=79904",
+					"time": "2h",
+					"selected": false
 				}
 			],
 			"homework": [
@@ -691,10 +691,19 @@
 					"type": "assignment",
 					"title": "A4 - Zelda",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
-					"time": "4h",
+					"time": "2h",
 					"chosen": false,
 					"selected": false,
 					"id": "activity-1787588359475-r5ijf5rrr"
+				},
+				{
+					"id": "activity-1792628272957-2ygzmcixz",
+					"type": "lesson",
+					"title": "Zelda Tutorial (2%)",
+					"chosen": false,
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=79904",
+					"time": "2h",
+					"selected": false
 				}
 			]
 		},
