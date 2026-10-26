@@ -7,9 +7,7 @@ import type { CalendarData } from '@/types';
 import { Legend } from './Legend';
 import { WeekRow } from './WeekRow';
 import { fetchCalendar } from '@/utils';
-
-// Current term code - update this to switch semesters
-const CURRENT_TERM = 'f26';
+import { CURRENT_TERM } from '@/config';
 
 export const Calendar: React.FC = () => {
 	const [calendarData, setCalendarData] = useState<CalendarData | null>(null);

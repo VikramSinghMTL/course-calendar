@@ -15,6 +15,10 @@ concurrency:
     group: 'pages'
     cancel-in-progress: false
 
+# Weeks students can see. Update this range when you are ready to publish more.
+env:
+    PUBLISHED_WEEKS: 0-10
+
 jobs:
     build:
         runs-on: ubuntu-latest
@@ -30,10 +34,11 @@ jobs:
             - name: Install dependencies
               run: bun install
 
-            # Keep the Pages artifact aligned with the currently published range.
-            # Update this range when you are ready to publish more weeks.
+            - name: Check calendar
+              run: bun run check -- --weeks "$PUBLISHED_WEEKS"
+
             - name: Build
-              run: bun run build -- --weeks 0-10
+              run: bun run build -- --weeks "$PUBLISHED_WEEKS"
 
             - name: Commit and push build artifacts
               run: |

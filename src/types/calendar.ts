@@ -1,15 +1,18 @@
 /**
  * Activity types that determine styling and behavior
  */
-export type ActivityType =
-	| 'lesson'
-	| 'quiz'
-	| 'assignment'
-	| 'project'
-	| 'exercise'
-	| 'activity'
-	| 'note'
-	| 'cancelled';
+export const ACTIVITY_TYPES = [
+	'lesson',
+	'quiz',
+	'assignment',
+	'project',
+	'exercise',
+	'activity',
+	'note',
+	'cancelled',
+] as const;
+
+export type ActivityType = (typeof ACTIVITY_TYPES)[number];
 
 /**
  * Individual calendar activity/item

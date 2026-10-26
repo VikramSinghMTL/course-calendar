@@ -8,6 +8,7 @@
 		"dev": "bun server.js",
 		"start": "bun server.js",
 		"build": "bun run build-static.tsx",
+		"check": "bun run check-calendar.ts",
 		"predeploy": "bun run build",
 		"deploy": "gh-pages -d docs"
 	},
