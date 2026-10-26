@@ -51,7 +51,7 @@
 					"type": "lesson",
 					"title": "Pong 2-4",
 					"link": "https://game.singh.gg/docs/guides/0-pong/",
-					"time": "2h30m"
+					"time": "3h"
 				}
 			],
 			"homework": [
@@ -71,7 +71,7 @@
 					"type": "lesson",
 					"title": "Review Pong Notes",
 					"link": "https://game.singh.gg/docs/guides/0-pong/",
-					"time": "1h"
+					"time": "3h40m"
 				}
 			]
 		},
@@ -82,6 +82,12 @@
 				{
 					"type": "cancelled",
 					"title": "Cancelled"
+				},
+				{
+					"type": "assignment",
+					"title": "A0 - Pong",
+					"link": "https://classroom50.org/JAC-CS-Game-Programming-F26/game-programming/assignments/0-pong/accept",
+					"time": "3h"
 				}
 			],
 			"class2": [
@@ -109,8 +115,7 @@
 					"type": "assignment",
 					"title": "A0 - Pong",
 					"link": "https://classroom50.org/JAC-CS-Game-Programming-F26/game-programming/assignments/0-pong/accept",
-					"time": "4h",
-					"due": "2026-09-07"
+					"time": "4h"
 				}
 			]
 		},
@@ -138,8 +143,7 @@
 					"type": "exercise",
 					"title": "E1.1 - Sprites",
 					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=76747",
-					"time": "1h25m",
-					"due": "2026-09-12"
+					"time": "1h25m"
 				}
 			],
 			"class2": [
@@ -180,6 +184,18 @@
 					"title": "A1 - Breakout",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76690",
 					"time": "3h"
+				},
+				{
+					"type": "assignment",
+					"title": "A0 - Pong",
+					"link": "https://classroom50.org/JAC-CS-Game-Programming-F26/game-programming/assignments/0-pong/accept",
+					"due": "2026-09-07"
+				},
+				{
+					"type": "exercise",
+					"title": "E1.1 - Sprites",
+					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=76747",
+					"due": "2026-09-12"
 				}
 			]
 		},
@@ -207,8 +223,7 @@
 					"type": "assignment",
 					"title": "A1 - Breakout",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76690",
-					"time": "4h",
-					"due": "2026-09-21"
+					"time": "4h"
 				}
 			]
 		},
@@ -288,7 +303,13 @@
 					"type": "assignment",
 					"title": "A2 - Match 3",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76691",
-					"time": "2h"
+					"time": "3h"
+				},
+				{
+					"type": "assignment",
+					"title": "A1 - Breakout",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76690",
+					"due": "2026-09-21"
 				}
 			]
 		},
@@ -316,15 +337,13 @@
 					"type": "activity",
 					"title": "A1 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76690",
-					"time": "1h",
-					"due": "2026-10-05"
+					"time": "1h"
 				},
 				{
 					"type": "assignment",
 					"title": "A2 - Match 3",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76691",
-					"time": "4h",
-					"due": "2026-10-05"
+					"time": "3h"
 				}
 			]
 		},
@@ -380,7 +399,7 @@
 					"type": "lesson",
 					"title": "Mario 2-5",
 					"link": "https://game.singh.gg/docs/tutorials/3-mario/",
-					"time": "1h"
+					"time": "30m"
 				},
 				{
 					"type": "activity",
@@ -405,7 +424,19 @@
 					"type": "assignment",
 					"title": "A3 - Mario",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
-					"time": "3h"
+					"time": "4h"
+				},
+				{
+					"type": "activity",
+					"title": "A1 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76690",
+					"due": "2026-10-05"
+				},
+				{
+					"type": "assignment",
+					"title": "A2 - Match 3",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76691",
+					"due": "2026-10-05"
 				}
 			]
 		},
@@ -455,8 +486,7 @@
 					"type": "assignment",
 					"title": "A3 - Mario",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
-					"time": "3h",
-					"due": "2026-10-21"
+					"time": "3h"
 				}
 			],
 			"class2": [
@@ -497,6 +527,12 @@
 					"title": "Zelda Tutorial (2%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=79904",
 					"time": "2h"
+				},
+				{
+					"type": "assignment",
+					"title": "A3 - Mario",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
+					"due": "2026-10-21"
 				}
 			]
 		},
@@ -524,22 +560,19 @@
 					"type": "activity",
 					"title": "A3 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
-					"time": "1h",
-					"due": "2026-11-04"
+					"time": "1h"
 				},
 				{
 					"type": "assignment",
 					"title": "A4 - Zelda",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
-					"time": "2h50m",
-					"due": "2026-11-04"
+					"time": "2h50m"
 				},
 				{
 					"type": "assignment",
 					"title": "Course Feedback Survey (0.5%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=76681",
-					"time": "10m",
-					"due": "2026-11-04"
+					"time": "10m"
 				}
 			]
 		},
@@ -555,9 +588,16 @@
 					"type": "assignment",
 					"title": "A4 - Zelda",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
-					"time": "3h",
-					"due": "2026-11-04"
+					"time": "2h50m"
 				},
+				{
+					"type": "activity",
+					"title": "Angry Birds - From Concept to Release",
+					"link": "https://youtu.be/NIF7pCZjp0E",
+					"time": "10m"
+				}
+			],
+			"class2": [
 				{
 					"type": "quiz",
 					"title": "Q4 - Zelda (Individual)",
@@ -571,18 +611,10 @@
 					"time": "15m"
 				},
 				{
-					"type": "activity",
-					"title": "Angry Birds - From Concept to Release",
-					"link": "https://youtu.be/NIF7pCZjp0E",
-					"time": "10m"
-				}
-			],
-			"class2": [
-				{
 					"type": "lesson",
 					"title": "Angry Birds Tutorial (2%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80009",
-					"time": "2h"
+					"time": "2h30m"
 				}
 			],
 			"homework": [
@@ -590,13 +622,31 @@
 					"type": "assignment",
 					"title": "A5 - Angry Birds",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
-					"time": "1h"
+					"time": "2h"
 				},
 				{
 					"type": "lesson",
 					"title": "Angry Birds Tutorial (2%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80009",
 					"time": "2h"
+				},
+				{
+					"type": "activity",
+					"title": "A3 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
+					"due": "2026-11-04"
+				},
+				{
+					"type": "assignment",
+					"title": "A4 - Zelda",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
+					"due": "2026-11-04"
+				},
+				{
+					"type": "assignment",
+					"title": "Course Feedback Survey (0.5%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=76681",
+					"due": "2026-11-04"
 				}
 			]
 		},
@@ -660,7 +710,7 @@
 					"type": "lesson",
 					"title": "Pokemon",
 					"link": "https://game.singh.gg/docs/guides/6-pokemon/",
-					"time": "1h30m"
+					"time": "2h20m"
 				}
 			],
 			"class2": [
@@ -668,7 +718,7 @@
 					"type": "lesson",
 					"title": "Pokemon Tutorial (2%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80010",
-					"time": "2h"
+					"time": "3h"
 				}
 			],
 			"homework": [
@@ -676,7 +726,7 @@
 					"type": "assignment",
 					"title": "A6 - Pokemon",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
-					"time": "3h"
+					"time": "2h"
 				},
 				{
 					"type": "lesson",
@@ -761,7 +811,7 @@
 					"type": "project",
 					"title": "Proposal",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76678",
-					"time": "1h"
+					"time": "4h"
 				}
 			]
 		},
@@ -800,7 +850,7 @@
 					"type": "project",
 					"title": "Implementation",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
-					"time": "4h"
+					"time": "3h"
 				}
 			]
 		},
@@ -825,6 +875,12 @@
 					"type": "cancelled",
 					"title": "Classes are over - Message me with project questions!",
 					"note": "An asynchronous class where you complete activities on your own time."
+				},
+				{
+					"type": "project",
+					"title": "Implementation",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
+					"time": "3h"
 				}
 			],
 			"homework": [
