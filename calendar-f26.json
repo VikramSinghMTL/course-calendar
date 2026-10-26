@@ -524,19 +524,22 @@
 					"type": "activity",
 					"title": "A3 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
-					"time": "1h"
+					"time": "1h",
+					"due": "2026-11-04"
 				},
 				{
 					"type": "assignment",
 					"title": "A4 - Zelda",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
-					"time": "2h50m"
+					"time": "2h50m",
+					"due": "2026-11-04"
 				},
 				{
 					"type": "assignment",
 					"title": "Course Feedback Survey (0.5%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=76681",
-					"time": "10m"
+					"time": "10m",
+					"due": "2026-11-04"
 				}
 			]
 		},
@@ -544,6 +547,17 @@
 			"week": "W10 - NOV 02",
 			"startDate": "2026-11-02",
 			"class1": [
+				{
+					"type": "cancelled",
+					"title": "Async, use this time to finish A4! Message me on TEAMS with questions."
+				},
+				{
+					"type": "assignment",
+					"title": "A4 - Zelda",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
+					"time": "3h",
+					"due": "2026-11-04"
+				},
 				{
 					"type": "quiz",
 					"title": "Q4 - Zelda (Individual)",
@@ -561,12 +575,6 @@
 					"title": "Angry Birds - From Concept to Release",
 					"link": "https://youtu.be/NIF7pCZjp0E",
 					"time": "10m"
-				},
-				{
-					"type": "lesson",
-					"title": "Angry Birds 0-2",
-					"link": "https://game.singh.gg/docs/guides/5-angry-birds/",
-					"time": "1h30m"
 				}
 			],
 			"class2": [
@@ -667,7 +675,7 @@
 				{
 					"type": "assignment",
 					"title": "A6 - Pokemon",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60661",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
 					"time": "3h"
 				},
 				{
@@ -685,7 +693,7 @@
 				{
 					"type": "assignment",
 					"title": "A6 - Pokemon",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60661",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
 					"time": "3h"
 				}
 			],
@@ -693,7 +701,7 @@
 				{
 					"type": "assignment",
 					"title": "A6 - Pokemon",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60661",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
 					"time": "3h"
 				}
 			],
@@ -707,7 +715,7 @@
 				{
 					"type": "assignment",
 					"title": "A6 - Pokemon",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60661",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
 					"time": "3h"
 				}
 			]
@@ -785,7 +793,7 @@
 				{
 					"type": "activity",
 					"title": "A6 Workshop",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60661",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
 					"time": "1h"
 				},
 				{
