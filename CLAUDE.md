@@ -59,8 +59,17 @@ Each activity is `{ type, title, link?, time?, due? }`. Do not add `id`,
   `A3 Workshop` (type `activity`).
 - Graded work that isn't a numbered assignment gets its weight in the title,
   for example `Zelda Tutorial (2%)`.
-- Assignments and workshops usually go in `homework` with a `due` date. Quizzes
-  go in the class where they are written.
+- Class 1 is Tuesday (both sections). Class 2 is Thursday for section 1 and
+  Friday for section 2.
+- Every week totals **10h**: Class 1 3h + Class 2 3h + homework 4h. An async
+  class is still filled to 3h with the work students should do. When an
+  activity changes, adjust the column's main assignment or project item to
+  keep the totals.
+- A `due` date goes on an entry **on the day it's due**: Tuesday → Class 1,
+  Thursday/Friday → Class 2, any other day → that week's homework. Earlier
+  entries for the same work stay without `due`, as planned work time. If the
+  due day has no work left to do, the deadline entry has no `time`.
+- Quizzes go in the class where they are written.
 - Links are mostly Moodle (`moodle.johnabbott.qc.ca/mod/...?id=N`) or the course
   site (`game.singh.gg/docs/...`). Moodle IDs change every term: an ID that
   matches the previous term's file is probably stale. Don't guess a link; leave

@@ -16,6 +16,15 @@ const MONTHS = [
 	'JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN',
 	'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC',
 ];
+const WEEK_HOURS = 10;
+const DAY_MS = 24 * 60 * 60 * 1000;
+// Class 1 is Tuesday; class 2 is Thursday (section 1) or Friday (section 2).
+// A deadline on any other day belongs in that week's homework.
+const DUE_COLUMN_BY_WEEKDAY: Record<number, string> = {
+	2: 'class1',
+	4: 'class2',
+	5: 'class2',
+};
 
 const file = `calendar-${CURRENT_TERM}.json`;
 const weekRange = parseWeekRange(Bun.argv.slice(2));
@@ -51,7 +60,16 @@ for (const other of readdirSync('.')) {
 	}
 }
 
-function checkActivity(activity: any, weekStart: Date | undefined): string[] {
+function minutes(time: string): number {
+	const match = time.match(/^(?:(\d+)h)?(?:(\d+)m)?$/);
+	return Number(match?.[1] ?? 0) * 60 + Number(match?.[2] ?? 0);
+}
+
+function checkActivity(
+	activity: any,
+	column: string,
+	weekStart: Date | undefined
+): string[] {
 	const problems: string[] = [];
 
 	for (const key of Object.keys(activity)) {
@@ -81,8 +99,15 @@ function checkActivity(activity: any, weekStart: Date | undefined): string[] {
 		const due = parseIsoDate(activity.due);
 		if (!due) {
 			problems.push(`due "${activity.due}" is not a YYYY-MM-DD date`);
-		} else if (weekStart && due < weekStart) {
-			problems.push(`due ${activity.due} is before this week starts`);
+		} else if (weekStart) {
+			const offset = (due.getTime() - weekStart.getTime()) / DAY_MS;
+			const expected =
+				DUE_COLUMN_BY_WEEKDAY[due.getUTCDay()] ?? 'homework';
+			if (offset < 0 || offset > 6) {
+				problems.push(`due ${activity.due} is not in this week`);
+			} else if (column !== expected) {
+				problems.push(`due ${activity.due} belongs in ${expected}`);
+			}
 		}
 	}
 
@@ -131,6 +156,7 @@ for (const week of calendar.weeks ?? []) {
 		}
 	}
 
+	let weekMinutes = 0;
 	for (const column of COLUMNS) {
 		if (!Array.isArray(week[column])) {
 			report(`${column} is not a list`);
@@ -138,10 +164,19 @@ for (const week of calendar.weeks ?? []) {
 		}
 		for (const activity of week[column]) {
 			const title = activity?.title ?? activity?.type ?? '(empty)';
-			for (const problem of checkActivity(activity ?? {}, start)) {
+			const problems = checkActivity(activity ?? {}, column, start);
+			for (const problem of problems) {
 				report(`${column} "${title}": ${problem}`);
 			}
+			if (typeof activity?.time === 'string') {
+				weekMinutes += minutes(activity.time);
+			}
 		}
+	}
+	if (weekMinutes !== WEEK_HOURS * 60) {
+		const h = Math.floor(weekMinutes / 60);
+		const m = weekMinutes % 60;
+		report(`times add up to ${h}h${m ? `${m}m` : ''}, not ${WEEK_HOURS}h`);
 	}
 }
 
