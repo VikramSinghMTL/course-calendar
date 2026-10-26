@@ -572,34 +572,34 @@
 			"class2": [
 				{
 					"type": "lesson",
-					"title": "Angry Birds Async Lesson (1.5%)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/h5pactivity/view.php?id=60690",
-					"time": "2h30m"
-				},
-				{
-					"type": "lesson",
-					"title": "Angry Birds Forum (1.5%)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/forum/view.php?id=60691",
-					"time": "30m"
+					"title": "Angry Birds Tutorial (2%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80009",
+					"time": "2h"
 				}
 			],
 			"homework": [
 				{
 					"type": "assignment",
 					"title": "A5 - Angry Birds",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60660",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
 					"time": "1h"
+				},
+				{
+					"type": "lesson",
+					"title": "Angry Birds Tutorial (2%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80009",
+					"time": "2h"
 				}
 			]
 		},
 		{
-			"week": "W11 - NOV 11",
-			"startDate": "2026-11-11",
+			"week": "W11 - NOV 09",
+			"startDate": "2026-11-09",
 			"class1": [
 				{
 					"type": "assignment",
 					"title": "A5 - Angry Birds",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60660",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
 					"time": "3h"
 				}
 			],
@@ -607,7 +607,7 @@
 				{
 					"type": "assignment",
 					"title": "A5 - Angry Birds",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60660",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
 					"time": "3h"
 				}
 			],
@@ -615,13 +615,13 @@
 				{
 					"type": "activity",
 					"title": "A4 Workshop",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60659",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
 					"time": "1h"
 				},
 				{
 					"type": "assignment",
 					"title": "A5 - Angry Birds",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60660",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
 					"time": "3h"
 				}
 			]
@@ -658,15 +658,9 @@
 			"class2": [
 				{
 					"type": "lesson",
-					"title": "Pokemon Async Lesson (1.5%)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/h5pactivity/view.php?id=60684",
-					"time": "2h30m"
-				},
-				{
-					"type": "lesson",
-					"title": "Pokemon Forum (1.5%)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/forum/view.php?id=60685",
-					"time": "30m"
+					"title": "Pokemon Tutorial (2%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80010",
+					"time": "2h"
 				}
 			],
 			"homework": [
@@ -675,6 +669,12 @@
 					"title": "A6 - Pokemon",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60661",
 					"time": "3h"
+				},
+				{
+					"type": "lesson",
+					"title": "Pokemon Tutorial (2%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80010",
+					"time": "2h"
 				}
 			]
 		},
@@ -701,7 +701,7 @@
 				{
 					"type": "activity",
 					"title": "A5 Workshop",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60660",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
 					"time": "1h"
 				},
 				{
@@ -724,7 +724,7 @@
 				{
 					"type": "project",
 					"title": "Proposal",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76678",
 					"time": "3h"
 				}
 			],
@@ -744,7 +744,7 @@
 				{
 					"type": "project",
 					"title": "Proposal",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76678",
 					"time": "2h30m"
 				}
 			],
@@ -752,7 +752,7 @@
 				{
 					"type": "project",
 					"title": "Proposal",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76678",
 					"time": "1h"
 				}
 			]
@@ -764,7 +764,7 @@
 				{
 					"type": "project",
 					"title": "Implementation",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "3h"
 				}
 			],
@@ -777,7 +777,7 @@
 				{
 					"type": "project",
 					"title": "Implementation",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "3h"
 				}
 			],
@@ -791,7 +791,7 @@
 				{
 					"type": "project",
 					"title": "Implementation",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "4h"
 				}
 			]
@@ -808,7 +808,7 @@
 				{
 					"type": "project",
 					"title": "Implementation",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "3h"
 				}
 			],
@@ -823,14 +823,13 @@
 				{
 					"type": "project",
 					"title": "Implementation",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "4h"
 				},
 				{
 					"type": "project",
 					"title": "Book Demo Slot",
-					"due": "DEC 12 @ NOON",
-					"link": "https://moodle.johnabbott.qc.ca/mod/scheduler/view.php?id=60644"
+					"link": "https://moodle.johnabbott.qc.ca/mod/scheduler/view.php?id=76679"
 				}
 			]
 		}
