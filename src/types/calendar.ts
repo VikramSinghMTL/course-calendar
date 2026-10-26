@@ -14,7 +14,6 @@ export type ActivityType =
  * Individual calendar activity/item
  */
 export interface Activity {
-	id: string | number; // Unique identifier for drag-and-drop (required by ReactSortable)
 	type: ActivityType;
 	title: string;
 	link?: string;
@@ -39,8 +38,3 @@ export interface Week {
 export interface CalendarData {
 	weeks: Week[];
 }
-
-/**
- * Column type for activity lists
- */
-export type ColumnType = 'class1' | 'class2' | 'homework';

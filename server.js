@@ -1,5 +1,3 @@
-import fs from 'fs';
-
 const DEFAULT_PORT = 3000;
 const requestedPort = Number(Bun.env.PORT) || DEFAULT_PORT;
 
@@ -8,75 +6,6 @@ const serverOptions = {
 	async fetch(req) {
 		const url = new URL(req.url);
 		const { pathname } = url;
-
-		// CORS headers
-		const corsHeaders = {
-			'Access-Control-Allow-Origin': '*',
-			'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
-			'Access-Control-Allow-Headers': 'Content-Type',
-		};
-
-		// Handle preflight requests
-		if (req.method === 'OPTIONS') {
-			return new Response(null, { headers: corsHeaders });
-		}
-
-		// API: Get calendar data
-		if (pathname.startsWith('/api/calendar/') && req.method === 'GET') {
-			const term = pathname.split('/api/calendar/')[1];
-			const filename = `./calendar-${term}.json`;
-
-			try {
-				// Use fs.readFileSync to avoid Bun's file caching
-				const data = JSON.parse(fs.readFileSync(filename, 'utf8'));
-				console.log(
-					`📖 Loaded calendar-${term}.json (${data.weeks?.length || 0} weeks)`
-				);
-
-				return Response.json(data, { headers: corsHeaders });
-			} catch (error) {
-				return Response.json(
-					{ error: 'Calendar not found' },
-					{ status: 404, headers: corsHeaders }
-				);
-			}
-		}
-
-		// API: Save calendar data
-		if (pathname.startsWith('/api/calendar/') && req.method === 'POST') {
-			const term = pathname.split('/api/calendar/')[1];
-			const filename = `./calendar-${term}.json`;
-
-			try {
-				const body = await req.json();
-				console.log(
-					`💾 Saving calendar-${term}.json (${body.weeks?.length || 0} weeks)`
-				);
-
-				// Use fs.writeFileSync for immediate write without caching
-				fs.writeFileSync(filename, JSON.stringify(body, null, '\t'));
-				console.log(`✓ Saved calendar-${term}.json to disk`);
-				return Response.json(
-					{ success: true, timestamp: new Date().toISOString() },
-					{ headers: corsHeaders }
-				);
-			} catch (error) {
-				console.error('Save failed:', error);
-				return Response.json(
-					{ error: 'Failed to save calendar' },
-					{ status: 500, headers: corsHeaders }
-				);
-			}
-		}
-
-		// API: List available terms
-		if (pathname === '/api/terms' && req.method === 'GET') {
-			const files = fs
-				.readdirSync('.')
-				.filter((f) => f.startsWith('calendar-') && f.endsWith('.json'))
-				.map((f) => f.replace('calendar-', '').replace('.json', ''));
-			return Response.json(files, { headers: corsHeaders });
-		}
 
 		// Serve static files
 		const filePath = pathname === '/' ? './viewer.html' : `.${pathname}`;
@@ -135,11 +64,6 @@ const serverOptions = {
 			return new Response(file);
 		}
 
-		// Fallback to viewer.html for client-side routing
-		if (!pathname.startsWith('/api')) {
-			return new Response(Bun.file('./viewer.html'));
-		}
-
 		return new Response('Not Found', { status: 404 });
 	},
 };
@@ -163,7 +87,4 @@ if (!server) {
 	throw new Error(`No available port found starting at ${requestedPort}`);
 }
 
-console.log(`\n📅 Course Calendar Editor`);
-console.log(`   Viewer: http://localhost:${port}/viewer`);
-console.log(`   Editor: http://localhost:${port}/editor`);
-console.log(`\n   Auto-save enabled ✓\n`);
+console.log(`\n📅 Course Calendar: http://localhost:${port}/\n`);

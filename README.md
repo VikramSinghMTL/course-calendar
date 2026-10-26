@@ -16,7 +16,9 @@ Run the local development server:
 bun run dev
 ```
 
-This starts the editor interface at `http://localhost:3000`
+This serves the calendar viewer at `http://localhost:3000`. To change the
+calendar, edit the `calendar-*.json` files directly; reload the page to see
+changes.
 
 ## Building for Production
 

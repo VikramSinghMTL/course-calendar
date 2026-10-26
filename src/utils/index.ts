@@ -9,8 +9,4 @@ export {
 	normalizeActivities,
 } from './dateUtils';
 
-export {
-	fetchCalendar,
-	fetchTerms,
-	saveCalendar,
-} from './api';
+export { fetchCalendar } from './api';

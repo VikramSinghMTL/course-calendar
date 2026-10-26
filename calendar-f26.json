@@ -8,63 +8,42 @@
 					"type": "activity",
 					"title": "Course outline",
 					"link": "https://moodle.johnabbott.qc.ca/mod/resource/view.php?id=76673",
-					"time": "20m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-qt4i75eu0"
+					"time": "20m"
 				},
 				{
 					"type": "activity",
 					"title": "The History of Pong",
 					"link": "https://youtu.be/ShyRGWRcagY",
-					"time": "10m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-y15l4xlzn"
+					"time": "10m"
 				},
 				{
 					"type": "lesson",
 					"title": "Coordinate System",
 					"link": "https://game.singh.gg/docs/concepts/coordinate-system/",
-					"time": "10m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-jn4ysb1ww"
+					"time": "10m"
 				},
 				{
 					"type": "lesson",
 					"title": "Delta Time",
 					"link": "https://game.singh.gg/docs/concepts/delta-time/",
-					"time": "10m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-2ghjidnxc"
+					"time": "10m"
 				},
 				{
 					"type": "lesson",
 					"title": "Game Loop",
 					"link": "https://game.singh.gg/docs/concepts/game-loop/",
-					"time": "10m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-stx10cdhy"
+					"time": "10m"
 				},
 				{
-					"id": "activity-1787615991781-e9qc93ovd",
 					"type": "activity",
 					"title": "Pong Starter",
-					"chosen": false,
-					"link": "https://moodle.johnabbott.qc.ca/mod/resource/view.php?id=78010",
-					"selected": false
+					"link": "https://moodle.johnabbott.qc.ca/mod/resource/view.php?id=78010"
 				},
 				{
 					"type": "lesson",
 					"title": "Pong 0-1",
 					"link": "https://game.singh.gg/docs/guides/0-pong/",
-					"time": "2h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-ka18e2m8b"
+					"time": "2h"
 				}
 			],
 			"class2": [
@@ -72,10 +51,7 @@
 					"type": "lesson",
 					"title": "Pong 2-4",
 					"link": "https://game.singh.gg/docs/guides/0-pong/",
-					"time": "2h30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1788385498753-57n6x2duy"
+					"time": "2h30m"
 				}
 			],
 			"homework": [
@@ -83,28 +59,19 @@
 					"type": "activity",
 					"title": "Intro Survey",
 					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=76674",
-					"time": "15m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-b11reac6q"
+					"time": "15m"
 				},
 				{
 					"type": "activity",
 					"title": "Upload profile pic to Teams & Moodle",
 					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=76674",
-					"time": "5m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787792771548-lxkdnn5ob"
+					"time": "5m"
 				},
 				{
 					"type": "lesson",
 					"title": "Review Pong Notes",
 					"link": "https://game.singh.gg/docs/guides/0-pong/",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-lckms9ixr"
+					"time": "1h"
 				}
 			]
 		},
@@ -113,11 +80,8 @@
 			"startDate": "2026-08-31",
 			"class1": [
 				{
-					"id": "activity-1788385441042-f4rsz39kq",
 					"type": "cancelled",
-					"title": "Cancelled",
-					"chosen": false,
-					"selected": false
+					"title": "Cancelled"
 				}
 			],
 			"class2": [
@@ -125,28 +89,19 @@
 					"type": "lesson",
 					"title": "Collision Detection",
 					"link": "https://game.singh.gg/docs/concepts/collision-detection/",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-ho3l3rhhj"
+					"time": "1h"
 				},
 				{
 					"type": "lesson",
 					"title": "Pong 5-8",
 					"link": "https://game.singh.gg/docs/guides/0-pong/",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-k8rqnpljg"
+					"time": "1h"
 				},
 				{
 					"type": "assignment",
 					"title": "A0 - Pong",
 					"link": "https://classroom50.org/JAC-CS-Game-Programming-F26/game-programming/assignments/0-pong/accept",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787788564226-l0i8snrj0"
+					"time": "1h"
 				}
 			],
 			"homework": [
@@ -155,10 +110,7 @@
 					"title": "A0 - Pong",
 					"link": "https://classroom50.org/JAC-CS-Game-Programming-F26/game-programming/assignments/0-pong/accept",
 					"time": "4h",
-					"due": "2026-09-07",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787788560124-wimkh3sbx"
+					"due": "2026-09-07"
 				}
 			]
 		},
@@ -167,38 +119,26 @@
 			"startDate": "2026-09-07",
 			"class1": [
 				{
-					"id": "activity-1789918906131-lue9vlyuq",
 					"type": "cancelled",
-					"title": "Async",
-					"chosen": false,
-					"selected": false
+					"title": "Async"
 				},
 				{
 					"type": "activity",
 					"title": "The History of Breakout",
 					"link": "https://youtu.be/bC_KPLe5dYg",
-					"time": "10m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-164nkxy22"
+					"time": "10m"
 				},
 				{
 					"type": "lesson",
 					"title": "Breakout 0-2",
 					"link": "https://game.singh.gg/docs/tutorials/1-breakout/",
-					"time": "1h25m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-auv1hafgq"
+					"time": "1h25m"
 				},
 				{
 					"type": "exercise",
 					"title": "E1.1 - Sprites",
 					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=76747",
 					"time": "1h25m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-bwpb3kh3k",
 					"due": "2026-09-12"
 				}
 			],
@@ -207,37 +147,25 @@
 					"type": "quiz",
 					"title": "Q0 - Pong (Individual)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76699",
-					"time": "15m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-nepui8haa"
+					"time": "15m"
 				},
 				{
 					"type": "quiz",
 					"title": "Q0 - Pong (Group)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76700",
-					"time": "15m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-o5nnvzyrc"
+					"time": "15m"
 				},
 				{
 					"type": "lesson",
 					"title": "Breakout 3-5",
 					"link": "https://game.singh.gg/docs/tutorials/1-breakout/",
-					"time": "1h30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-x3lw308hh"
+					"time": "1h30m"
 				},
 				{
 					"type": "activity",
 					"title": "Particle Systems",
 					"link": "https://moodle.johnabbott.qc.ca/mod/resource/view.php?id=76687",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-tfhpi56t4"
+					"time": "1h"
 				}
 			],
 			"homework": [
@@ -245,19 +173,13 @@
 					"type": "lesson",
 					"title": "Breakout 6-8",
 					"link": "https://game.singh.gg/docs/tutorials/1-breakout/",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-djk6fco5r"
+					"time": "1h"
 				},
 				{
 					"type": "assignment",
 					"title": "A1 - Breakout",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76690",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-qgnc21bn3"
+					"time": "3h"
 				}
 			]
 		},
@@ -269,10 +191,7 @@
 					"type": "assignment",
 					"title": "A1 - Breakout",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76690",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-yl10q779z"
+					"time": "3h"
 				}
 			],
 			"class2": [
@@ -280,10 +199,7 @@
 					"type": "assignment",
 					"title": "A1 - Breakout",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76690",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-ye42nol9r"
+					"time": "3h"
 				}
 			],
 			"homework": [
@@ -292,9 +208,6 @@
 					"title": "A1 - Breakout",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76690",
 					"time": "4h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-nwo5geld4",
 					"due": "2026-09-21"
 				}
 			]
@@ -307,64 +220,43 @@
 					"type": "quiz",
 					"title": "Q1 - Breakout (Individual)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76701",
-					"time": "15m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-thx2dlptj"
+					"time": "15m"
 				},
 				{
 					"type": "quiz",
 					"title": "Q1 - Breakout (Group)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76702",
-					"time": "15m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-gqg9apcab"
+					"time": "15m"
 				},
 				{
 					"type": "activity",
 					"title": "Candy Crush's Success",
 					"link": "https://youtu.be/Sz4WXVNq7v8",
-					"time": "10m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-xsa7uo2bg"
+					"time": "10m"
 				},
 				{
 					"type": "lesson",
 					"title": "Match 3 0-1",
 					"link": "https://game.singh.gg/docs/tutorials/2-match-3/",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-l1nz2r8cn"
+					"time": "1h"
 				},
 				{
 					"type": "exercise",
 					"title": "E2.1 - Timers",
 					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=76742",
-					"time": "30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-3a9ud2kgv"
+					"time": "30m"
 				},
 				{
 					"type": "lesson",
 					"title": "Tweening",
 					"link": "https://game.singh.gg/docs/concepts/tweening/",
-					"time": "20m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-k3uzx644x"
+					"time": "20m"
 				},
 				{
 					"type": "exercise",
 					"title": "E2.2 - Tweens",
 					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=76743",
-					"time": "30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-0yaqqdw82"
+					"time": "30m"
 				}
 			],
 			"class2": [
@@ -372,26 +264,17 @@
 					"type": "lesson",
 					"title": "Match 3 2-6",
 					"link": "https://game.singh.gg/docs/tutorials/2-match-3/",
-					"time": "2h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-3bp2kj2vg"
+					"time": "2h"
 				},
 				{
-					"id": "activity-1791246309726-mvclnurpo",
 					"type": "activity",
 					"title": "Tile Detection Codestorm",
-					"chosen": false,
-					"time": "30m",
-					"selected": false
+					"time": "30m"
 				},
 				{
-					"id": "activity-1789919897176-xefqpsxak",
 					"type": "activity",
 					"title": "Tile Removal+Replacement Codestorm",
-					"chosen": false,
-					"time": "30m",
-					"selected": false
+					"time": "30m"
 				}
 			],
 			"homework": [
@@ -399,19 +282,13 @@
 					"type": "lesson",
 					"title": "Review Match 3 Notes",
 					"link": "https://game.singh.gg/docs/tutorials/2-match-3/",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-276gbtppv"
+					"time": "1h"
 				},
 				{
 					"type": "assignment",
 					"title": "A2 - Match 3",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76691",
-					"time": "2h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-k9anc7hva"
+					"time": "2h"
 				}
 			]
 		},
@@ -423,10 +300,7 @@
 					"type": "assignment",
 					"title": "A2 - Match 3",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76691",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-g0tpottsk"
+					"time": "3h"
 				}
 			],
 			"class2": [
@@ -434,10 +308,7 @@
 					"type": "assignment",
 					"title": "A2 - Match 3",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76691",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-coylcccyl"
+					"time": "3h"
 				}
 			],
 			"homework": [
@@ -446,9 +317,6 @@
 					"title": "A1 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76690",
 					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-6ikxmr296",
 					"due": "2026-10-05"
 				},
 				{
@@ -456,9 +324,6 @@
 					"title": "A2 - Match 3",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76691",
 					"time": "4h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-iiqtdjrtt",
 					"due": "2026-10-05"
 				}
 			]
@@ -471,64 +336,43 @@
 					"type": "quiz",
 					"title": "Q2 - Match 3 (Individual)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76703",
-					"time": "15m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-4jbfq6n56"
+					"time": "15m"
 				},
 				{
 					"type": "quiz",
 					"title": "Q2 - Match 3 (Group)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76704",
-					"time": "15m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-h0auxdrxt"
+					"time": "15m"
 				},
 				{
 					"type": "activity",
 					"title": "How Super Mario Mastered Level Design",
 					"link": "https://youtu.be/ZH2wGpEZVgE",
-					"time": "5m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-brmjlddbu"
+					"time": "5m"
 				},
 				{
 					"type": "activity",
 					"title": "Platformer Toolkit",
 					"link": "https://gmtk.itch.io/platformer-toolkit",
-					"time": "5m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-eo9uu8h3w"
+					"time": "5m"
 				},
 				{
 					"type": "exercise",
 					"title": "E3.1 - Animations",
 					"link": "https://moodle.johnabbott.qc.ca/mod/lesson/view.php?id=76736",
-					"time": "30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-r076xrxu9"
+					"time": "30m"
 				},
 				{
 					"type": "lesson",
 					"title": "Mario 0-1",
 					"link": "https://game.singh.gg/docs/tutorials/3-mario/",
-					"time": "1h20m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-lvmvwwrqs"
+					"time": "1h20m"
 				},
 				{
 					"type": "lesson",
 					"title": "Sprite Animation",
 					"link": "https://game.singh.gg/docs/concepts/animation/",
-					"time": "30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-5jd811pwh"
+					"time": "30m"
 				}
 			],
 			"class2": [
@@ -536,36 +380,24 @@
 					"type": "lesson",
 					"title": "Mario 2-5",
 					"link": "https://game.singh.gg/docs/tutorials/3-mario/",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-iuf5fzemi"
+					"time": "1h"
 				},
 				{
-					"id": "activity-1789919863973-nqtq66jfl",
 					"type": "activity",
 					"title": "Tile Collision Codestorm",
-					"chosen": false,
-					"time": "30m",
-					"selected": false
+					"time": "30m"
 				},
 				{
 					"type": "lesson",
 					"title": "Tile Collision",
 					"link": "https://game.singh.gg/docs/concepts/tile-collision/",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-eke3vvjec"
+					"time": "1h"
 				},
 				{
 					"type": "lesson",
 					"title": "2D Physics",
 					"link": "https://game.singh.gg/docs/concepts/physics/",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-r2ooorfm0"
+					"time": "1h"
 				}
 			],
 			"homework": [
@@ -573,10 +405,7 @@
 					"type": "assignment",
 					"title": "A3 - Mario",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-ic7r4g2cf"
+					"time": "3h"
 				}
 			]
 		},
@@ -588,10 +417,7 @@
 					"type": "assignment",
 					"title": "A3 - Mario",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-tghmp5tgc"
+					"time": "3h"
 				}
 			],
 			"class2": [
@@ -599,10 +425,7 @@
 					"type": "assignment",
 					"title": "A3 - Mario",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-nen3lw018"
+					"time": "3h"
 				}
 			],
 			"homework": [
@@ -610,19 +433,13 @@
 					"type": "activity",
 					"title": "A2 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76691",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-krcqiqvo6"
+					"time": "1h"
 				},
 				{
 					"type": "assignment",
 					"title": "A3 - Mario",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-c2hj4f2z8"
+					"time": "3h"
 				}
 			]
 		},
@@ -631,20 +448,14 @@
 			"startDate": "2026-10-19",
 			"class1": [
 				{
-					"id": "activity-1792270832348-y4nl1igq1",
 					"type": "cancelled",
-					"title": "Async, message me on TEAMS with questions!",
-					"chosen": false,
-					"selected": false
+					"title": "Async, message me on TEAMS with questions!"
 				},
 				{
 					"type": "assignment",
 					"title": "A3 - Mario",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
 					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1792270857177-j8byigr34",
 					"due": "2026-10-21"
 				}
 			],
@@ -653,37 +464,25 @@
 					"type": "quiz",
 					"title": "Q3 - Mario (Individual)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76705",
-					"time": "20m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-aakmfr6su"
+					"time": "20m"
 				},
 				{
 					"type": "quiz",
 					"title": "Q3 - Mario (Group)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76706",
-					"time": "20m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-zzwtn6ara"
+					"time": "20m"
 				},
 				{
 					"type": "activity",
 					"title": "The Magic of the First Legend of Zelda",
 					"link": "https://youtu.be/KHbQ6ti5BQ0",
-					"time": "20m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-wk399am3a"
+					"time": "20m"
 				},
 				{
-					"id": "activity-1792628252160-iz2mnr3wo",
 					"type": "lesson",
 					"title": "Zelda Tutorial (2%)",
-					"chosen": false,
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=79904",
-					"time": "2h",
-					"selected": false
+					"time": "2h"
 				}
 			],
 			"homework": [
@@ -691,19 +490,13 @@
 					"type": "assignment",
 					"title": "A4 - Zelda",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
-					"time": "2h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-r5ijf5rrr"
+					"time": "2h"
 				},
 				{
-					"id": "activity-1792628272957-2ygzmcixz",
 					"type": "lesson",
 					"title": "Zelda Tutorial (2%)",
-					"chosen": false,
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=79904",
-					"time": "2h",
-					"selected": false
+					"time": "2h"
 				}
 			]
 		},
@@ -715,10 +508,7 @@
 					"type": "assignment",
 					"title": "A4 - Zelda",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-1wlzsez0p"
+					"time": "3h"
 				}
 			],
 			"class2": [
@@ -726,10 +516,7 @@
 					"type": "assignment",
 					"title": "A4 - Zelda",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-ex1rgzlzp"
+					"time": "3h"
 				}
 			],
 			"homework": [
@@ -737,28 +524,19 @@
 					"type": "activity",
 					"title": "A3 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-uulcqxdra"
+					"time": "1h"
 				},
 				{
 					"type": "assignment",
 					"title": "A4 - Zelda",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
-					"time": "2h50m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-pzfs0o4zc"
+					"time": "2h50m"
 				},
 				{
 					"type": "assignment",
 					"title": "Course Feedback Survey (0.5%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=76681",
-					"time": "10m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-xhdjcbpg6"
+					"time": "10m"
 				}
 			]
 		},
@@ -770,37 +548,25 @@
 					"type": "quiz",
 					"title": "Q4 - Zelda (Individual)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76707",
-					"time": "15m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-wscigc8kc"
+					"time": "15m"
 				},
 				{
 					"type": "quiz",
 					"title": "Q4 - Zelda (Group)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76708",
-					"time": "15m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-i28kqqdzm"
+					"time": "15m"
 				},
 				{
 					"type": "activity",
 					"title": "Angry Birds - From Concept to Release",
 					"link": "https://youtu.be/NIF7pCZjp0E",
-					"time": "10m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-2bfjxgq5h"
+					"time": "10m"
 				},
 				{
 					"type": "lesson",
 					"title": "Angry Birds 0-2",
 					"link": "https://game.singh.gg/docs/guides/5-angry-birds/",
-					"time": "1h30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-3dd7wtqry"
+					"time": "1h30m"
 				}
 			],
 			"class2": [
@@ -808,19 +574,13 @@
 					"type": "lesson",
 					"title": "Angry Birds Async Lesson (1.5%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/h5pactivity/view.php?id=60690",
-					"time": "2h30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-wf0jlv3gd"
+					"time": "2h30m"
 				},
 				{
 					"type": "lesson",
 					"title": "Angry Birds Forum (1.5%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/forum/view.php?id=60691",
-					"time": "30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-byi0ciimi"
+					"time": "30m"
 				}
 			],
 			"homework": [
@@ -828,10 +588,7 @@
 					"type": "assignment",
 					"title": "A5 - Angry Birds",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60660",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-4qg1wommc"
+					"time": "1h"
 				}
 			]
 		},
@@ -843,10 +600,7 @@
 					"type": "assignment",
 					"title": "A5 - Angry Birds",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60660",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-nkf3q5ubu"
+					"time": "3h"
 				}
 			],
 			"class2": [
@@ -854,10 +608,7 @@
 					"type": "assignment",
 					"title": "A5 - Angry Birds",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60660",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-txlyp3btt"
+					"time": "3h"
 				}
 			],
 			"homework": [
@@ -865,19 +616,13 @@
 					"type": "activity",
 					"title": "A4 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60659",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-ydqax9ong"
+					"time": "1h"
 				},
 				{
 					"type": "assignment",
 					"title": "A5 - Angry Birds",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60660",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-qw25ycw3i"
+					"time": "3h"
 				}
 			]
 		},
@@ -889,37 +634,25 @@
 					"type": "quiz",
 					"title": "Q5 - Angry Birds (Individual)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76709",
-					"time": "15m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-aru0na0m3"
+					"time": "15m"
 				},
 				{
 					"type": "quiz",
 					"title": "Q5 - Angry Birds (Group)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76710",
-					"time": "15m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-3xing64bw"
+					"time": "15m"
 				},
 				{
 					"type": "activity",
 					"title": "The History of Pokemon",
 					"link": "https://youtu.be/Offw-N3PkoA",
-					"time": "10m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-djdll5k00"
+					"time": "10m"
 				},
 				{
 					"type": "lesson",
 					"title": "Pokemon",
 					"link": "https://game.singh.gg/docs/guides/6-pokemon/",
-					"time": "1h30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-36ywi0jn2"
+					"time": "1h30m"
 				}
 			],
 			"class2": [
@@ -927,19 +660,13 @@
 					"type": "lesson",
 					"title": "Pokemon Async Lesson (1.5%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/h5pactivity/view.php?id=60684",
-					"time": "2h30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-mzhkpdwdc"
+					"time": "2h30m"
 				},
 				{
 					"type": "lesson",
 					"title": "Pokemon Forum (1.5%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/forum/view.php?id=60685",
-					"time": "30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-wnq2alshh"
+					"time": "30m"
 				}
 			],
 			"homework": [
@@ -947,10 +674,7 @@
 					"type": "assignment",
 					"title": "A6 - Pokemon",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60661",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-fhhurqe0h"
+					"time": "3h"
 				}
 			]
 		},
@@ -962,10 +686,7 @@
 					"type": "assignment",
 					"title": "A6 - Pokemon",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60661",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-z9s099z9j"
+					"time": "3h"
 				}
 			],
 			"class2": [
@@ -973,10 +694,7 @@
 					"type": "assignment",
 					"title": "A6 - Pokemon",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60661",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-86jv9lb1q"
+					"time": "3h"
 				}
 			],
 			"homework": [
@@ -984,19 +702,13 @@
 					"type": "activity",
 					"title": "A5 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60660",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-t56kmx8z6"
+					"time": "1h"
 				},
 				{
 					"type": "assignment",
 					"title": "A6 - Pokemon",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60661",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-542h7lkkn"
+					"time": "3h"
 				}
 			]
 		},
@@ -1007,19 +719,13 @@
 				{
 					"type": "cancelled",
 					"title": "Async Class - Start proposal and bring it to next class!",
-					"note": "An asynchronous class where you complete activities on your own time.",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-f9q4hz4gd"
+					"note": "An asynchronous class where you complete activities on your own time."
 				},
 				{
 					"type": "project",
 					"title": "Proposal",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-46nrwb6lp"
+					"time": "3h"
 				}
 			],
 			"class2": [
@@ -1027,28 +733,19 @@
 					"type": "quiz",
 					"title": "Q6 - Pokemon (Individual)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76711",
-					"time": "15m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-fz2tj71bd"
+					"time": "15m"
 				},
 				{
 					"type": "quiz",
 					"title": "Q6 - Pokemon (Group)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76712",
-					"time": "15m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-y1waz98mz"
+					"time": "15m"
 				},
 				{
 					"type": "project",
 					"title": "Proposal",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
-					"time": "2h30m",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-vqeno0kqc"
+					"time": "2h30m"
 				}
 			],
 			"homework": [
@@ -1056,10 +753,7 @@
 					"type": "project",
 					"title": "Proposal",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-oe9lw2duy"
+					"time": "1h"
 				}
 			]
 		},
@@ -1071,29 +765,20 @@
 					"type": "project",
 					"title": "Implementation",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-rlgfg7wcq"
+					"time": "3h"
 				}
 			],
 			"class2": [
 				{
 					"type": "cancelled",
 					"title": "Async Class - Message me with project questions!",
-					"note": "An asynchronous class where you complete activities on your own time.",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-i955vkmde"
+					"note": "An asynchronous class where you complete activities on your own time."
 				},
 				{
 					"type": "project",
 					"title": "Implementation",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-aui2qmb5l"
+					"time": "3h"
 				}
 			],
 			"homework": [
@@ -1101,19 +786,13 @@
 					"type": "activity",
 					"title": "A6 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=60661",
-					"time": "1h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-liosyoowk"
+					"time": "1h"
 				},
 				{
 					"type": "project",
 					"title": "Implementation",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
-					"time": "4h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-krb3ke6wq"
+					"time": "4h"
 				}
 			]
 		},
@@ -1124,29 +803,20 @@
 				{
 					"type": "cancelled",
 					"title": "Async Class - Message me with project questions!",
-					"note": "An asynchronous class where you complete activities on your own time.",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-dprfvrs1u"
+					"note": "An asynchronous class where you complete activities on your own time."
 				},
 				{
 					"type": "project",
 					"title": "Implementation",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
-					"time": "3h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-rj8vr9cn9"
+					"time": "3h"
 				}
 			],
 			"class2": [
 				{
 					"type": "cancelled",
 					"title": "Classes are over - Message me with project questions!",
-					"note": "An asynchronous class where you complete activities on your own time.",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-7cg902n9v"
+					"note": "An asynchronous class where you complete activities on your own time."
 				}
 			],
 			"homework": [
@@ -1154,19 +824,13 @@
 					"type": "project",
 					"title": "Implementation",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=60642",
-					"time": "4h",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-kp5utbkfa"
+					"time": "4h"
 				},
 				{
 					"type": "project",
 					"title": "Book Demo Slot",
 					"due": "DEC 12 @ NOON",
-					"link": "https://moodle.johnabbott.qc.ca/mod/scheduler/view.php?id=60644",
-					"chosen": false,
-					"selected": false,
-					"id": "activity-1787588359475-4v9h1vdph"
+					"link": "https://moodle.johnabbott.qc.ca/mod/scheduler/view.php?id=60644"
 				}
 			]
 		}
