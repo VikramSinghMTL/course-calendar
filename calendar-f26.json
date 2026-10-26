@@ -582,19 +582,13 @@
 			"class1": [
 				{
 					"type": "cancelled",
-					"title": "Async, use this time to finish A4! Message me on TEAMS with questions."
+					"title": "Async, message me on TEAMS with questions!"
 				},
 				{
 					"type": "assignment",
 					"title": "A4 - Zelda",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
-					"time": "2h50m"
-				},
-				{
-					"type": "activity",
-					"title": "Angry Birds - From Concept to Release",
-					"link": "https://youtu.be/NIF7pCZjp0E",
-					"time": "10m"
+					"time": "3h"
 				}
 			],
 			"class2": [
@@ -602,19 +596,25 @@
 					"type": "quiz",
 					"title": "Q4 - Zelda (Individual)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76707",
-					"time": "15m"
+					"time": "20m"
 				},
 				{
 					"type": "quiz",
 					"title": "Q4 - Zelda (Group)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76708",
-					"time": "15m"
+					"time": "20m"
+				},
+				{
+					"type": "activity",
+					"title": "Angry Birds - From Concept to Release",
+					"link": "https://youtu.be/NIF7pCZjp0E",
+					"time": "20m"
 				},
 				{
 					"type": "lesson",
 					"title": "Angry Birds Tutorial (2%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80009",
-					"time": "2h30m"
+					"time": "2h"
 				}
 			],
 			"homework": [
