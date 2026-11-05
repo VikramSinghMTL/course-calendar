@@ -660,6 +660,11 @@
 					"title": "Choose one: A5 - Angry Birds or A6 - Pokemon"
 				},
 				{
+					"type": "project",
+					"title": "Project Introduction",
+					"time": "20m"
+				},
+				{
 					"type": "activity",
 					"title": "The History of Pokemon",
 					"link": "https://youtu.be/Offw-N3PkoA",
@@ -669,7 +674,7 @@
 					"type": "lesson",
 					"title": "Pokemon Tutorial (2%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80010",
-					"time": "2h50m"
+					"time": "2h30m"
 				}
 			],
 			"homework": [
