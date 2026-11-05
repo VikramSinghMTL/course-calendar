@@ -656,10 +656,16 @@
 					"title": "Choose one: A5 - Angry Birds or A6 - Pokemon"
 				},
 				{
+					"type": "activity",
+					"title": "The History of Pokemon",
+					"link": "https://youtu.be/Offw-N3PkoA",
+					"time": "10m"
+				},
+				{
 					"type": "lesson",
 					"title": "Pokemon Tutorial (2%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80010",
-					"time": "3h"
+					"time": "2h50m"
 				}
 			],
 			"homework": [
@@ -679,6 +685,12 @@
 					"type": "assignment",
 					"title": "A5 - Angry Birds",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
+					"time": "1h"
+				},
+				{
+					"type": "assignment",
+					"title": "A6 - Pokemon",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
 					"time": "1h"
 				}
 			]
@@ -700,16 +712,10 @@
 					"time": "15m"
 				},
 				{
-					"type": "activity",
-					"title": "The History of Pokemon",
-					"link": "https://youtu.be/Offw-N3PkoA",
-					"time": "10m"
-				},
-				{
 					"type": "lesson",
 					"title": "Pokemon",
 					"link": "https://game.singh.gg/docs/guides/6-pokemon/",
-					"time": "2h20m"
+					"time": "2h30m"
 				}
 			],
 			"class2": [
