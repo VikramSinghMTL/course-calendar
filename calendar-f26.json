@@ -715,44 +715,50 @@
 			"startDate": "2026-11-16",
 			"class1": [
 				{
-					"type": "quiz",
-					"title": "Q5 - Angry Birds (Individual)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76709",
-					"time": "15m"
+					"type": "assignment",
+					"title": "A5 - Angry Birds",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
+					"time": "1h30m"
 				},
-				{
-					"type": "quiz",
-					"title": "Q5 - Angry Birds (Group)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76710",
-					"time": "15m"
-				},
-				{
-					"type": "lesson",
-					"title": "Pokemon",
-					"link": "https://game.singh.gg/docs/guides/6-pokemon/",
-					"time": "2h30m"
-				}
-			],
-			"class2": [
-				{
-					"type": "lesson",
-					"title": "Pokemon Tutorial (2%)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80010",
-					"time": "3h"
-				}
-			],
-			"homework": [
 				{
 					"type": "assignment",
 					"title": "A6 - Pokemon",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
-					"time": "2h"
+					"time": "1h30m"
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "A5 - Angry Birds",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
+					"time": "1h30m"
 				},
 				{
-					"type": "lesson",
-					"title": "Pokemon Tutorial (2%)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80010",
-					"time": "2h"
+					"type": "assignment",
+					"title": "A6 - Pokemon",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
+					"time": "1h30m"
+				}
+			],
+			"homework": [
+				{
+					"type": "activity",
+					"title": "A4 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
+					"time": "1h"
+				},
+				{
+					"type": "assignment",
+					"title": "A5 - Angry Birds",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
+					"time": "1h30m"
+				},
+				{
+					"type": "assignment",
+					"title": "A6 - Pokemon",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
+					"time": "1h30m"
 				}
 			]
 		},
