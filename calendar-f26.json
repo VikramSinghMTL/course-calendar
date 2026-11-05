@@ -593,6 +593,39 @@
 			],
 			"class2": [
 				{
+					"type": "assignment",
+					"title": "A4 - Zelda",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
+					"time": "3h",
+					"due": "2026-11-06"
+				},
+				{
+					"type": "activity",
+					"title": "A3 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
+					"due": "2026-11-06"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "A4 - Zelda",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
+					"time": "4h"
+				},
+				{
+					"type": "assignment",
+					"title": "Course Feedback Survey (0.5%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=76681",
+					"due": "2026-11-04"
+				}
+			]
+		},
+		{
+			"week": "W11 - NOV 09",
+			"startDate": "2026-11-09",
+			"class1": [
+				{
 					"type": "quiz",
 					"title": "Q4 - Zelda (Individual)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76707",
@@ -617,50 +650,6 @@
 					"time": "2h"
 				}
 			],
-			"homework": [
-				{
-					"type": "assignment",
-					"title": "A5 - Angry Birds",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
-					"time": "2h"
-				},
-				{
-					"type": "lesson",
-					"title": "Angry Birds Tutorial (2%)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80009",
-					"time": "2h"
-				},
-				{
-					"type": "activity",
-					"title": "A3 Workshop",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
-					"due": "2026-11-04"
-				},
-				{
-					"type": "assignment",
-					"title": "A4 - Zelda",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
-					"due": "2026-11-04"
-				},
-				{
-					"type": "assignment",
-					"title": "Course Feedback Survey (0.5%)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=76681",
-					"due": "2026-11-04"
-				}
-			]
-		},
-		{
-			"week": "W11 - NOV 09",
-			"startDate": "2026-11-09",
-			"class1": [
-				{
-					"type": "assignment",
-					"title": "A5 - Angry Birds",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
-					"time": "3h"
-				}
-			],
 			"class2": [
 				{
 					"type": "assignment",
@@ -677,10 +666,16 @@
 					"time": "1h"
 				},
 				{
+					"type": "lesson",
+					"title": "Angry Birds Tutorial (2%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80009",
+					"time": "2h"
+				},
+				{
 					"type": "assignment",
 					"title": "A5 - Angry Birds",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
-					"time": "3h"
+					"time": "1h"
 				}
 			]
 		},
