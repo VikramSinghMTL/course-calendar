@@ -652,9 +652,13 @@
 			],
 			"class2": [
 				{
-					"type": "assignment",
-					"title": "A5 - Angry Birds",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
+					"type": "note",
+					"title": "Choose one: A5 - Angry Birds or A6 - Pokemon"
+				},
+				{
+					"type": "lesson",
+					"title": "Pokemon Tutorial (2%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80010",
 					"time": "3h"
 				}
 			],
