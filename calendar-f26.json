@@ -683,7 +683,13 @@
 					"type": "lesson",
 					"title": "Angry Birds Tutorial (2%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80009",
-					"time": "2h"
+					"time": "1h"
+				},
+				{
+					"type": "lesson",
+					"title": "Pokemon Tutorial (2%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80010",
+					"time": "1h"
 				},
 				{
 					"type": "assignment",
