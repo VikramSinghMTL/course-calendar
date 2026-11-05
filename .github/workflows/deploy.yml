@@ -17,7 +17,7 @@ concurrency:
 
 # Weeks students can see. Update this range when you are ready to publish more.
 env:
-    PUBLISHED_WEEKS: 0-10
+    PUBLISHED_WEEKS: 0-11
 
 jobs:
     build:
