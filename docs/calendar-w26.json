@@ -563,6 +563,34 @@
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71160"
 				}
 			]
+		},
+		{
+			"week": "W11 - APR 06",
+			"startDate": "2026-04-06",
+			"class1": [
+				{
+					"type": "cancelled",
+					"title": "Easter Monday"
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "3h",
+					"due": "2026-04-10",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71160"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "Assignment 3 - APIs & Data Caching",
+					"time": "3h",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71160"
+				}
+			]
 		}
 	]
 }

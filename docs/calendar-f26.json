@@ -593,6 +593,43 @@
 			],
 			"class2": [
 				{
+					"type": "cancelled",
+					"title": "Async, message me on TEAMS with questions!"
+				},
+				{
+					"type": "assignment",
+					"title": "A4 - Zelda",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
+					"time": "3h",
+					"due": "2026-11-06"
+				},
+				{
+					"type": "activity",
+					"title": "A3 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
+					"due": "2026-11-06"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "A4 - Zelda",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
+					"time": "4h"
+				},
+				{
+					"type": "assignment",
+					"title": "Course Feedback Survey (0.5%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=76681",
+					"due": "2026-11-04"
+				}
+			]
+		},
+		{
+			"week": "W11 - NOV 09",
+			"startDate": "2026-11-09",
+			"class1": [
+				{
 					"type": "quiz",
 					"title": "Q4 - Zelda (Individual)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76707",
@@ -617,36 +654,59 @@
 					"time": "2h"
 				}
 			],
+			"class2": [
+				{
+					"type": "note",
+					"title": "Choose one: A5 - Angry Birds or A6 - Pokemon"
+				},
+				{
+					"type": "project",
+					"title": "Project Introduction",
+					"time": "20m"
+				},
+				{
+					"type": "activity",
+					"title": "The History of Pokemon",
+					"link": "https://youtu.be/Offw-N3PkoA",
+					"time": "10m"
+				},
+				{
+					"type": "lesson",
+					"title": "Pokemon Tutorial (2%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80010",
+					"time": "2h30m"
+				}
+			],
 			"homework": [
 				{
-					"type": "assignment",
-					"title": "A5 - Angry Birds",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
-					"time": "2h"
+					"type": "activity",
+					"title": "A4 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
+					"time": "1h"
 				},
 				{
 					"type": "lesson",
 					"title": "Angry Birds Tutorial (2%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80009",
-					"time": "2h"
+					"time": "1h"
 				},
 				{
-					"type": "activity",
-					"title": "A3 Workshop",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76692",
-					"due": "2026-11-04"
-				},
-				{
-					"type": "assignment",
-					"title": "A4 - Zelda",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
-					"due": "2026-11-04"
+					"type": "lesson",
+					"title": "Pokemon Tutorial (2%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=80010",
+					"time": "1h"
 				},
 				{
 					"type": "assignment",
-					"title": "Course Feedback Survey (0.5%)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/feedback/view.php?id=76681",
-					"due": "2026-11-04"
+					"title": "A5 - Angry Birds",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
+					"time": "30m"
+				},
+				{
+					"type": "assignment",
+					"title": "A6 - Pokemon",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
+					"time": "30m"
 				}
 			]
 		}

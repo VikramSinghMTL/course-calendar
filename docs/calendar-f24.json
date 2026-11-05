@@ -554,6 +554,41 @@
 					"time": "2h"
 				}
 			]
+		},
+		{
+			"week": "W11 - NOV 04",
+			"startDate": "2024-11-04",
+			"class1": [
+				{
+					"type": "assignment",
+					"title": "A5 - Angry Birds",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38981",
+					"time": "3h"
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "A5 - Angry Birds",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38981",
+					"time": "3h"
+				}
+			],
+			"homework": [
+				{
+					"type": "activity",
+					"title": "A4 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38980",
+					"time": "1h",
+					"due": "DUE NOV 10"
+				},
+				{
+					"type": "assignment",
+					"title": "A5 - Angry Birds",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38981",
+					"time": "3h"
+				}
+			]
 		}
 	]
 }
