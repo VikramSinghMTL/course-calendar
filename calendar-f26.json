@@ -784,6 +784,24 @@
 			"homework": [
 				{
 					"type": "activity",
+					"title": "A4 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
+					"due": "2026-11-23"
+				},
+				{
+					"type": "assignment",
+					"title": "A5 - Angry Birds",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
+					"due": "2026-11-23"
+				},
+				{
+					"type": "assignment",
+					"title": "A6 - Pokemon",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
+					"due": "2026-11-23"
+				},
+				{
+					"type": "activity",
 					"title": "A5 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
 					"time": "1h"
