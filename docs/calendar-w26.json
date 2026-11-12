@@ -591,6 +591,182 @@
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71160"
 				}
 			]
+		},
+		{
+			"week": "W12 - APR 13",
+			"startDate": "2026-04-13",
+			"class1": [
+				{
+					"type": "quiz",
+					"title": "Quiz 3",
+					"time": "15m",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=71285"
+				},
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 3",
+					"time": "1h",
+					"due": "2026-04-17",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71160"
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - Auth",
+					"time": "1h",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71288"
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - Auth",
+					"time": "1.5h",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71288"
+				}
+			],
+			"homework": [
+				{
+					"type": "lesson",
+					"title": "4.1 - Auth Fundamentals",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-4/41-auth-fundamentals/",
+					"time": "30m"
+				},
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - Auth",
+					"time": "3h",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71288"
+				}
+			]
+		},
+		{
+			"week": "W13 - APR 20",
+			"startDate": "2026-04-20",
+			"class1": [
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - Auth",
+					"time": "3h",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71288"
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - Auth",
+					"time": "1.5h",
+					"due": "2026-04-24",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71288"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "Assignment 4 - Auth",
+					"time": "3h",
+					"due": "",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71288"
+				}
+			]
+		},
+		{
+			"week": "W14 - APR 27",
+			"startDate": "2026-04-27",
+			"class1": [
+				{
+					"type": "quiz",
+					"title": "Quiz 4",
+					"time": "15m",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=71664"
+				},
+				{
+					"type": "activity",
+					"title": "Peer Assessment for Assignment 4",
+					"time": "1h",
+					"due": "2026-05-01",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=71288"
+				},
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "3h",
+					"link": "https://john-abbott-college.github.io/6A6-Notes/chapter-2/assignment-2/#1-route-plan"
+				}
+			],
+			"class2": [
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "1.5h"
+				}
+			],
+			"homework": [
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "3h"
+				}
+			]
+		},
+		{
+			"week": "W15 - MAY 04",
+			"startDate": "2026-05-04",
+			"class1": [
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "3h"
+				}
+			],
+			"class2": [
+				{
+					"type": "cancelled",
+					"title": "Message me with M4 questions!"
+				},
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "1.5h"
+				}
+			],
+			"homework": [
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "3h"
+				}
+			]
+		},
+		{
+			"week": "W16 - MAY 11",
+			"startDate": "2026-04-09",
+			"class1": [
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "3h"
+				}
+			],
+			"class2": [
+				{
+					"type": "project",
+					"title": "Milestone 4 Demos",
+					"time": "1.5h",
+					"due": "2026-05-14",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=71956"
+				}
+			],
+			"homework": [
+				{
+					"type": "project",
+					"title": "Project",
+					"time": "3h"
+				}
+			]
 		}
 	]
 }

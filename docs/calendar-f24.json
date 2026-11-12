@@ -589,6 +589,236 @@
 					"time": "3h"
 				}
 			]
+		},
+		{
+			"week": "W12 - NOV 11",
+			"startDate": "2024-11-11",
+			"class1": [
+				{
+					"type": "quiz",
+					"title": "Q5 - Angry Birds (Individual)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=38996",
+					"time": "15m"
+				},
+				{
+					"type": "quiz",
+					"title": "Q5 - Angry Birds (Group)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=38997",
+					"time": "15m"
+				},
+				{
+					"type": "activity",
+					"title": "Peer Feedback Activity",
+					"link": "https://bit.ly/Vik-Post-Survey",
+					"time": "1h"
+				},
+				{
+					"type": "lesson",
+					"title": "Pokemon",
+					"link": "https://vikramsinghmtl.github.io/420-5P6-Game-Programming/guides/6-pokemon/",
+					"time": "1h30m"
+				}
+			],
+			"class2": [
+				{
+					"type": "cancelled",
+					"title": "Async Class ⓘ",
+					"note": "An asynchronous class where you complete activities on your own time."
+				},
+				{
+					"type": "lesson",
+					"title": "Pokemon Async Lesson (1.5%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/h5pactivity/view.php?id=39005",
+					"time": "2h30m"
+				},
+				{
+					"type": "lesson",
+					"title": "Pokemon Forum (1.5%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/forum/view.php?id=39006",
+					"time": "30m"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "A5 - Angry Birds",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38981",
+					"time": "1h",
+					"due": "DUE NOV 13"
+				},
+				{
+					"type": "assignment",
+					"title": "A6 - Pokemon",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38982",
+					"time": "3h"
+				}
+			]
+		},
+		{
+			"week": "W13 - NOV 18",
+			"startDate": "2024-11-18",
+			"class1": [
+				{
+					"type": "cancelled",
+					"title": "Class Cancelled"
+				},
+				{
+					"type": "assignment",
+					"title": "A6 - Pokemon",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38982",
+					"time": "3h"
+				}
+			],
+			"class2": [
+				{
+					"type": "assignment",
+					"title": "A6 - Pokemon",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38982",
+					"time": "3h"
+				}
+			],
+			"homework": [
+				{
+					"type": "activity",
+					"title": "A5 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38981",
+					"time": "1h",
+					"due": "DUE NOV 24"
+				},
+				{
+					"type": "assignment",
+					"title": "A6 - Pokemon",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38982",
+					"time": "3h"
+				}
+			]
+		},
+		{
+			"week": "W14 - NOV 25",
+			"startDate": "2024-11-25",
+			"class1": [
+				{
+					"type": "quiz",
+					"title": "Q6 - Pokemon (Individual)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=38998",
+					"time": "15m"
+				},
+				{
+					"type": "quiz",
+					"title": "Q6 - Pokemon (Group)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=38999",
+					"time": "15m"
+				},
+				{
+					"type": "project",
+					"title": "Proposal",
+					"link": "https://moodle.johnabbott.qc.ca/mod/`assign/view.php?id=38969",
+					"time": "2h30m"
+				}
+			],
+			"class2": [
+				{
+					"type": "cancelled",
+					"title": "Async Class - Finish proposal and message me ASAP!",
+					"note": "An asynchronous class where you complete activities on your own time."
+				},
+				{
+					"type": "project",
+					"title": "Proposal",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"time": "3h"
+				}
+			],
+			"homework": [
+				{
+					"type": "assignment",
+					"title": "A6 - Pokemon",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38982",
+					"time": "3h",
+					"due": "DUE NOV 25"
+				},
+				{
+					"type": "project",
+					"title": "Proposal",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"time": "1h",
+					"due": "DUE NOV 29"
+				}
+			]
+		},
+		{
+			"week": "W15 - DEC 02",
+			"startDate": "2024-12-02",
+			"class1": [
+				{
+					"type": "project",
+					"title": "Implementation",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"time": "3h"
+				}
+			],
+			"class2": [
+				{
+					"type": "cancelled",
+					"title": "Async Class - Message me with project questions!",
+					"note": "An asynchronous class where you complete activities on your own time."
+				},
+				{
+					"type": "project",
+					"title": "Implementation",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"time": "3h"
+				}
+			],
+			"homework": [
+				{
+					"type": "activity",
+					"title": "A6 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=38982",
+					"time": "1h",
+					"due": "DUE DEC 08"
+				},
+				{
+					"type": "project",
+					"title": "Implementation",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"time": "4h"
+				}
+			]
+		},
+		{
+			"week": "W16 - DEC 09",
+			"startDate": "2024-12-09",
+			"class1": [
+				{
+					"type": "project",
+					"title": "Implementation",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"time": "3h"
+				}
+			],
+			"class2": [
+				{
+					"type": "project",
+					"title": "Implementation",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"time": "3h"
+				}
+			],
+			"homework": [
+				{
+					"type": "project",
+					"title": "Implementation",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=38969",
+					"time": "4h",
+					"due": "DUE @ YOUR DEMO TIME"
+				},
+				{
+					"type": "project",
+					"title": "Book Demo Slot",
+					"link": "https://moodle.johnabbott.qc.ca/mod/scheduler/view.php?id=38971"
+				}
+			]
 		}
 	]
 }
