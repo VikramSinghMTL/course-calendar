@@ -662,6 +662,7 @@
 				{
 					"type": "project",
 					"title": "Project Introduction",
+					"link": "https://classroom50.org/JAC-CS-Game-Programming-F26/game-programming/assignments/final-project/accept",
 					"time": "20m"
 				},
 				{
@@ -715,16 +716,11 @@
 			"startDate": "2026-11-16",
 			"class1": [
 				{
-					"type": "assignment",
-					"title": "A5 - Angry Birds",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
-					"time": "1h30m"
-				},
-				{
-					"type": "assignment",
-					"title": "A6 - Pokemon",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
-					"time": "1h30m"
+					"type": "project",
+					"title": "Proposal (5%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76678",
+					"time": "3h",
+					"due": "2026-11-17"
 				}
 			],
 			"class2": [
@@ -767,17 +763,17 @@
 			"startDate": "2026-11-23",
 			"class1": [
 				{
-					"type": "assignment",
-					"title": "A6 - Pokemon",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
+					"type": "project",
+					"title": "Final (20%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "3h"
 				}
 			],
 			"class2": [
 				{
-					"type": "assignment",
-					"title": "A6 - Pokemon",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
+					"type": "project",
+					"title": "Final (20%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "3h"
 				}
 			],
@@ -807,9 +803,9 @@
 					"time": "1h"
 				},
 				{
-					"type": "assignment",
-					"title": "A6 - Pokemon",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
+					"type": "project",
+					"title": "Final (20%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "3h"
 				}
 			]
@@ -820,13 +816,13 @@
 			"class1": [
 				{
 					"type": "cancelled",
-					"title": "Async Class - Start proposal and bring it to next class!",
+					"title": "Async Class - Work on your project!",
 					"note": "An asynchronous class where you complete activities on your own time."
 				},
 				{
 					"type": "project",
-					"title": "Proposal",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76678",
+					"title": "Final (20%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "3h"
 				}
 			],
@@ -845,17 +841,23 @@
 				},
 				{
 					"type": "project",
-					"title": "Proposal",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76678",
+					"title": "Final (20%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "2h30m"
 				}
 			],
 			"homework": [
 				{
 					"type": "project",
-					"title": "Proposal",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76678",
-					"time": "4h"
+					"title": "Final (20%)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
+					"time": "3h50m"
+				},
+				{
+					"type": "project",
+					"title": "Copy the Slice Feedback Form",
+					"link": "https://game.singh.gg/docs/TODO-slice-feedback-form",
+					"time": "10m"
 				}
 			]
 		},
@@ -865,9 +867,10 @@
 			"class1": [
 				{
 					"type": "project",
-					"title": "Implementation",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
-					"time": "3h"
+					"title": "Vertical Slice (5%)",
+					"link": "https://game.singh.gg/docs/project/requirements",
+					"time": "3h",
+					"due": "2026-12-08"
 				}
 			],
 			"class2": [
@@ -878,9 +881,16 @@
 				},
 				{
 					"type": "project",
-					"title": "Implementation",
+					"title": "Final (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
-					"time": "3h"
+					"time": "2h30m"
+				},
+				{
+					"type": "project",
+					"title": "Contract Amendment",
+					"link": "https://game.singh.gg/docs/project/requirements",
+					"time": "30m",
+					"due": "2026-12-11"
 				}
 			],
 			"homework": [
@@ -892,7 +902,7 @@
 				},
 				{
 					"type": "project",
-					"title": "Implementation",
+					"title": "Final (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "3h"
 				}
@@ -909,7 +919,7 @@
 				},
 				{
 					"type": "project",
-					"title": "Implementation",
+					"title": "Final (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "3h"
 				}
@@ -922,22 +932,30 @@
 				},
 				{
 					"type": "project",
-					"title": "Implementation",
+					"title": "Final (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
-					"time": "3h"
+					"time": "3h",
+					"due": "2026-12-17"
+				},
+				{
+					"type": "project",
+					"title": "Teammate Rating",
+					"link": "https://forms.office.com/TODO-teammate-rating",
+					"due": "2026-12-17"
 				}
 			],
 			"homework": [
 				{
 					"type": "project",
-					"title": "Implementation",
+					"title": "Final (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
-					"time": "4h"
+					"time": "3h"
 				},
 				{
-					"type": "project",
-					"title": "Book Demo Slot",
-					"link": "https://moodle.johnabbott.qc.ca/mod/scheduler/view.php?id=76679"
+					"type": "activity",
+					"title": "Game Jam Voting (until Dec 22)",
+					"link": "https://itch.io/jam/TODO-JAM-LINK",
+					"time": "1h"
 				}
 			]
 		}
