@@ -763,10 +763,18 @@
 			"startDate": "2026-11-23",
 			"class1": [
 				{
-					"type": "project",
-					"title": "Final (20%)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
-					"time": "3h"
+					"type": "assignment",
+					"title": "A5 - Angry Birds",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
+					"time": "1h30m",
+					"due": "2026-11-24"
+				},
+				{
+					"type": "assignment",
+					"title": "A6 - Pokemon",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
+					"time": "1h30m",
+					"due": "2026-11-24"
 				}
 			],
 			"class2": [
@@ -775,6 +783,12 @@
 					"title": "Final (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "3h"
+				},
+				{
+					"type": "activity",
+					"title": "A4 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
+					"due": "2026-11-27"
 				}
 			],
 			"homework": [
@@ -782,24 +796,6 @@
 					"type": "activity",
 					"title": "A4 Workshop",
 					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76693",
-					"due": "2026-11-23"
-				},
-				{
-					"type": "assignment",
-					"title": "A5 - Angry Birds",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
-					"due": "2026-11-23"
-				},
-				{
-					"type": "assignment",
-					"title": "A6 - Pokemon",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
-					"due": "2026-11-23"
-				},
-				{
-					"type": "activity",
-					"title": "A5 Workshop",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
 					"time": "1h"
 				},
 				{
@@ -815,35 +811,44 @@
 			"startDate": "2026-11-30",
 			"class1": [
 				{
-					"type": "cancelled",
-					"title": "Async Class - Work on your project!",
-					"note": "An asynchronous class where you complete activities on your own time."
+					"type": "activity",
+					"title": "A5 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76694",
+					"time": "1h",
+					"due": "2026-12-01"
+				},
+				{
+					"type": "activity",
+					"title": "A6 Workshop",
+					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
+					"time": "1h",
+					"due": "2026-12-01"
 				},
 				{
 					"type": "project",
 					"title": "Final (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
-					"time": "3h"
+					"time": "1h"
 				}
 			],
 			"class2": [
 				{
 					"type": "quiz",
-					"title": "Q6 - Pokemon (Individual)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76711",
-					"time": "15m"
+					"title": "Q5/6 - Angry Birds & Pokemon (Individual)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76709",
+					"time": "30m"
 				},
 				{
 					"type": "quiz",
-					"title": "Q6 - Pokemon (Group)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76712",
-					"time": "15m"
+					"title": "Q5/6 - Angry Birds & Pokemon (Group)",
+					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76710",
+					"time": "30m"
 				},
 				{
 					"type": "project",
 					"title": "Final (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
-					"time": "2h30m"
+					"time": "2h"
 				}
 			],
 			"homework": [
@@ -876,7 +881,7 @@
 			"class2": [
 				{
 					"type": "cancelled",
-					"title": "Async Class - Message me with project questions!",
+					"title": "Classes over - Message me with project questions!",
 					"note": "An asynchronous class where you complete activities on your own time."
 				},
 				{
@@ -895,16 +900,10 @@
 			],
 			"homework": [
 				{
-					"type": "activity",
-					"title": "A6 Workshop",
-					"link": "https://moodle.johnabbott.qc.ca/mod/workshop/view.php?id=76695",
-					"time": "1h"
-				},
-				{
 					"type": "project",
 					"title": "Final (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
-					"time": "3h"
+					"time": "4h"
 				}
 			]
 		},
@@ -914,7 +913,7 @@
 			"class1": [
 				{
 					"type": "cancelled",
-					"title": "Async Class - Message me with project questions!",
+					"title": "Classes over - Message me with project questions!",
 					"note": "An asynchronous class where you complete activities on your own time."
 				},
 				{
@@ -927,7 +926,7 @@
 			"class2": [
 				{
 					"type": "cancelled",
-					"title": "Classes are over - Message me with project questions!",
+					"title": "Classes over - Message me with project questions!",
 					"note": "An asynchronous class where you complete activities on your own time."
 				},
 				{
