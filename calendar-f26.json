@@ -716,6 +716,10 @@
 			"startDate": "2026-11-16",
 			"class1": [
 				{
+					"type": "cancelled",
+					"title": "Async - Form your team and submit your proposal by end of day!"
+				},
+				{
 					"type": "project",
 					"title": "Proposal (5%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76678",
@@ -724,6 +728,16 @@
 				}
 			],
 			"class2": [
+				{
+					"type": "note",
+					"title": "Optional: resubmit your proposal with my feedback. You must message me on Teams or I won't regrade it!"
+				},
+				{
+					"type": "project",
+					"title": "Proposal Resubmission",
+					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76678",
+					"due": "2026-11-20"
+				},
 				{
 					"type": "assignment",
 					"title": "A5 - Angry Birds",
@@ -930,17 +944,10 @@
 					"note": "An asynchronous class where you complete activities on your own time."
 				},
 				{
-					"type": "project",
-					"title": "Final (20%)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
-					"time": "3h",
-					"due": "2026-12-16"
-				},
-				{
-					"type": "project",
-					"title": "Teammate Rating",
-					"link": "https://forms.office.com/TODO-teammate-rating",
-					"due": "2026-12-16"
+					"type": "activity",
+					"title": "Game Jam Voting (until Dec 22)",
+					"link": "https://itch.io/jam/TODO-JAM-LINK",
+					"time": "3h"
 				}
 			],
 			"homework": [
@@ -948,13 +955,14 @@
 					"type": "project",
 					"title": "Final (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
-					"time": "3h"
+					"time": "4h",
+					"due": "2026-12-16"
 				},
 				{
-					"type": "activity",
-					"title": "Game Jam Voting (until Dec 22)",
-					"link": "https://itch.io/jam/TODO-JAM-LINK",
-					"time": "1h"
+					"type": "project",
+					"title": "Teammate Rating",
+					"link": "https://forms.office.com/TODO-teammate-rating",
+					"due": "2026-12-16"
 				}
 			]
 		}
