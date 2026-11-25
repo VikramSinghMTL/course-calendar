@@ -810,7 +810,7 @@
 				},
 				{
 					"type": "project",
-					"title": "Final (20%)",
+					"title": "Work on project (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "1h"
 				},
@@ -831,7 +831,7 @@
 				},
 				{
 					"type": "project",
-					"title": "Final (20%)",
+					"title": "Work on project (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "3h"
 				}
@@ -843,7 +843,7 @@
 			"class1": [
 				{
 					"type": "project",
-					"title": "Final (20%)",
+					"title": "Work on project (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "3h"
 				}
@@ -863,7 +863,7 @@
 				},
 				{
 					"type": "project",
-					"title": "Final (20%)",
+					"title": "Work on project (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "1h"
 				}
@@ -871,7 +871,7 @@
 			"homework": [
 				{
 					"type": "project",
-					"title": "Final (20%)",
+					"title": "Work on project (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "3h50m"
 				},
@@ -915,7 +915,7 @@
 				},
 				{
 					"type": "project",
-					"title": "Final (20%)",
+					"title": "Work on project (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "2h30m"
 				},
@@ -930,7 +930,7 @@
 			"homework": [
 				{
 					"type": "project",
-					"title": "Final (20%)",
+					"title": "Work on project (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "4h"
 				}
@@ -947,7 +947,7 @@
 				},
 				{
 					"type": "project",
-					"title": "Final (20%)",
+					"title": "Work on project (20%)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
 					"time": "3h"
 				}
@@ -967,10 +967,28 @@
 			],
 			"homework": [
 				{
+					"type": "note",
+					"title": "Submit final project by doing the following:"
+				},
+				{
 					"type": "project",
-					"title": "Final (20%)",
-					"link": "https://moodle.johnabbott.qc.ca/mod/assign/view.php?id=76677",
-					"time": "4h",
+					"title": "Record video",
+					"link": "https://game.singh.gg/docs/project/requirements/#-video",
+					"time": "1h30m",
+					"due": "2026-12-16"
+				},
+				{
+					"type": "project",
+					"title": "README Evidence",
+					"link": "https://game.singh.gg/docs/project/requirements/#-readme-evidence",
+					"time": "1h",
+					"due": "2026-12-16"
+				},
+				{
+					"type": "project",
+					"title": "Finish devlog",
+					"link": "https://game.singh.gg/docs/project/requirements/#-devlog",
+					"time": "1h30m",
 					"due": "2026-12-16"
 				},
 				{
