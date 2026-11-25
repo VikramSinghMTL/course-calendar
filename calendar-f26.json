@@ -793,6 +793,10 @@
 			],
 			"class2": [
 				{
+					"type": "note",
+					"title": "Quiz starts at 9:00 - enjoy the extra sleep!"
+				},
+				{
 					"type": "quiz",
 					"title": "Q5/6 - PokéBirds (Individual)",
 					"link": "https://moodle.johnabbott.qc.ca/mod/quiz/view.php?id=76709",
